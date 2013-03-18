@@ -1,0 +1,48 @@
+﻿<Window x:Class="ListBinding2.Window1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="clr-namespace:ListBinding2"
+    Title="Window1" Height="300" Width="405">
+
+    <Grid Name="grid1">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+
+        <ListBox Name="lBoxPerson" Grid.Row="0" Grid.Column="1" 
+                 ItemsSource="{Binding}" IsSynchronizedWithCurrentItem="True" Margin="5">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <TextBlock>
+                        <TextBlock Text="{Binding Path=Name}" /> (age: <TextBlock Text="{Binding Path=Age}" />)
+                    </TextBlock>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+
+        <TextBlock Grid.Row="1" Grid.Column="0" Margin="5" VerticalAlignment="Center">Name:</TextBlock>
+        <TextBox Grid.Row="1" Grid.Column="1" Margin="5" 
+                 Text="{Binding Path=Name}" />
+        <TextBlock Grid.Row="2" Grid.Column="0" Margin="5" VerticalAlignment="Center">Age:</TextBlock>
+        <TextBox Grid.Row="2" Grid.Column="1" Margin="5" 
+                 Text="{Binding Path=Age}" Loaded="TextBox_Loaded" />
+        <StackPanel Grid.Row="3" Grid.Column="1" Orientation="Horizontal">
+            <Button Name="birthdayButton" Width="75" Margin="5">Birthday</Button>
+            <Button Name="backButton" Width="75" Margin="5">&lt;</Button>
+            <Button Name="forwardButton" Width="75" Margin="5" Click="forwardButton_Click">&gt;</Button>
+        </StackPanel>
+        <StackPanel Grid.Row="4" Grid.Column="1" Orientation="Horizontal">
+            <Button Name="addButton" Width="75" Margin="5" Content="Add Chris"></Button>
+            <Button Name="sortButton" Width="75" Margin="5" >Sort</Button>
+            <Button Name="filterButton" Width="75" Margin="5">Filter</Button>
+        </StackPanel>
+    </Grid>
+</Window>

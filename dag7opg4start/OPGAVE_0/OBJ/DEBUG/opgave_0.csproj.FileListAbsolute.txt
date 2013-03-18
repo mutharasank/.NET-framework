@@ -1,0 +1,29 @@
+C:\vs2012_11V\dag08\opgave_0\opgave_0\bin\Debug\opgave_0.exe.config
+C:\vs2012_11V\dag08\opgave_0\opgave_0\bin\Debug\opgave_0.exe
+C:\vs2012_11V\dag08\opgave_0\opgave_0\bin\Debug\opgave_0.pdb
+C:\vs2012_11V\dag08\opgave_0\opgave_0\obj\Debug\opgave_0.csprojResolveAssemblyReference.cache
+C:\vs2012_11V\dag08\opgave_0\opgave_0\obj\Debug\MainWindow.baml
+C:\vs2012_11V\dag08\opgave_0\opgave_0\obj\Debug\MainWindow.g.cs
+C:\vs2012_11V\dag08\opgave_0\opgave_0\obj\Debug\App.g.cs
+C:\vs2012_11V\dag08\opgave_0\opgave_0\obj\Debug\opgave_0_MarkupCompile.cache
+C:\vs2012_11V\dag08\opgave_0\opgave_0\obj\Debug\opgave_0.g.resources
+C:\vs2012_11V\dag08\opgave_0\opgave_0\obj\Debug\opgave_0.Properties.Resources.resources
+C:\vs2012_11V\dag08\opgave_0\opgave_0\obj\Debug\opgave_0.csproj.GenerateResource.Cache
+C:\vs2012_11V\dag08\opgave_0\opgave_0\obj\Debug\opgave_0.exe
+C:\vs2012_11V\dag08\opgave_0\opgave_0\obj\Debug\opgave_0.pdb
+C:\vs2012_11V\dag08\opg0start\opgave_0\bin\Debug\opgave_0.exe.config
+C:\vs2012_11V\dag08\opg0start\opgave_0\obj\Debug\opgave_0.exe
+C:\vs2012_11V\dag08\opg0start\opgave_0\obj\Debug\opgave_0.pdb
+C:\vs2012_11V\dag08\opg0start\opgave_0\bin\Debug\opgave_0.exe
+C:\vs2012_11V\dag08\opg0start\opgave_0\bin\Debug\opgave_0.pdb
+C:\vs2012_11V\dag08\opg0start\opgave_0\obj\Debug\opgave_0.csprojResolveAssemblyReference.cache
+C:\vs2012_11V\dag08\opg0start\opgave_0\obj\Debug\MainWindow.baml
+C:\vs2012_11V\dag08\opg0start\opgave_0\obj\Debug\MainWindow.g.cs
+C:\vs2012_11V\dag08\opg0start\opgave_0\obj\Debug\App.g.cs
+C:\vs2012_11V\dag08\opg0start\opgave_0\obj\Debug\opgave_0_MarkupCompile.cache
+C:\vs2012_11V\dag08\opg0start\opgave_0\obj\Debug\opgave_0.g.resources
+C:\vs2012_11V\dag08\opg0start\opgave_0\obj\Debug\opgave_0.Properties.Resources.resources
+C:\vs2012_11V\dag08\opg0start\opgave_0\obj\Debug\opgave_0.csproj.GenerateResource.Cache
+C:\vs_proj2012_11s\dag07 opgaver\dag7opg4start\opgave_0\bin\Debug\opgave_0.exe.config
+C:\vs_proj2012_11s\dag07 opgaver\dag7opg4start\opgave_0\obj\Debug\opgave_0.exe
+C:\vs_proj2012_11s\dag07 opgaver\dag7opg4start\opgave_0\obj\Debug\opgave_0.pdb

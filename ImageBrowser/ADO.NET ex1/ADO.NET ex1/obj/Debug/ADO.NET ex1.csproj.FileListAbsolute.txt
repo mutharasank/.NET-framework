@@ -1,0 +1,13 @@
+D:\WorkspaceVisualStudio\ImageBrowser\ADO.NET ex1\ADO.NET ex1\bin\Debug\ADO.NET ex1.exe.config
+D:\WorkspaceVisualStudio\ImageBrowser\ADO.NET ex1\ADO.NET ex1\obj\Debug\MainWindow.baml
+D:\WorkspaceVisualStudio\ImageBrowser\ADO.NET ex1\ADO.NET ex1\obj\Debug\MainWindow.g.cs
+D:\WorkspaceVisualStudio\ImageBrowser\ADO.NET ex1\ADO.NET ex1\obj\Debug\App.g.cs
+D:\WorkspaceVisualStudio\ImageBrowser\ADO.NET ex1\ADO.NET ex1\obj\Debug\ADO.NET ex1_MarkupCompile.cache
+D:\WorkspaceVisualStudio\ImageBrowser\ADO.NET ex1\ADO.NET ex1\obj\Debug\ADO.NET ex1.g.resources
+D:\WorkspaceVisualStudio\ImageBrowser\ADO.NET ex1\ADO.NET ex1\obj\Debug\ADO.NET_ex1.Properties.Resources.resources
+D:\WorkspaceVisualStudio\ImageBrowser\ADO.NET ex1\ADO.NET ex1\obj\Debug\ADO.NET ex1.csproj.GenerateResource.Cache
+D:\WorkspaceVisualStudio\ImageBrowser\ADO.NET ex1\ADO.NET ex1\bin\Debug\ADO.NET ex1.exe
+D:\WorkspaceVisualStudio\ImageBrowser\ADO.NET ex1\ADO.NET ex1\bin\Debug\ADO.NET ex1.pdb
+D:\WorkspaceVisualStudio\ImageBrowser\ADO.NET ex1\ADO.NET ex1\obj\Debug\ADO.NET ex1.exe
+D:\WorkspaceVisualStudio\ImageBrowser\ADO.NET ex1\ADO.NET ex1\obj\Debug\ADO.NET ex1.pdb
+D:\WorkspaceVisualStudio\ImageBrowser\ADO.NET ex1\ADO.NET ex1\obj\Debug\ADO.NET ex1.csprojResolveAssemblyReference.cache

@@ -1,0 +1,22 @@
+C:\vs_proj2008\spectronic\demo\DELEGATEEKS1\DelegateEks1\obj\Debug\DelegateEks1.exe
+C:\vs_proj2008\spectronic\demo\DELEGATEEKS1\DelegateEks1\obj\Debug\DelegateEks1.pdb
+C:\vs_proj2008\spectronic\demo\DELEGATEEKS1\DelegateEks1\bin\Debug\DelegateEks1.exe
+C:\vs_proj2008\spectronic\demo\DELEGATEEKS1\DelegateEks1\bin\Debug\DelegateEks1.pdb
+C:\vs_proj2008\spectronic\demo\DELEGATEEKS1\DelegateEks1\obj\Debug\ResolveAssemblyReference.cache
+c:\vs_proj2008_07V\demo\delegate_events\DELEGATEEKS1\DelegateEks1\obj\Debug\DelegateEks1.exe
+c:\vs_proj2008_07V\demo\delegate_events\DELEGATEEKS1\DelegateEks1\obj\Debug\DelegateEks1.pdb
+C:\vs_proj2010\10Vdemo\day3\DELEGATEEKS1\DelegateEks1\obj\Debug\DelegateEks1.exe
+C:\vs_proj2010\10Vdemo\day3\DELEGATEEKS1\DelegateEks1\obj\Debug\DelegateEks1.pdb
+c:\vs_proj2010\10Vdemo\day3\DELEGATEEKS1\DelegateEks1\bin\Debug\DelegateEks1.exe
+c:\vs_proj2010\10Vdemo\day3\DELEGATEEKS1\DelegateEks1\bin\Debug\DelegateEks1.pdb
+c:\vs_proj2010\10Vdemo\day3\DELEGATEEKS1\DelegateEks1\obj\Debug\ResolveAssemblyReference.cache
+Z:\2013-SPRING\11T-C#\Day 04 - C# sproget 3\delegate_examples\DELEGATEEKS1\DelegateEks1\obj\Debug\DelegateEks1.exe
+Z:\2013-SPRING\11T-C#\Day 04 - C# sproget 3\delegate_examples\DELEGATEEKS1\DelegateEks1\obj\Debug\DelegateEks1.pdb
+Z:\2013-SPRING\11T-C#\Day 04 - C# sproget 3\delegate_examples\DELEGATEEKS1\DelegateEks1\bin\Debug\DelegateEks1.exe
+Z:\2013-SPRING\11T-C#\Day 04 - C# sproget 3\delegate_examples\DELEGATEEKS1\DelegateEks1\bin\Debug\DelegateEks1.pdb
+Z:\2013-SPRING\11T-C#\Day 04 - C# sproget 3\delegate_examples\DELEGATEEKS1\DelegateEks1\obj\Debug\DelegateEks1.csprojResolveAssemblyReference.cache
+D:\WorkspaceVisualStudio\DELEGATEEKS1\DelegateEks1\obj\Debug\DelegateEks1.exe
+D:\WorkspaceVisualStudio\DELEGATEEKS1\DelegateEks1\obj\Debug\DelegateEks1.pdb
+D:\WorkspaceVisualStudio\DELEGATEEKS1\DelegateEks1\obj\Debug\DelegateEks1.csprojResolveAssemblyReference.cache
+D:\WorkspaceVisualStudio\DELEGATEEKS1\DelegateEks1\bin\Debug\DelegateEks1.exe
+D:\WorkspaceVisualStudio\DELEGATEEKS1\DelegateEks1\bin\Debug\DelegateEks1.pdb

@@ -1,0 +1,83 @@
+C:\vs_proj2008\spectronic\demo\LayoutPanels\LayoutPanels\bin\Debug\LayoutPanels.exe
+C:\vs_proj2008\spectronic\demo\LayoutPanels\LayoutPanels\bin\Debug\LayoutPanels.pdb
+C:\vs_proj2008\spectronic\demo\LayoutPanels\LayoutPanels\obj\Debug\ResolveAssemblyReference.cache
+C:\vs_proj2008\spectronic\demo\LayoutPanels\LayoutPanels\obj\Debug\WindowStackPanel.baml
+C:\vs_proj2008\spectronic\demo\LayoutPanels\LayoutPanels\obj\Debug\WindowWrapPanel.baml
+C:\vs_proj2008\spectronic\demo\LayoutPanels\LayoutPanels\obj\Debug\WindowStackPanel.g.cs
+C:\vs_proj2008\spectronic\demo\LayoutPanels\LayoutPanels\obj\Debug\WindowWrapPanel.g.cs
+C:\vs_proj2008\spectronic\demo\LayoutPanels\LayoutPanels\obj\Debug\App.g.cs
+C:\vs_proj2008\spectronic\demo\LayoutPanels\LayoutPanels\obj\Debug\LayoutPanels_MarkupCompile.cache
+C:\vs_proj2008\spectronic\demo\LayoutPanels\LayoutPanels\obj\Debug\LayoutPanels.g.resources
+C:\vs_proj2008\spectronic\demo\LayoutPanels\LayoutPanels\obj\Debug\LayoutPanels.Properties.Resources.resources
+C:\vs_proj2008\spectronic\demo\LayoutPanels\LayoutPanels\obj\Debug\LayoutPanels.csproj.GenerateResource.Cache
+C:\vs_proj2008\spectronic\demo\LayoutPanels\LayoutPanels\obj\Debug\LayoutPanels.exe
+C:\vs_proj2008\spectronic\demo\LayoutPanels\LayoutPanels\obj\Debug\LayoutPanels.pdb
+E:\vs_2008prj\spectronic\demo\LayoutPanels\LayoutPanels\obj\Debug\LayoutPanels.exe
+E:\vs_2008prj\spectronic\demo\LayoutPanels\LayoutPanels\obj\Debug\LayoutPanels.pdb
+E:\vs_2008prj\spectronic\demo\LayoutPanels\LayoutPanels\bin\Debug\LayoutPanels.exe
+E:\vs_2008prj\spectronic\demo\LayoutPanels\LayoutPanels\bin\Debug\LayoutPanels.pdb
+E:\vs_2008prj\spectronic\demo\LayoutPanels\LayoutPanels\obj\Debug\ResolveAssemblyReference.cache
+E:\vs_2008prj\spectronic\demo\LayoutPanels\LayoutPanels\obj\Debug\WindowDockPanel.baml
+E:\vs_2008prj\spectronic\demo\LayoutPanels\LayoutPanels\obj\Debug\WindowGrid.baml
+E:\vs_2008prj\spectronic\demo\LayoutPanels\LayoutPanels\obj\Debug\WindowStackPanel.baml
+E:\vs_2008prj\spectronic\demo\LayoutPanels\LayoutPanels\obj\Debug\WindowWrapPanel.baml
+E:\vs_2008prj\spectronic\demo\LayoutPanels\LayoutPanels\obj\Debug\WindowDockPanel.g.cs
+E:\vs_2008prj\spectronic\demo\LayoutPanels\LayoutPanels\obj\Debug\WindowGrid.g.cs
+E:\vs_2008prj\spectronic\demo\LayoutPanels\LayoutPanels\obj\Debug\WindowStackPanel.g.cs
+E:\vs_2008prj\spectronic\demo\LayoutPanels\LayoutPanels\obj\Debug\WindowWrapPanel.g.cs
+E:\vs_2008prj\spectronic\demo\LayoutPanels\LayoutPanels\obj\Debug\App.g.cs
+E:\vs_2008prj\spectronic\demo\LayoutPanels\LayoutPanels\obj\Debug\LayoutPanels_MarkupCompile.cache
+E:\vs_2008prj\spectronic\demo\LayoutPanels\LayoutPanels\obj\Debug\LayoutPanels.g.resources
+E:\vs_2008prj\spectronic\demo\LayoutPanels\LayoutPanels\obj\Debug\LayoutPanels.Properties.Resources.resources
+E:\vs_2008prj\spectronic\demo\LayoutPanels\LayoutPanels\obj\Debug\LayoutPanels.csproj.GenerateResource.Cache
+C:\vs_proj2008\spectronic\demo\LayoutPanels\LayoutPanels\obj\Debug\WindowDockPanel.baml
+C:\vs_proj2008\spectronic\demo\LayoutPanels\LayoutPanels\obj\Debug\WindowGrid.baml
+C:\vs_proj2008\spectronic\demo\LayoutPanels\LayoutPanels\obj\Debug\WindowDockPanel.g.cs
+C:\vs_proj2008\spectronic\demo\LayoutPanels\LayoutPanels\obj\Debug\WindowGrid.g.cs
+c:\vs_proj2010\demo09i\wpf\LayoutPanels\LayoutPanels\obj\Debug\LayoutPanels.exe
+c:\vs_proj2010\demo09i\wpf\LayoutPanels\LayoutPanels\obj\Debug\LayoutPanels.pdb
+c:\vs_proj2010\10Vdemo\day4\LayoutPanels\LayoutPanels\obj\Debug\LayoutPanels.exe
+c:\vs_proj2010\10Vdemo\day4\LayoutPanels\LayoutPanels\obj\Debug\LayoutPanels.pdb
+C:\vs_proj2010\10Vdemo\day4\LayoutPanels\LayoutPanels\bin\Debug\LayoutPanels.exe
+C:\vs_proj2010\10Vdemo\day4\LayoutPanels\LayoutPanels\bin\Debug\LayoutPanels.pdb
+C:\vs_proj2010\10Vdemo\day4\LayoutPanels\LayoutPanels\obj\Debug\ResolveAssemblyReference.cache
+C:\vs_proj2010\10Vdemo\day4\LayoutPanels\LayoutPanels\obj\Debug\WindowDockPanel.baml
+C:\vs_proj2010\10Vdemo\day4\LayoutPanels\LayoutPanels\obj\Debug\WindowGrid.baml
+C:\vs_proj2010\10Vdemo\day4\LayoutPanels\LayoutPanels\obj\Debug\WindowStackPanel.baml
+C:\vs_proj2010\10Vdemo\day4\LayoutPanels\LayoutPanels\obj\Debug\WindowWrapPanel.baml
+C:\vs_proj2010\10Vdemo\day4\LayoutPanels\LayoutPanels\obj\Debug\WindowDockPanel.g.cs
+C:\vs_proj2010\10Vdemo\day4\LayoutPanels\LayoutPanels\obj\Debug\WindowGrid.g.cs
+C:\vs_proj2010\10Vdemo\day4\LayoutPanels\LayoutPanels\obj\Debug\WindowStackPanel.g.cs
+C:\vs_proj2010\10Vdemo\day4\LayoutPanels\LayoutPanels\obj\Debug\WindowWrapPanel.g.cs
+C:\vs_proj2010\10Vdemo\day4\LayoutPanels\LayoutPanels\obj\Debug\App.g.cs
+C:\vs_proj2010\10Vdemo\day4\LayoutPanels\LayoutPanels\obj\Debug\LayoutPanels_MarkupCompile.cache
+C:\vs_proj2010\10Vdemo\day4\LayoutPanels\LayoutPanels\obj\Debug\LayoutPanels.g.resources
+C:\vs_proj2010\10Vdemo\day4\LayoutPanels\LayoutPanels\obj\Debug\LayoutPanels.Properties.Resources.resources
+C:\vs_proj2010\10Vdemo\day4\LayoutPanels\LayoutPanels\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\vs_proj2010\10Vdemo\day4\LayoutPanels\LayoutPanels\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\vs_proj2010\10Vdemo\day4\LayoutPanels\LayoutPanels\obj\Debug\MainWindow.baml
+C:\vs_proj2010\10Vdemo\day4\LayoutPanels\LayoutPanels\obj\Debug\MainWindow.g.cs
+Z:\2013-SPRING\11T-C#\Day 05 - WPF 1\LayoutPanels\LayoutPanels\obj\Debug\LayoutPanels.exe
+Z:\2013-SPRING\11T-C#\Day 05 - WPF 1\LayoutPanels\LayoutPanels\obj\Debug\LayoutPanels.pdb
+Z:\2013-SPRING\11T-C#\Day 05 - WPF 1\LayoutPanels\LayoutPanels\obj\Debug\LayoutPanels.csprojResolveAssemblyReference.cache
+Z:\2013-SPRING\11T-C#\Day 05 - WPF 1\LayoutPanels\LayoutPanels\obj\Debug\MainWindow.baml
+Z:\2013-SPRING\11T-C#\Day 05 - WPF 1\LayoutPanels\LayoutPanels\obj\Debug\WindowDockPanel.baml
+Z:\2013-SPRING\11T-C#\Day 05 - WPF 1\LayoutPanels\LayoutPanels\obj\Debug\WindowGrid.baml
+Z:\2013-SPRING\11T-C#\Day 05 - WPF 1\LayoutPanels\LayoutPanels\obj\Debug\WindowStackPanel.baml
+Z:\2013-SPRING\11T-C#\Day 05 - WPF 1\LayoutPanels\LayoutPanels\obj\Debug\WindowWrapPanel.baml
+Z:\2013-SPRING\11T-C#\Day 05 - WPF 1\LayoutPanels\LayoutPanels\obj\Debug\MainWindow.g.cs
+Z:\2013-SPRING\11T-C#\Day 05 - WPF 1\LayoutPanels\LayoutPanels\obj\Debug\WindowDockPanel.g.cs
+Z:\2013-SPRING\11T-C#\Day 05 - WPF 1\LayoutPanels\LayoutPanels\obj\Debug\WindowGrid.g.cs
+Z:\2013-SPRING\11T-C#\Day 05 - WPF 1\LayoutPanels\LayoutPanels\obj\Debug\WindowStackPanel.g.cs
+Z:\2013-SPRING\11T-C#\Day 05 - WPF 1\LayoutPanels\LayoutPanels\obj\Debug\WindowWrapPanel.g.cs
+Z:\2013-SPRING\11T-C#\Day 05 - WPF 1\LayoutPanels\LayoutPanels\obj\Debug\App.g.cs
+Z:\2013-SPRING\11T-C#\Day 05 - WPF 1\LayoutPanels\LayoutPanels\obj\Debug\LayoutPanels_MarkupCompile.cache
+Z:\2013-SPRING\11T-C#\Day 05 - WPF 1\LayoutPanels\LayoutPanels\obj\Debug\LayoutPanels.g.resources
+Z:\2013-SPRING\11T-C#\Day 05 - WPF 1\LayoutPanels\LayoutPanels\bin\Debug\LayoutPanels.exe.config
+Z:\2013-SPRING\11T-C#\Day 05 - WPF 1\LayoutPanels\LayoutPanels\bin\Debug\LayoutPanels.exe
+Z:\2013-SPRING\11T-C#\Day 05 - WPF 1\LayoutPanels\LayoutPanels\bin\Debug\LayoutPanels.pdb
+Z:\2013-SPRING\11T-C#\Day 05 - WPF 1\LayoutPanels\LayoutPanels\obj\Debug\LayoutPanels.Properties.Resources.resources
+Z:\2013-SPRING\11T-C#\Day 05 - WPF 1\LayoutPanels\LayoutPanels\obj\Debug\LayoutPanels.csproj.GenerateResource.Cache
+D:\WorkspaceVisualStudio\LayoutPanels\bin\Debug\LayoutPanels.exe.config
+D:\WorkspaceVisualStudio\LayoutPanels\obj\Debug\LayoutPanels.exe
+D:\WorkspaceVisualStudio\LayoutPanels\obj\Debug\LayoutPanels.pdb

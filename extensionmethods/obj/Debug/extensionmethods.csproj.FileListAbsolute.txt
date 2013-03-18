@@ -1,0 +1,12 @@
+C:\vs_proj2008_08i\demos\extensionmethods\extensionmethods\obj\Debug\ResolveAssemblyReference.cache
+C:\vs_proj2008_08i\demos\extensionmethods\extensionmethods\bin\Debug\extensionmethods.exe
+C:\vs_proj2008_08i\demos\extensionmethods\extensionmethods\bin\Debug\extensionmethods.pdb
+C:\vs_proj2008_08i\demos\extensionmethods\extensionmethods\obj\Debug\extensionmethods.exe
+C:\vs_proj2008_08i\demos\extensionmethods\extensionmethods\obj\Debug\extensionmethods.pdb
+Z:\2013-SPRING\11T-C#\Day 04 - C# sproget 3\extensionmethods\extensionmethods\obj\Debug\extensionmethods.exe
+Z:\2013-SPRING\11T-C#\Day 04 - C# sproget 3\extensionmethods\extensionmethods\obj\Debug\extensionmethods.pdb
+Z:\2013-SPRING\11T-C#\Day 04 - C# sproget 3\extensionmethods\extensionmethods\bin\Debug\extensionmethods.exe
+Z:\2013-SPRING\11T-C#\Day 04 - C# sproget 3\extensionmethods\extensionmethods\bin\Debug\extensionmethods.pdb
+Z:\2013-SPRING\11T-C#\Day 04 - C# sproget 3\extensionmethods\extensionmethods\obj\Debug\extensionmethods.csprojResolveAssemblyReference.cache
+D:\WorkspaceVisualStudio\extensionmethods\obj\Debug\extensionmethods.exe
+D:\WorkspaceVisualStudio\extensionmethods\obj\Debug\extensionmethods.pdb

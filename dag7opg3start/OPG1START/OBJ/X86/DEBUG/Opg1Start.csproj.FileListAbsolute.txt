@@ -1,0 +1,24 @@
+C:\vs_proj2010\10s_demos\dag06\Opg1Start\Opg1Start\bin\Debug\Opg1Start.exe
+C:\vs_proj2010\10s_demos\dag06\Opg1Start\Opg1Start\bin\Debug\Opg1Start.pdb
+C:\vs_proj2010\10s_demos\dag06\Opg1Start\Opg1Start\obj\x86\Debug\MainWindow.baml
+C:\vs_proj2010\10s_demos\dag06\Opg1Start\Opg1Start\obj\x86\Debug\MainWindow.g.cs
+C:\vs_proj2010\10s_demos\dag06\Opg1Start\Opg1Start\obj\x86\Debug\App.g.cs
+C:\vs_proj2010\10s_demos\dag06\Opg1Start\Opg1Start\obj\x86\Debug\Opg1Start_MarkupCompile.cache
+C:\vs_proj2010\10s_demos\dag06\Opg1Start\Opg1Start\obj\x86\Debug\Opg1Start.g.resources
+C:\vs_proj2010\10s_demos\dag06\Opg1Start\Opg1Start\obj\x86\Debug\Opg1Start.Properties.Resources.resources
+C:\vs_proj2010\10s_demos\dag06\Opg1Start\Opg1Start\obj\x86\Debug\Opg1Start.exe
+C:\vs_proj2010\10s_demos\dag06\Opg1Start\Opg1Start\obj\x86\Debug\Opg1Start.pdb
+C:\vs_proj2010\10s_demos\dag06\Opg1Start\Opg1Start\obj\x86\Debug\Opg1Start.csproj.GenerateResource.Cache
+C:\vs2012_11V\dag08\Opg1Start\Opg1Start\obj\x86\Debug\Opg1Start.exe
+C:\vs2012_11V\dag08\Opg1Start\Opg1Start\obj\x86\Debug\Opg1Start.pdb
+C:\vs_proj2012_11s\dag07 opgaver\dag7opg3start\Opg1Start\obj\x86\Debug\Opg1Start.exe
+C:\vs_proj2012_11s\dag07 opgaver\dag7opg3start\Opg1Start\obj\x86\Debug\Opg1Start.pdb
+C:\vs_proj2012_11s\dag07 opgaver\dag7opg3start\Opg1Start\bin\Debug\Opg1Start.exe
+C:\vs_proj2012_11s\dag07 opgaver\dag7opg3start\Opg1Start\bin\Debug\Opg1Start.pdb
+C:\vs_proj2012_11s\dag07 opgaver\dag7opg3start\Opg1Start\obj\x86\Debug\MainWindow.baml
+C:\vs_proj2012_11s\dag07 opgaver\dag7opg3start\Opg1Start\obj\x86\Debug\MainWindow.g.cs
+C:\vs_proj2012_11s\dag07 opgaver\dag7opg3start\Opg1Start\obj\x86\Debug\App.g.cs
+C:\vs_proj2012_11s\dag07 opgaver\dag7opg3start\Opg1Start\obj\x86\Debug\Opg1Start_MarkupCompile.cache
+C:\vs_proj2012_11s\dag07 opgaver\dag7opg3start\Opg1Start\obj\x86\Debug\Opg1Start.g.resources
+C:\vs_proj2012_11s\dag07 opgaver\dag7opg3start\Opg1Start\obj\x86\Debug\Opg1Start.Properties.Resources.resources
+C:\vs_proj2012_11s\dag07 opgaver\dag7opg3start\Opg1Start\obj\x86\Debug\Opg1Start.csproj.GenerateResource.Cache

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfDataGridDemo1", "WpfDataGridDemo1\WpfDataGridDemo1.csproj", "{C51370B9-A434-4B5A-AD03-BD47DB0E793A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C51370B9-A434-4B5A-AD03-BD47DB0E793A}.Debug|x86.ActiveCfg = Debug|x86
+		{C51370B9-A434-4B5A-AD03-BD47DB0E793A}.Debug|x86.Build.0 = Debug|x86
+		{C51370B9-A434-4B5A-AD03-BD47DB0E793A}.Release|x86.ActiveCfg = Release|x86
+		{C51370B9-A434-4B5A-AD03-BD47DB0E793A}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

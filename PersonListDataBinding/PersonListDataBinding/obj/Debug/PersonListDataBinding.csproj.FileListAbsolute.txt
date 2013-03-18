@@ -1,0 +1,13 @@
+D:\WorkspaceVisualStudio\PersonListDataBinding\PersonListDataBinding\bin\Debug\PersonListDataBinding.exe.config
+D:\WorkspaceVisualStudio\PersonListDataBinding\PersonListDataBinding\bin\Debug\PersonListDataBinding.exe
+D:\WorkspaceVisualStudio\PersonListDataBinding\PersonListDataBinding\bin\Debug\PersonListDataBinding.pdb
+D:\WorkspaceVisualStudio\PersonListDataBinding\PersonListDataBinding\obj\Debug\PersonListDataBinding.csprojResolveAssemblyReference.cache
+D:\WorkspaceVisualStudio\PersonListDataBinding\PersonListDataBinding\obj\Debug\MainWindow.baml
+D:\WorkspaceVisualStudio\PersonListDataBinding\PersonListDataBinding\obj\Debug\MainWindow.g.cs
+D:\WorkspaceVisualStudio\PersonListDataBinding\PersonListDataBinding\obj\Debug\App.g.cs
+D:\WorkspaceVisualStudio\PersonListDataBinding\PersonListDataBinding\obj\Debug\PersonListDataBinding_MarkupCompile.cache
+D:\WorkspaceVisualStudio\PersonListDataBinding\PersonListDataBinding\obj\Debug\PersonListDataBinding.g.resources
+D:\WorkspaceVisualStudio\PersonListDataBinding\PersonListDataBinding\obj\Debug\PersonListDataBinding.Properties.Resources.resources
+D:\WorkspaceVisualStudio\PersonListDataBinding\PersonListDataBinding\obj\Debug\PersonListDataBinding.csproj.GenerateResource.Cache
+D:\WorkspaceVisualStudio\PersonListDataBinding\PersonListDataBinding\obj\Debug\PersonListDataBinding.exe
+D:\WorkspaceVisualStudio\PersonListDataBinding\PersonListDataBinding\obj\Debug\PersonListDataBinding.pdb

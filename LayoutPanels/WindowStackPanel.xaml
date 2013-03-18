@@ -1,0 +1,15 @@
+﻿<Window x:Class="LayoutPanels.WindowStackPanel"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="WindowStackPanel" Height="300" Width="300">
+    <StackPanel Name="stackPanel1" Background="LightGray">
+        <TextBlock Height="21" Name="textBlock1" Width="120" Text="TextBlock1" />
+        <TextBlock Height="21" Name="textBlock2" Width="auto" Text="TextBlock2" TextAlignment="Left" />
+        <TextBox Height="23" Name="textBox1" Width="120" />
+        <Button Height="23" Name="button1"  Margin="0" VerticalAlignment="Stretch">Button</Button>
+        <Button Height="23" Margin="10,5" Name="button2" Width="75" HorizontalAlignment="Stretch" VerticalAlignment="Top">Button</Button>
+        <Button Height="23" Name="button3" Width="75" HorizontalAlignment="Right">Button</Button>
+        <ComboBox Height="23" Name="comboBox1" />
+        <Button Height="23" Name="button4" >Button</Button>
+    </StackPanel>
+</Window>

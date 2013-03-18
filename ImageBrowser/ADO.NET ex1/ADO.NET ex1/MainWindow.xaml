@@ -1,0 +1,16 @@
+﻿<Window x:Class="ADO.NET_ex1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <ComboBox HorizontalAlignment="Left" Name="ComboBoxCountry" Height="33" Margin="14,30,0,0" VerticalAlignment="Top" Width="190" SelectionChanged="ComboBox_SelectionChanged"/>
+        <ListBox HorizontalAlignment="Left" Name="ListBoxDetails" Height="197" Margin="14,96,0,0" VerticalAlignment="Top" Width="316"/>
+        <Label Content="Land" HorizontalAlignment="Left" Height="25" Margin="21,0,0,0" VerticalAlignment="Top" Width="132"/>
+        <Label Content="Ansatte" HorizontalAlignment="Left" Height="26" Margin="24,70,0,0" VerticalAlignment="Top" Width="166"/>
+        <Button Content="Average C#" Name="Average1" HorizontalAlignment="Left" Height="33" Margin="218,30,0,0" VerticalAlignment="Top" Width="112" Click="Average1_Click"/>
+        <Button Content="Average Query" Name="Average2" HorizontalAlignment="Left" Height="33" Margin="351,30,0,0" VerticalAlignment="Top" Width="111" Click="Average2_Click"/>
+        <Label Content="" Name="lbl1" HorizontalAlignment="Left" Height="23" Margin="230,68,0,0" VerticalAlignment="Top" Width="232"/>
+        <TextBox HorizontalAlignment="Left" Name="textBox1" Height="27" Margin="351,113,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="111" TextChanged="textBox1_TextChanged"/>
+
+    </Grid>
+</Window>

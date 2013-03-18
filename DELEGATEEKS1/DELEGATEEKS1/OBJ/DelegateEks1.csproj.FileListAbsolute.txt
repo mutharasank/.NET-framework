@@ -1,0 +1,5 @@
+C:\vs_proj2008\spectronic\demo\DELEGATEEKS1\DelegateEks1\obj\Debug\DelegateEks1.exe
+C:\vs_proj2008\spectronic\demo\DELEGATEEKS1\DelegateEks1\obj\Debug\DelegateEks1.pdb
+C:\vs_proj2008\spectronic\demo\DELEGATEEKS1\DelegateEks1\bin\Debug\DelegateEks1.exe
+C:\vs_proj2008\spectronic\demo\DELEGATEEKS1\DelegateEks1\bin\Debug\DelegateEks1.pdb
+C:\vs_proj2008\spectronic\demo\DELEGATEEKS1\DelegateEks1\obj\Debug\ResolveAssemblyReference.cache

@@ -1,0 +1,85 @@
+D:\vs2010_proj\10v\dag6wpf\datatemplatedemo2\DataTemplateDemo1\bin\Debug\DataTemplateDemo1.exe
+D:\vs2010_proj\10v\dag6wpf\datatemplatedemo2\DataTemplateDemo1\bin\Debug\DataTemplateDemo1.pdb
+D:\vs2010_proj\10v\dag6wpf\datatemplatedemo2\DataTemplateDemo1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\vs2010_proj\10v\dag6wpf\datatemplatedemo2\DataTemplateDemo1\obj\x86\Debug\MainWindow.g.cs
+D:\vs2010_proj\10v\dag6wpf\datatemplatedemo2\DataTemplateDemo1\obj\x86\Debug\App.g.cs
+D:\vs2010_proj\10v\dag6wpf\datatemplatedemo2\DataTemplateDemo1\obj\x86\Debug\DataTemplateDemo1_MarkupCompile.cache
+D:\vs2010_proj\10v\dag6wpf\datatemplatedemo2\DataTemplateDemo1\obj\x86\Debug\DataTemplateDemo1_MarkupCompile.lref
+D:\vs2010_proj\10v\dag6wpf\datatemplatedemo2\DataTemplateDemo1\obj\x86\Debug\MainWindow.baml
+D:\vs2010_proj\10v\dag6wpf\datatemplatedemo2\DataTemplateDemo1\obj\x86\Debug\DataTemplateDemo1.g.resources
+D:\vs2010_proj\10v\dag6wpf\datatemplatedemo2\DataTemplateDemo1\obj\x86\Debug\DataTemplateDemo2.Properties.Resources.resources
+D:\vs2010_proj\10v\dag6wpf\datatemplatedemo2\DataTemplateDemo1\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\vs2010_proj\10v\dag6wpf\datatemplatedemo2\DataTemplateDemo1\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\vs2010_proj\10v\dag6wpf\datatemplatedemo2\DataTemplateDemo1\obj\x86\Debug\DataTemplateDemo1.exe
+D:\vs2010_proj\10v\dag6wpf\datatemplatedemo2\DataTemplateDemo1\obj\x86\Debug\DataTemplateDemo1.pdb
+c:\vs_proj2010\10Vdemo\day6\datatemplatedemo2\DataTemplateDemo1\obj\x86\Debug\DataTemplateDemo1.exe
+c:\vs_proj2010\10Vdemo\day6\datatemplatedemo2\DataTemplateDemo1\obj\x86\Debug\DataTemplateDemo1.pdb
+c:\vs_proj2010\10Vdemo\day6\datatemplatedemo2\DataTemplateDemo1\bin\Debug\DataTemplateDemo1.exe
+c:\vs_proj2010\10Vdemo\day6\datatemplatedemo2\DataTemplateDemo1\bin\Debug\DataTemplateDemo1.pdb
+c:\vs_proj2010\10Vdemo\day6\datatemplatedemo2\DataTemplateDemo1\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\vs_proj2010\10Vdemo\day6\datatemplatedemo2\DataTemplateDemo1\obj\x86\Debug\MainWindow.g.cs
+c:\vs_proj2010\10Vdemo\day6\datatemplatedemo2\DataTemplateDemo1\obj\x86\Debug\App.g.cs
+c:\vs_proj2010\10Vdemo\day6\datatemplatedemo2\DataTemplateDemo1\obj\x86\Debug\DataTemplateDemo1_MarkupCompile.cache
+c:\vs_proj2010\10Vdemo\day6\datatemplatedemo2\DataTemplateDemo1\obj\x86\Debug\DataTemplateDemo1_MarkupCompile.lref
+c:\vs_proj2010\10Vdemo\day6\datatemplatedemo2\DataTemplateDemo1\obj\x86\Debug\MainWindow.baml
+c:\vs_proj2010\10Vdemo\day6\datatemplatedemo2\DataTemplateDemo1\obj\x86\Debug\DataTemplateDemo1.g.resources
+c:\vs_proj2010\10Vdemo\day6\datatemplatedemo2\DataTemplateDemo1\obj\x86\Debug\DataTemplateDemo2.Properties.Resources.resources
+c:\vs_proj2010\10Vdemo\day6\datatemplatedemo2\DataTemplateDemo1\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+c:\vs_proj2010\10Vdemo\day6\datatemplatedemo2\DataTemplateDemo1\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\vs2010_proj\10s\dag06\DATATEMPLATEDEMO2\DataTemplateDemo1\obj\x86\Debug\DataTemplateDemo1.exe
+D:\vs2010_proj\10s\dag06\DATATEMPLATEDEMO2\DataTemplateDemo1\obj\x86\Debug\DataTemplateDemo1.pdb
+D:\vs2010_proj\10s\dag06\DATATEMPLATEDEMO2\DataTemplateDemo1\bin\Debug\DataTemplateDemo1.exe
+D:\vs2010_proj\10s\dag06\DATATEMPLATEDEMO2\DataTemplateDemo1\bin\Debug\DataTemplateDemo1.pdb
+D:\vs2010_proj\10s\dag06\DATATEMPLATEDEMO2\DataTemplateDemo1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\vs2010_proj\10s\dag06\DATATEMPLATEDEMO2\DataTemplateDemo1\obj\x86\Debug\MainWindow.g.cs
+D:\vs2010_proj\10s\dag06\DATATEMPLATEDEMO2\DataTemplateDemo1\obj\x86\Debug\App.g.cs
+D:\vs2010_proj\10s\dag06\DATATEMPLATEDEMO2\DataTemplateDemo1\obj\x86\Debug\DataTemplateDemo1_MarkupCompile.cache
+D:\vs2010_proj\10s\dag06\DATATEMPLATEDEMO2\DataTemplateDemo1\obj\x86\Debug\DataTemplateDemo1_MarkupCompile.lref
+D:\vs2010_proj\10s\dag06\DATATEMPLATEDEMO2\DataTemplateDemo1\obj\x86\Debug\MainWindow.baml
+D:\vs2010_proj\10s\dag06\DATATEMPLATEDEMO2\DataTemplateDemo1\obj\x86\Debug\DataTemplateDemo1.g.resources
+D:\vs2010_proj\10s\dag06\DATATEMPLATEDEMO2\DataTemplateDemo1\obj\x86\Debug\DataTemplateDemo2.Properties.Resources.resources
+D:\vs2010_proj\10s\dag06\DATATEMPLATEDEMO2\DataTemplateDemo1\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\vs2010_proj\10s\dag06\DATATEMPLATEDEMO2\DataTemplateDemo1\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\vs_proj2010\10s_demos\dag06\DATATEMPLATEDEMO2\DataTemplateDemo1\obj\x86\Debug\DataTemplateDemo1.exe
+C:\vs_proj2010\10s_demos\dag06\DATATEMPLATEDEMO2\DataTemplateDemo1\obj\x86\Debug\DataTemplateDemo1.pdb
+C:\vs_proj2010\10s_demos\dag06\DATATEMPLATEDEMO2\DataTemplateDemo1\bin\Debug\DataTemplateDemo1.exe
+C:\vs_proj2010\10s_demos\dag06\DATATEMPLATEDEMO2\DataTemplateDemo1\bin\Debug\DataTemplateDemo1.pdb
+C:\vs_proj2010\10s_demos\dag06\DATATEMPLATEDEMO2\DataTemplateDemo1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\vs_proj2010\10s_demos\dag06\DATATEMPLATEDEMO2\DataTemplateDemo1\obj\x86\Debug\MainWindow.g.cs
+C:\vs_proj2010\10s_demos\dag06\DATATEMPLATEDEMO2\DataTemplateDemo1\obj\x86\Debug\App.g.cs
+C:\vs_proj2010\10s_demos\dag06\DATATEMPLATEDEMO2\DataTemplateDemo1\obj\x86\Debug\DataTemplateDemo1_MarkupCompile.cache
+C:\vs_proj2010\10s_demos\dag06\DATATEMPLATEDEMO2\DataTemplateDemo1\obj\x86\Debug\DataTemplateDemo1_MarkupCompile.lref
+C:\vs_proj2010\10s_demos\dag06\DATATEMPLATEDEMO2\DataTemplateDemo1\obj\x86\Debug\MainWindow.baml
+C:\vs_proj2010\10s_demos\dag06\DATATEMPLATEDEMO2\DataTemplateDemo1\obj\x86\Debug\DataTemplateDemo1.g.resources
+C:\vs_proj2010\10s_demos\dag06\DATATEMPLATEDEMO2\DataTemplateDemo1\obj\x86\Debug\DataTemplateDemo2.Properties.Resources.resources
+C:\vs_proj2010\10s_demos\dag06\DATATEMPLATEDEMO2\DataTemplateDemo1\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\vs_proj2010\10s_demos\dag06\DATATEMPLATEDEMO2\DataTemplateDemo1\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\vs2012_11V\dag08\DATATEMPLATEDEMO2\DataTemplateDemo1\obj\x86\Debug\DataTemplateDemo1.exe
+C:\vs2012_11V\dag08\DATATEMPLATEDEMO2\DataTemplateDemo1\obj\x86\Debug\DataTemplateDemo1.pdb
+C:\vs2012_11V\dag08\DATATEMPLATEDEMO2\DataTemplateDemo1\bin\Debug\DataTemplateDemo1.exe
+C:\vs2012_11V\dag08\DATATEMPLATEDEMO2\DataTemplateDemo1\bin\Debug\DataTemplateDemo1.pdb
+C:\vs2012_11V\dag08\DATATEMPLATEDEMO2\DataTemplateDemo1\obj\x86\Debug\MainWindow.g.cs
+C:\vs2012_11V\dag08\DATATEMPLATEDEMO2\DataTemplateDemo1\obj\x86\Debug\App.g.cs
+C:\vs2012_11V\dag08\DATATEMPLATEDEMO2\DataTemplateDemo1\obj\x86\Debug\DataTemplateDemo1_MarkupCompile.cache
+C:\vs2012_11V\dag08\DATATEMPLATEDEMO2\DataTemplateDemo1\obj\x86\Debug\DataTemplateDemo1_MarkupCompile.lref
+C:\vs2012_11V\dag08\DATATEMPLATEDEMO2\DataTemplateDemo1\obj\x86\Debug\MainWindow.baml
+C:\vs2012_11V\dag08\DATATEMPLATEDEMO2\DataTemplateDemo1\obj\x86\Debug\DataTemplateDemo1.g.resources
+C:\vs2012_11V\dag08\DATATEMPLATEDEMO2\DataTemplateDemo1\obj\x86\Debug\DataTemplateDemo2.Properties.Resources.resources
+C:\vs2012_11V\dag08\DATATEMPLATEDEMO2\DataTemplateDemo1\obj\x86\Debug\DataTemplateDemo2.csproj.GenerateResource.Cache
+Z:\2013-SPRING\11T-C#\Day 07 - WPF 3\DATATEMPLATEDEMO2\DataTemplateDemo1\obj\x86\Debug\DataTemplateDemo1.exe
+Z:\2013-SPRING\11T-C#\Day 07 - WPF 3\DATATEMPLATEDEMO2\DataTemplateDemo1\obj\x86\Debug\DataTemplateDemo1.pdb
+Z:\2013-SPRING\11T-C#\Day 07 - WPF 3\DATATEMPLATEDEMO2\DataTemplateDemo1\bin\Debug\DataTemplateDemo1.exe.config
+Z:\2013-SPRING\11T-C#\Day 07 - WPF 3\DATATEMPLATEDEMO2\DataTemplateDemo1\bin\Debug\DataTemplateDemo1.exe
+Z:\2013-SPRING\11T-C#\Day 07 - WPF 3\DATATEMPLATEDEMO2\DataTemplateDemo1\bin\Debug\DataTemplateDemo1.pdb
+Z:\2013-SPRING\11T-C#\Day 07 - WPF 3\DATATEMPLATEDEMO2\DataTemplateDemo1\obj\x86\Debug\DataTemplateDemo2.csprojResolveAssemblyReference.cache
+Z:\2013-SPRING\11T-C#\Day 07 - WPF 3\DATATEMPLATEDEMO2\DataTemplateDemo1\obj\x86\Debug\MainWindow.g.cs
+Z:\2013-SPRING\11T-C#\Day 07 - WPF 3\DATATEMPLATEDEMO2\DataTemplateDemo1\obj\x86\Debug\App.g.cs
+Z:\2013-SPRING\11T-C#\Day 07 - WPF 3\DATATEMPLATEDEMO2\DataTemplateDemo1\obj\x86\Debug\DataTemplateDemo1_MarkupCompile.cache
+Z:\2013-SPRING\11T-C#\Day 07 - WPF 3\DATATEMPLATEDEMO2\DataTemplateDemo1\obj\x86\Debug\DataTemplateDemo1_MarkupCompile.lref
+Z:\2013-SPRING\11T-C#\Day 07 - WPF 3\DATATEMPLATEDEMO2\DataTemplateDemo1\obj\x86\Debug\MainWindow.baml
+Z:\2013-SPRING\11T-C#\Day 07 - WPF 3\DATATEMPLATEDEMO2\DataTemplateDemo1\obj\x86\Debug\DataTemplateDemo1.g.resources
+Z:\2013-SPRING\11T-C#\Day 07 - WPF 3\DATATEMPLATEDEMO2\DataTemplateDemo1\obj\x86\Debug\DataTemplateDemo2.Properties.Resources.resources
+Z:\2013-SPRING\11T-C#\Day 07 - WPF 3\DATATEMPLATEDEMO2\DataTemplateDemo1\obj\x86\Debug\DataTemplateDemo2.csproj.GenerateResource.Cache
+D:\WorkspaceVisualStudio\DATATEMPLATEDEMO2\DataTemplateDemo1\bin\Debug\DataTemplateDemo1.exe.config
+D:\WorkspaceVisualStudio\DATATEMPLATEDEMO2\DataTemplateDemo1\obj\x86\Debug\DataTemplateDemo1.exe
+D:\WorkspaceVisualStudio\DATATEMPLATEDEMO2\DataTemplateDemo1\obj\x86\Debug\DataTemplateDemo1.pdb

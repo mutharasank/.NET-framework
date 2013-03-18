@@ -1,0 +1,19 @@
+﻿<Window x:Class="WpfGUI_andDataTables.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525" Loaded="Window_Loaded">
+    <Window.Resources>
+        <ContextMenu x:Key="MyContextMenu">
+            
+            <MenuItem Header="Insert" Click="MenuItemInsert_Click"/>
+            <MenuItem Header="Update" Click="MenuItemUpdate_Click" />
+            <MenuItem Header="Delete" Click="MenuItemDelete_Click" />
+        </ContextMenu>
+    </Window.Resources>
+    <Grid>
+        <ComboBox Height="23" HorizontalAlignment="Left" Margin="11,25,0,0" Name="cBoxCountries" VerticalAlignment="Top" Width="120" SelectionChanged="cBoxCountries_SelectionChanged" />
+        <Label Content="Suppliers" Height="28" HorizontalAlignment="Left" Margin="11,4,0,0" Name="label1" VerticalAlignment="Top" />
+        <Label Content="Products" Height="28" HorizontalAlignment="Left" Margin="11,65,0,0" Name="label2" VerticalAlignment="Top" />
+        <DataGrid ItemsSource="{Binding}" ContextMenu="{StaticResource MyContextMenu}" Height="218" HorizontalAlignment="Left" Margin="14,89,0,0" Name="dataGrid1" VerticalAlignment="Top" Width="477" />
+    </Grid>
+</Window>

@@ -1,0 +1,34 @@
+﻿<Window x:Class="DataTemplateDemo2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:DataTemplateDemo2" 
+        Title="DataTemplate defineret i Windows Resources" Height="350" Width="525">
+
+    <Window.Resources>
+        <DataTemplate x:Key="RiverTemplate">
+            <Border Name="bdr" BorderBrush="Blue" BorderThickness="3" CornerRadius="12">
+                <WrapPanel Margin="4">
+                    <TextBlock Name="txt">
+                              The
+                              <TextBlock Text="{Binding Path=Name}"/>
+                              is
+                              <TextBlock Text="{Binding MilesLong}" />
+                              miles long
+                            </TextBlock>
+                </WrapPanel>
+            </Border>
+
+            <DataTemplate.Triggers>
+                <Trigger SourceName="bdr" Property="IsMouseOver" Value="True">
+                    <Setter TargetName="bdr" Property="Background" Value="LightGray"/>
+                    <Setter TargetName="txt" Property="Foreground" Value="Red"/>
+                </Trigger>
+            </DataTemplate.Triggers>
+        </DataTemplate>
+    </Window.Resources>
+
+    <StackPanel Name="stackPanel1">
+        <ContentControl Name="contentControl1" ContentTemplate ="{StaticResource RiverTemplate}" Margin="0,20"/>
+        <ContentControl Name="contentControl2" ContentTemplate ="{StaticResource RiverTemplate}" Margin="0,20"/>
+    </StackPanel>
+</Window>

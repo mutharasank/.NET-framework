@@ -1,0 +1,28 @@
+C:\vs_proj2010\10s_demos\dag09\Dag9Opg1\Dag9Opg1\bin\Debug\Dag9Opg1.exe
+C:\vs_proj2010\10s_demos\dag09\Dag9Opg1\Dag9Opg1\bin\Debug\Dag9Opg1.pdb
+C:\vs_proj2010\10s_demos\dag09\Dag9Opg1\Dag9Opg1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\vs_proj2010\10s_demos\dag09\Dag9Opg1\Dag9Opg1\obj\x86\Debug\MainWindow.baml
+C:\vs_proj2010\10s_demos\dag09\Dag9Opg1\Dag9Opg1\obj\x86\Debug\MainWindow.g.cs
+C:\vs_proj2010\10s_demos\dag09\Dag9Opg1\Dag9Opg1\obj\x86\Debug\App.g.cs
+C:\vs_proj2010\10s_demos\dag09\Dag9Opg1\Dag9Opg1\obj\x86\Debug\Dag9Opg1_MarkupCompile.cache
+C:\vs_proj2010\10s_demos\dag09\Dag9Opg1\Dag9Opg1\obj\x86\Debug\Dag9Opg1.g.resources
+C:\vs_proj2010\10s_demos\dag09\Dag9Opg1\Dag9Opg1\obj\x86\Debug\Dag9Opg1.Properties.Resources.resources
+C:\vs_proj2010\10s_demos\dag09\Dag9Opg1\Dag9Opg1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\vs_proj2010\10s_demos\dag09\Dag9Opg1\Dag9Opg1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\vs_proj2010\10s_demos\dag09\Dag9Opg1\Dag9Opg1\obj\x86\Debug\Dag9Opg1.exe
+C:\vs_proj2010\10s_demos\dag09\Dag9Opg1\Dag9Opg1\obj\x86\Debug\Dag9Opg1.pdb
+C:\f_dmu\_spec\_10S\dag09\dag9opg1start\Dag9Opg1\obj\x86\Debug\Dag9Opg1.exe
+C:\f_dmu\_spec\_10S\dag09\dag9opg1start\Dag9Opg1\obj\x86\Debug\Dag9Opg1.pdb
+C:\f_dmu\_spec\_10S\dag09\dag9opg1start\Dag9Opg1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\f_dmu\_spec\_10S\dag09\dag9opg1start\Dag9Opg1\obj\x86\Debug\MainWindow.baml
+C:\f_dmu\_spec\_10S\dag09\dag9opg1start\Dag9Opg1\obj\x86\Debug\MainWindow.g.cs
+C:\f_dmu\_spec\_10S\dag09\dag9opg1start\Dag9Opg1\obj\x86\Debug\App.g.cs
+C:\f_dmu\_spec\_10S\dag09\dag9opg1start\Dag9Opg1\obj\x86\Debug\Dag9Opg1_MarkupCompile.cache
+C:\f_dmu\_spec\_10S\dag09\dag9opg1start\Dag9Opg1\obj\x86\Debug\Dag9Opg1.g.resources
+C:\f_dmu\_spec\_10S\dag09\dag9opg1start\Dag9Opg1\obj\x86\Debug\Dag9Opg1.Properties.Resources.resources
+C:\f_dmu\_spec\_10S\dag09\dag9opg1start\Dag9Opg1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\f_dmu\_spec\_10S\dag09\dag9opg1start\Dag9Opg1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\f_dmu\_spec\_10S\dag09\dag9opg1start\Dag9Opg1\bin\Debug\Dag9Opg1.exe
+C:\f_dmu\_spec\_10S\dag09\dag9opg1start\Dag9Opg1\bin\Debug\Dag9Opg1.pdb
+C:\vs_proj2012_11s\dag07 opgaver\dag7opg1start\DAG9OPG1\obj\x86\Debug\Dag9Opg1.exe
+C:\vs_proj2012_11s\dag07 opgaver\dag7opg1start\DAG9OPG1\obj\x86\Debug\Dag9Opg1.pdb

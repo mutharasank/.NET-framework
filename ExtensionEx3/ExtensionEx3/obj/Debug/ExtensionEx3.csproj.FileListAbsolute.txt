@@ -1,0 +1,6 @@
+D:\WorkspaceVisualStudio\ExtensionEx3\ExtensionEx3\bin\Debug\ExtensionEx3.exe.config
+D:\WorkspaceVisualStudio\ExtensionEx3\ExtensionEx3\obj\Debug\ExtensionEx3.csprojResolveAssemblyReference.cache
+D:\WorkspaceVisualStudio\ExtensionEx3\ExtensionEx3\bin\Debug\ExtensionEx3.exe
+D:\WorkspaceVisualStudio\ExtensionEx3\ExtensionEx3\bin\Debug\ExtensionEx3.pdb
+D:\WorkspaceVisualStudio\ExtensionEx3\ExtensionEx3\obj\Debug\ExtensionEx3.exe
+D:\WorkspaceVisualStudio\ExtensionEx3\ExtensionEx3\obj\Debug\ExtensionEx3.pdb

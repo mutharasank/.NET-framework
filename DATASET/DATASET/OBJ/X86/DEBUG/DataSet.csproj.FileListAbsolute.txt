@@ -1,0 +1,15 @@
+C:\vs_proj2010\10Vdemo\day8\DataSet\DataSet\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\vs_proj2010\10Vdemo\day8\DataSet\DataSet\bin\Debug\DataSet.exe
+C:\vs_proj2010\10Vdemo\day8\DataSet\DataSet\bin\Debug\DataSet.pdb
+C:\vs_proj2010\10Vdemo\day8\DataSet\DataSet\obj\x86\Debug\DataSet.exe
+C:\vs_proj2010\10Vdemo\day8\DataSet\DataSet\obj\x86\Debug\DataSet.pdb
+C:\vs_proj2012_11s\dag10\DATASET\DataSet\obj\x86\Debug\DataSet.exe
+C:\vs_proj2012_11s\dag10\DATASET\DataSet\obj\x86\Debug\DataSet.pdb
+C:\vs_proj2012_11s\dag10\DATASET\DataSet\bin\Debug\DataSet.exe
+C:\vs_proj2012_11s\dag10\DATASET\DataSet\bin\Debug\DataSet.pdb
+C:\vs_proj2012_11s\dag10\DATASET\DataSet\obj\x86\Debug\DataSet.csprojResolveAssemblyReference.cache
+D:\WorkspaceVisualStudio\DATASET\DataSet\obj\x86\Debug\DataSet.exe
+D:\WorkspaceVisualStudio\DATASET\DataSet\obj\x86\Debug\DataSet.pdb
+D:\WorkspaceVisualStudio\DATASET\DataSet\bin\Debug\DataSet.exe
+D:\WorkspaceVisualStudio\DATASET\DataSet\bin\Debug\DataSet.pdb
+D:\WorkspaceVisualStudio\DATASET\DataSet\obj\x86\Debug\DataSet.csprojResolveAssemblyReference.cache

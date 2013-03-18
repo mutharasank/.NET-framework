@@ -1,0 +1,15 @@
+D:\WorkspaceVisualStudio\ImageBrowser\ImageBrowser\ImageBrowser\bin\Debug\ImageBrowser.exe.config
+D:\WorkspaceVisualStudio\ImageBrowser\ImageBrowser\ImageBrowser\bin\Debug\ImageBrowser.exe
+D:\WorkspaceVisualStudio\ImageBrowser\ImageBrowser\ImageBrowser\bin\Debug\ImageBrowser.pdb
+D:\WorkspaceVisualStudio\ImageBrowser\ImageBrowser\ImageBrowser\obj\Debug\ImageBrowser.csprojResolveAssemblyReference.cache
+D:\WorkspaceVisualStudio\ImageBrowser\ImageBrowser\ImageBrowser\obj\Debug\MainWindow.baml
+D:\WorkspaceVisualStudio\ImageBrowser\ImageBrowser\ImageBrowser\obj\Debug\MainWindow.g.cs
+D:\WorkspaceVisualStudio\ImageBrowser\ImageBrowser\ImageBrowser\obj\Debug\App.g.cs
+D:\WorkspaceVisualStudio\ImageBrowser\ImageBrowser\ImageBrowser\obj\Debug\ImageBrowser_MarkupCompile.cache
+D:\WorkspaceVisualStudio\ImageBrowser\ImageBrowser\ImageBrowser\obj\Debug\ImageBrowser.g.resources
+D:\WorkspaceVisualStudio\ImageBrowser\ImageBrowser\ImageBrowser\obj\Debug\ImageBrowser.Properties.Resources.resources
+D:\WorkspaceVisualStudio\ImageBrowser\ImageBrowser\ImageBrowser\obj\Debug\ImageBrowser.csproj.GenerateResource.Cache
+D:\WorkspaceVisualStudio\ImageBrowser\ImageBrowser\ImageBrowser\obj\Debug\ImageBrowser.exe
+D:\WorkspaceVisualStudio\ImageBrowser\ImageBrowser\ImageBrowser\obj\Debug\ImageBrowser.pdb
+D:\WorkspaceVisualStudio\ImageBrowser\ImageBrowser\ImageBrowser\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\WorkspaceVisualStudio\ImageBrowser\ImageBrowser\ImageBrowser\obj\Debug\ImageBrowser_MarkupCompile.lref

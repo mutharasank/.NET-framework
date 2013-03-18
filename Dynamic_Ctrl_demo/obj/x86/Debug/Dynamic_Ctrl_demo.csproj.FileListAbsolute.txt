@@ -1,0 +1,37 @@
+C:\vs_proj2010\10s_demos\dag03\Dynamic_Ctrl_demo\Dynamic_Ctrl_demo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\vs_proj2010\10s_demos\dag03\Dynamic_Ctrl_demo\Dynamic_Ctrl_demo\obj\x86\Debug\MainWindow.baml
+C:\vs_proj2010\10s_demos\dag03\Dynamic_Ctrl_demo\Dynamic_Ctrl_demo\obj\x86\Debug\MainWindow.g.cs
+C:\vs_proj2010\10s_demos\dag03\Dynamic_Ctrl_demo\Dynamic_Ctrl_demo\obj\x86\Debug\App.g.cs
+C:\vs_proj2010\10s_demos\dag03\Dynamic_Ctrl_demo\Dynamic_Ctrl_demo\obj\x86\Debug\Dynamic_Ctrl_demo_MarkupCompile.cache
+C:\vs_proj2010\10s_demos\dag03\Dynamic_Ctrl_demo\Dynamic_Ctrl_demo\obj\x86\Debug\Dynamic_Ctrl_demo.g.resources
+C:\vs_proj2010\10s_demos\dag03\Dynamic_Ctrl_demo\Dynamic_Ctrl_demo\obj\x86\Debug\Dynamic_Ctrl_demo.Properties.Resources.resources
+C:\vs_proj2010\10s_demos\dag03\Dynamic_Ctrl_demo\Dynamic_Ctrl_demo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\vs_proj2010\10s_demos\dag03\Dynamic_Ctrl_demo\Dynamic_Ctrl_demo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\vs_proj2010\10s_demos\dag03\Dynamic_Ctrl_demo\Dynamic_Ctrl_demo\bin\Debug\Dynamic_Ctrl_demo.exe
+C:\vs_proj2010\10s_demos\dag03\Dynamic_Ctrl_demo\Dynamic_Ctrl_demo\bin\Debug\Dynamic_Ctrl_demo.pdb
+C:\vs_proj2010\10s_demos\dag03\Dynamic_Ctrl_demo\Dynamic_Ctrl_demo\obj\x86\Debug\Dynamic_Ctrl_demo.exe
+C:\vs_proj2010\10s_demos\dag03\Dynamic_Ctrl_demo\Dynamic_Ctrl_demo\obj\x86\Debug\Dynamic_Ctrl_demo.pdb
+Z:\2013-SPRING\11T-C#\Day 04 - C# sproget 3\Dynamic_Ctrl_demo\Dynamic_Ctrl_demo\obj\x86\Debug\Dynamic_Ctrl_demo.exe
+Z:\2013-SPRING\11T-C#\Day 04 - C# sproget 3\Dynamic_Ctrl_demo\Dynamic_Ctrl_demo\obj\x86\Debug\Dynamic_Ctrl_demo.pdb
+Z:\2013-SPRING\11T-C#\Day 04 - C# sproget 3\Dynamic_Ctrl_demo\Dynamic_Ctrl_demo\bin\Debug\Dynamic_Ctrl_demo.exe
+Z:\2013-SPRING\11T-C#\Day 04 - C# sproget 3\Dynamic_Ctrl_demo\Dynamic_Ctrl_demo\bin\Debug\Dynamic_Ctrl_demo.pdb
+Z:\2013-SPRING\11T-C#\Day 04 - C# sproget 3\Dynamic_Ctrl_demo\Dynamic_Ctrl_demo\obj\x86\Debug\Dynamic_Ctrl_demo.csprojResolveAssemblyReference.cache
+Z:\2013-SPRING\11T-C#\Day 04 - C# sproget 3\Dynamic_Ctrl_demo\Dynamic_Ctrl_demo\obj\x86\Debug\MainWindow.baml
+Z:\2013-SPRING\11T-C#\Day 04 - C# sproget 3\Dynamic_Ctrl_demo\Dynamic_Ctrl_demo\obj\x86\Debug\MainWindow.g.cs
+Z:\2013-SPRING\11T-C#\Day 04 - C# sproget 3\Dynamic_Ctrl_demo\Dynamic_Ctrl_demo\obj\x86\Debug\App.g.cs
+Z:\2013-SPRING\11T-C#\Day 04 - C# sproget 3\Dynamic_Ctrl_demo\Dynamic_Ctrl_demo\obj\x86\Debug\Dynamic_Ctrl_demo_MarkupCompile.cache
+Z:\2013-SPRING\11T-C#\Day 04 - C# sproget 3\Dynamic_Ctrl_demo\Dynamic_Ctrl_demo\obj\x86\Debug\Dynamic_Ctrl_demo.g.resources
+Z:\2013-SPRING\11T-C#\Day 04 - C# sproget 3\Dynamic_Ctrl_demo\Dynamic_Ctrl_demo\obj\x86\Debug\Dynamic_Ctrl_demo.Properties.Resources.resources
+Z:\2013-SPRING\11T-C#\Day 04 - C# sproget 3\Dynamic_Ctrl_demo\Dynamic_Ctrl_demo\obj\x86\Debug\Dynamic_Ctrl_demo.csproj.GenerateResource.Cache
+D:\WorkspaceVisualStudio\Dynamic_Ctrl_demo\obj\x86\Debug\Dynamic_Ctrl_demo.exe
+D:\WorkspaceVisualStudio\Dynamic_Ctrl_demo\obj\x86\Debug\Dynamic_Ctrl_demo.pdb
+D:\WorkspaceVisualStudio\Dynamic_Ctrl_demo\bin\Debug\Dynamic_Ctrl_demo.exe
+D:\WorkspaceVisualStudio\Dynamic_Ctrl_demo\bin\Debug\Dynamic_Ctrl_demo.pdb
+D:\WorkspaceVisualStudio\Dynamic_Ctrl_demo\obj\x86\Debug\Dynamic_Ctrl_demo.csprojResolveAssemblyReference.cache
+D:\WorkspaceVisualStudio\Dynamic_Ctrl_demo\obj\x86\Debug\MainWindow.baml
+D:\WorkspaceVisualStudio\Dynamic_Ctrl_demo\obj\x86\Debug\MainWindow.g.cs
+D:\WorkspaceVisualStudio\Dynamic_Ctrl_demo\obj\x86\Debug\App.g.cs
+D:\WorkspaceVisualStudio\Dynamic_Ctrl_demo\obj\x86\Debug\Dynamic_Ctrl_demo_MarkupCompile.cache
+D:\WorkspaceVisualStudio\Dynamic_Ctrl_demo\obj\x86\Debug\Dynamic_Ctrl_demo.g.resources
+D:\WorkspaceVisualStudio\Dynamic_Ctrl_demo\obj\x86\Debug\Dynamic_Ctrl_demo.Properties.Resources.resources
+D:\WorkspaceVisualStudio\Dynamic_Ctrl_demo\obj\x86\Debug\Dynamic_Ctrl_demo.csproj.GenerateResource.Cache

@@ -1,0 +1,12 @@
+﻿<Window x:Class="LayoutPanels.WindowDockPanel"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="WindowDockPanel" Height="300" Width="598">
+    <DockPanel Margin="10,10,10,10" Name="dockPanel1">
+      <Button DockPanel.Dock="Left" Name="button3" >ButtonLeft</Button>
+      <Button DockPanel.Dock="Right" Name="button4">ButtonRight</Button>
+      <Button DockPanel.Dock="Top" Name="button1" >ButtonTop</Button>
+      <Button DockPanel.Dock="Bottom" Name="button2" >ButtonBottom</Button>
+      <Button Name="button5" >ButtonFill</Button>
+    </DockPanel>
+</Window>

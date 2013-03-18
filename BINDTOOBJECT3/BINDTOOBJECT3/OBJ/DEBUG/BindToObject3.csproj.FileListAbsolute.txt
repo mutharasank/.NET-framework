@@ -1,0 +1,89 @@
+E:\vs_2008prj\spectronic\demo\databinding\BindToObject3\BindToObject3\bin\Debug\BindToObject3.exe
+E:\vs_2008prj\spectronic\demo\databinding\BindToObject3\BindToObject3\bin\Debug\BindToObject3.pdb
+E:\vs_2008prj\spectronic\demo\databinding\BindToObject3\BindToObject3\obj\Debug\ResolveAssemblyReference.cache
+E:\vs_2008prj\spectronic\demo\databinding\BindToObject3\BindToObject3\obj\Debug\Window1.baml
+E:\vs_2008prj\spectronic\demo\databinding\BindToObject3\BindToObject3\obj\Debug\Window1.g.cs
+E:\vs_2008prj\spectronic\demo\databinding\BindToObject3\BindToObject3\obj\Debug\App.g.cs
+E:\vs_2008prj\spectronic\demo\databinding\BindToObject3\BindToObject3\obj\Debug\BindToObject3_MarkupCompile.cache
+E:\vs_2008prj\spectronic\demo\databinding\BindToObject3\BindToObject3\obj\Debug\BindToObject3.g.resources
+E:\vs_2008prj\spectronic\demo\databinding\BindToObject3\BindToObject3\obj\Debug\BindToObject3.Properties.Resources.resources
+E:\vs_2008prj\spectronic\demo\databinding\BindToObject3\BindToObject3\obj\Debug\BindToObject3.csproj.GenerateResource.Cache
+E:\vs_2008prj\spectronic\demo\databinding\BindToObject3\BindToObject3\obj\Debug\BindToObject3.exe
+E:\vs_2008prj\spectronic\demo\databinding\BindToObject3\BindToObject3\obj\Debug\BindToObject3.pdb
+c:\vs_proj2008_07i\day16 wpf2\BINDTOOBJECT3\BindToObject3\obj\Debug\BindToObject3.exe
+c:\vs_proj2008_07i\day16 wpf2\BINDTOOBJECT3\BindToObject3\obj\Debug\BindToObject3.pdb
+c:\vs_proj2008_07i\day16 wpf2\BINDTOOBJECT3\BindToObject3\bin\Debug\BindToObject3.exe
+c:\vs_proj2008_07i\day16 wpf2\BINDTOOBJECT3\BindToObject3\bin\Debug\BindToObject3.pdb
+c:\vs_proj2008_07i\day16 wpf2\BINDTOOBJECT3\BindToObject3\obj\Debug\ResolveAssemblyReference.cache
+c:\vs_proj2008_07i\day16 wpf2\BINDTOOBJECT3\BindToObject3\obj\Debug\Window1.baml
+c:\vs_proj2008_07i\day16 wpf2\BINDTOOBJECT3\BindToObject3\obj\Debug\Window1.g.cs
+c:\vs_proj2008_07i\day16 wpf2\BINDTOOBJECT3\BindToObject3\obj\Debug\App.g.cs
+c:\vs_proj2008_07i\day16 wpf2\BINDTOOBJECT3\BindToObject3\obj\Debug\BindToObject3_MarkupCompile.cache
+c:\vs_proj2008_07i\day16 wpf2\BINDTOOBJECT3\BindToObject3\obj\Debug\BindToObject3.g.resources
+c:\vs_proj2008_07i\day16 wpf2\BINDTOOBJECT3\BindToObject3\obj\Debug\BindToObject3.Properties.Resources.resources
+c:\vs_proj2008_07i\day16 wpf2\BINDTOOBJECT3\BindToObject3\obj\Debug\BindToObject3.csproj.GenerateResource.Cache
+C:\vs_proj2008_08i\day15demos wpf2\BINDTOOBJECT3\BindToObject3\obj\Debug\BindToObject3.exe
+C:\vs_proj2008_08i\day15demos wpf2\BINDTOOBJECT3\BindToObject3\obj\Debug\BindToObject3.pdb
+C:\vs_proj2008_08i\day15demos wpf2\BINDTOOBJECT3\BindToObject3\bin\Debug\BindToObject3.exe
+C:\vs_proj2008_08i\day15demos wpf2\BINDTOOBJECT3\BindToObject3\bin\Debug\BindToObject3.pdb
+C:\vs_proj2008_08i\day15demos wpf2\BINDTOOBJECT3\BindToObject3\obj\Debug\ResolveAssemblyReference.cache
+C:\vs_proj2008_08i\day15demos wpf2\BINDTOOBJECT3\BindToObject3\obj\Debug\Window1.baml
+C:\vs_proj2008_08i\day15demos wpf2\BINDTOOBJECT3\BindToObject3\obj\Debug\Window1.g.cs
+C:\vs_proj2008_08i\day15demos wpf2\BINDTOOBJECT3\BindToObject3\obj\Debug\App.g.cs
+C:\vs_proj2008_08i\day15demos wpf2\BINDTOOBJECT3\BindToObject3\obj\Debug\BindToObject3_MarkupCompile.cache
+C:\vs_proj2008_08i\day15demos wpf2\BINDTOOBJECT3\BindToObject3\obj\Debug\BindToObject3.g.resources
+C:\vs_proj2008_08i\day15demos wpf2\BINDTOOBJECT3\BindToObject3\obj\Debug\BindToObject3.Properties.Resources.resources
+C:\vs_proj2008_08i\day15demos wpf2\BINDTOOBJECT3\BindToObject3\obj\Debug\BindToObject3.csproj.GenerateResource.Cache
+C:\vs_proj2010\demo09S\wpf2\BINDTOOBJECT3\BindToObject3\obj\Debug\BindToObject3.exe
+C:\vs_proj2010\demo09S\wpf2\BINDTOOBJECT3\BindToObject3\obj\Debug\BindToObject3.pdb
+C:\vs_proj2010\demo09S\wpf2\BINDTOOBJECT3\BindToObject3\bin\Debug\BindToObject3.exe
+C:\vs_proj2010\demo09S\wpf2\BINDTOOBJECT3\BindToObject3\bin\Debug\BindToObject3.pdb
+C:\vs_proj2010\demo09S\wpf2\BINDTOOBJECT3\BindToObject3\obj\Debug\ResolveAssemblyReference.cache
+C:\vs_proj2010\demo09S\wpf2\BINDTOOBJECT3\BindToObject3\obj\Debug\Window1.baml
+C:\vs_proj2010\demo09S\wpf2\BINDTOOBJECT3\BindToObject3\obj\Debug\Window1.g.cs
+C:\vs_proj2010\demo09S\wpf2\BINDTOOBJECT3\BindToObject3\obj\Debug\App.g.cs
+C:\vs_proj2010\demo09S\wpf2\BINDTOOBJECT3\BindToObject3\obj\Debug\BindToObject3_MarkupCompile.cache
+C:\vs_proj2010\demo09S\wpf2\BINDTOOBJECT3\BindToObject3\obj\Debug\BindToObject3.g.resources
+C:\vs_proj2010\demo09S\wpf2\BINDTOOBJECT3\BindToObject3\obj\Debug\BindToObject3.Properties.Resources.resources
+C:\vs_proj2010\demo09S\wpf2\BINDTOOBJECT3\BindToObject3\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\vs_proj2010\demo09S\wpf2\BINDTOOBJECT3\BindToObject3\obj\Debug\GenerateResource-ResGen.write.1.tlog
+c:\vs_proj2010\10Vdemo\day6\BINDTOOBJECT3\BindToObject3\obj\Debug\BindToObject3.exe
+c:\vs_proj2010\10Vdemo\day6\BINDTOOBJECT3\BindToObject3\obj\Debug\BindToObject3.pdb
+c:\vs_proj2010\10Vdemo\day6\BINDTOOBJECT3\BindToObject3\bin\Debug\BindToObject3.exe
+c:\vs_proj2010\10Vdemo\day6\BINDTOOBJECT3\BindToObject3\bin\Debug\BindToObject3.pdb
+c:\vs_proj2010\10Vdemo\day6\BINDTOOBJECT3\BindToObject3\obj\Debug\ResolveAssemblyReference.cache
+c:\vs_proj2010\10Vdemo\day6\BINDTOOBJECT3\BindToObject3\obj\Debug\Window1.baml
+c:\vs_proj2010\10Vdemo\day6\BINDTOOBJECT3\BindToObject3\obj\Debug\Window1.g.cs
+c:\vs_proj2010\10Vdemo\day6\BINDTOOBJECT3\BindToObject3\obj\Debug\App.g.cs
+c:\vs_proj2010\10Vdemo\day6\BINDTOOBJECT3\BindToObject3\obj\Debug\BindToObject3_MarkupCompile.cache
+c:\vs_proj2010\10Vdemo\day6\BINDTOOBJECT3\BindToObject3\obj\Debug\BindToObject3.g.resources
+c:\vs_proj2010\10Vdemo\day6\BINDTOOBJECT3\BindToObject3\obj\Debug\BindToObject3.Properties.Resources.resources
+c:\vs_proj2010\10Vdemo\day6\BINDTOOBJECT3\BindToObject3\obj\Debug\GenerateResource-ResGen.read.1.tlog
+c:\vs_proj2010\10Vdemo\day6\BINDTOOBJECT3\BindToObject3\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\vs_proj2010\10s_demos\dag09\BINDTOOBJECT3\BindToObject3\obj\Debug\BindToObject3.exe
+C:\vs_proj2010\10s_demos\dag09\BINDTOOBJECT3\BindToObject3\obj\Debug\BindToObject3.pdb
+C:\vs_proj2010\10s_demos\dag09\BINDTOOBJECT3\BindToObject3\bin\Debug\BindToObject3.exe
+C:\vs_proj2010\10s_demos\dag09\BINDTOOBJECT3\BindToObject3\bin\Debug\BindToObject3.pdb
+C:\vs_proj2010\10s_demos\dag09\BINDTOOBJECT3\BindToObject3\obj\Debug\Window1.baml
+C:\vs_proj2010\10s_demos\dag09\BINDTOOBJECT3\BindToObject3\obj\Debug\Window1.g.cs
+C:\vs_proj2010\10s_demos\dag09\BINDTOOBJECT3\BindToObject3\obj\Debug\App.g.cs
+C:\vs_proj2010\10s_demos\dag09\BINDTOOBJECT3\BindToObject3\obj\Debug\BindToObject3_MarkupCompile.cache
+C:\vs_proj2010\10s_demos\dag09\BINDTOOBJECT3\BindToObject3\obj\Debug\BindToObject3.g.resources
+C:\vs_proj2010\10s_demos\dag09\BINDTOOBJECT3\BindToObject3\obj\Debug\BindToObject3.Properties.Resources.resources
+C:\vs_proj2010\10s_demos\dag09\BINDTOOBJECT3\BindToObject3\obj\Debug\BindToObject3.csproj.GenerateResource.Cache
+Z:\2013-SPRING\11T-C#\Day 07 - WPF 3\BINDTOOBJECT3\BindToObject3\obj\Debug\BindToObject3.exe
+Z:\2013-SPRING\11T-C#\Day 07 - WPF 3\BINDTOOBJECT3\BindToObject3\obj\Debug\BindToObject3.pdb
+Z:\2013-SPRING\11T-C#\Day 07 - WPF 3\BINDTOOBJECT3\BindToObject3\obj\Debug\BindToObject3.csprojResolveAssemblyReference.cache
+Z:\2013-SPRING\11T-C#\Day 07 - WPF 3\BINDTOOBJECT3\BindToObject3\obj\Debug\Window1.baml
+Z:\2013-SPRING\11T-C#\Day 07 - WPF 3\BINDTOOBJECT3\BindToObject3\obj\Debug\Window1.g.cs
+Z:\2013-SPRING\11T-C#\Day 07 - WPF 3\BINDTOOBJECT3\BindToObject3\obj\Debug\App.g.cs
+Z:\2013-SPRING\11T-C#\Day 07 - WPF 3\BINDTOOBJECT3\BindToObject3\obj\Debug\BindToObject3_MarkupCompile.cache
+Z:\2013-SPRING\11T-C#\Day 07 - WPF 3\BINDTOOBJECT3\BindToObject3\obj\Debug\BindToObject3.g.resources
+Z:\2013-SPRING\11T-C#\Day 07 - WPF 3\BINDTOOBJECT3\BindToObject3\bin\Debug\BindToObject3.exe.config
+Z:\2013-SPRING\11T-C#\Day 07 - WPF 3\BINDTOOBJECT3\BindToObject3\bin\Debug\BindToObject3.exe
+Z:\2013-SPRING\11T-C#\Day 07 - WPF 3\BINDTOOBJECT3\BindToObject3\bin\Debug\BindToObject3.pdb
+Z:\2013-SPRING\11T-C#\Day 07 - WPF 3\BINDTOOBJECT3\BindToObject3\obj\Debug\BindToObject3.Properties.Resources.resources
+Z:\2013-SPRING\11T-C#\Day 07 - WPF 3\BINDTOOBJECT3\BindToObject3\obj\Debug\BindToObject3.csproj.GenerateResource.Cache
+D:\WorkspaceVisualStudio\BINDTOOBJECT3\BindToObject3\bin\Debug\BindToObject3.exe.config
+D:\WorkspaceVisualStudio\BINDTOOBJECT3\BindToObject3\obj\Debug\BindToObject3.exe
+D:\WorkspaceVisualStudio\BINDTOOBJECT3\BindToObject3\obj\Debug\BindToObject3.pdb

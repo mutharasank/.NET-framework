@@ -1,0 +1,13 @@
+D:\WorkspaceVisualStudio\Lecture1ex1-GuessNumber\Lecture1ex1-GuessNumber\bin\Debug\Lecture1ex1-GuessNumber.exe.config
+D:\WorkspaceVisualStudio\Lecture1ex1-GuessNumber\Lecture1ex1-GuessNumber\obj\Debug\Lecture1ex1-GuessNumber.csprojResolveAssemblyReference.cache
+D:\WorkspaceVisualStudio\Lecture1ex1-GuessNumber\Lecture1ex1-GuessNumber\obj\Debug\App.g.cs
+D:\WorkspaceVisualStudio\Lecture1ex1-GuessNumber\Lecture1ex1-GuessNumber\obj\Debug\Lecture1ex1-GuessNumber_MarkupCompile.cache
+D:\WorkspaceVisualStudio\Lecture1ex1-GuessNumber\Lecture1ex1-GuessNumber\bin\Debug\Lecture1ex1-GuessNumber.exe
+D:\WorkspaceVisualStudio\Lecture1ex1-GuessNumber\Lecture1ex1-GuessNumber\bin\Debug\Lecture1ex1-GuessNumber.pdb
+D:\WorkspaceVisualStudio\Lecture1ex1-GuessNumber\Lecture1ex1-GuessNumber\obj\Debug\MainWindow.baml
+D:\WorkspaceVisualStudio\Lecture1ex1-GuessNumber\Lecture1ex1-GuessNumber\obj\Debug\MainWindow.g.cs
+D:\WorkspaceVisualStudio\Lecture1ex1-GuessNumber\Lecture1ex1-GuessNumber\obj\Debug\Lecture1ex1-GuessNumber.g.resources
+D:\WorkspaceVisualStudio\Lecture1ex1-GuessNumber\Lecture1ex1-GuessNumber\obj\Debug\Lecture1ex1_GuessNumber.Properties.Resources.resources
+D:\WorkspaceVisualStudio\Lecture1ex1-GuessNumber\Lecture1ex1-GuessNumber\obj\Debug\Lecture1ex1-GuessNumber.csproj.GenerateResource.Cache
+D:\WorkspaceVisualStudio\Lecture1ex1-GuessNumber\Lecture1ex1-GuessNumber\obj\Debug\Lecture1ex1-GuessNumber.exe
+D:\WorkspaceVisualStudio\Lecture1ex1-GuessNumber\Lecture1ex1-GuessNumber\obj\Debug\Lecture1ex1-GuessNumber.pdb

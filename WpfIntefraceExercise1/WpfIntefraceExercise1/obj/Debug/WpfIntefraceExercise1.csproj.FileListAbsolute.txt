@@ -1,0 +1,13 @@
+D:\WorkspaceVisualStudio\WpfIntefraceExercise1\WpfIntefraceExercise1\bin\Debug\WpfIntefraceExercise1.exe.config
+D:\WorkspaceVisualStudio\WpfIntefraceExercise1\WpfIntefraceExercise1\bin\Debug\WpfIntefraceExercise1.exe
+D:\WorkspaceVisualStudio\WpfIntefraceExercise1\WpfIntefraceExercise1\bin\Debug\WpfIntefraceExercise1.pdb
+D:\WorkspaceVisualStudio\WpfIntefraceExercise1\WpfIntefraceExercise1\obj\Debug\WpfIntefraceExercise1.csprojResolveAssemblyReference.cache
+D:\WorkspaceVisualStudio\WpfIntefraceExercise1\WpfIntefraceExercise1\obj\Debug\MainWindow.baml
+D:\WorkspaceVisualStudio\WpfIntefraceExercise1\WpfIntefraceExercise1\obj\Debug\MainWindow.g.cs
+D:\WorkspaceVisualStudio\WpfIntefraceExercise1\WpfIntefraceExercise1\obj\Debug\App.g.cs
+D:\WorkspaceVisualStudio\WpfIntefraceExercise1\WpfIntefraceExercise1\obj\Debug\WpfIntefraceExercise1_MarkupCompile.cache
+D:\WorkspaceVisualStudio\WpfIntefraceExercise1\WpfIntefraceExercise1\obj\Debug\WpfIntefraceExercise1.g.resources
+D:\WorkspaceVisualStudio\WpfIntefraceExercise1\WpfIntefraceExercise1\obj\Debug\WpfIntefraceExercise1.Properties.Resources.resources
+D:\WorkspaceVisualStudio\WpfIntefraceExercise1\WpfIntefraceExercise1\obj\Debug\WpfIntefraceExercise1.csproj.GenerateResource.Cache
+D:\WorkspaceVisualStudio\WpfIntefraceExercise1\WpfIntefraceExercise1\obj\Debug\WpfIntefraceExercise1.exe
+D:\WorkspaceVisualStudio\WpfIntefraceExercise1\WpfIntefraceExercise1\obj\Debug\WpfIntefraceExercise1.pdb

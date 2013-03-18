@@ -1,0 +1,40 @@
+﻿<Window x:Class="ListItemDemo1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+
+  <Window.Resources>
+    <DataTemplate x:Key="ProductTemplate">
+      <Border Margin="3" BorderThickness="1" Background="LightGray" CornerRadius="5">
+        <Grid Margin="2" Width="240" ShowGridLines="False" Name="gridItems">
+          <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+          </Grid.RowDefinitions>
+          <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+          </Grid.ColumnDefinitions>
+          <TextBlock FontStyle="Italic" Text="Navn: "/>
+          <TextBlock Grid.Column="1" Grid.ColumnSpan="3" FontWeight="Bold" Text="{Binding Path=Name}"/>
+
+          <TextBlock FontStyle="Italic" Text="Kategory: " Grid.Row="1" />
+          <TextBlock Grid.Column="1" Grid.Row="1" Grid.ColumnSpan="3" Text="{Binding Path=Category}"/>
+
+          <TextBlock FontStyle="Italic" Text="Price: " Grid.Row="2" />
+          <TextBlock Text="{Binding Path=Price}" Grid.Row="2" Grid.Column="1" />
+          
+          <TextBlock FontStyle="Italic" Text="In stock: " Grid.Row="2" Grid.Column="2"/>
+          <TextBlock Text="{Binding Path=InStock}" Grid.Row="2" Grid.Column="3" />
+        </Grid>
+      </Border>
+    </DataTemplate>
+  </Window.Resources>
+  <Grid>
+    <ListBox Height="290" HorizontalAlignment="Left" Margin="8,9,0,0" Name="listBoxProducts" VerticalAlignment="Top" 
+                 ItemTemplate="{StaticResource ProductTemplate}"/>
+  </Grid>
+</Window>

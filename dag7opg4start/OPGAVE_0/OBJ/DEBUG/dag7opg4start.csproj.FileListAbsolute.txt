@@ -1,0 +1,26 @@
+C:\vs_proj2012_11s\dag07 opgaver\dag7opg4start\opgave_0\obj\Debug\dag7opg4start.csprojResolveAssemblyReference.cache
+C:\vs_proj2012_11s\dag07 opgaver\dag7opg4start\opgave_0\obj\Debug\MainWindow.baml
+C:\vs_proj2012_11s\dag07 opgaver\dag7opg4start\opgave_0\obj\Debug\MainWindow.g.cs
+C:\vs_proj2012_11s\dag07 opgaver\dag7opg4start\opgave_0\obj\Debug\App.g.cs
+C:\vs_proj2012_11s\dag07 opgaver\dag7opg4start\opgave_0\obj\Debug\dag7opg4start.csproj.GenerateResource.Cache
+C:\vs_proj2012_11s\dag07 opgaver\dag7opg4start\opgave_0\bin\Debug\dag7opg4.exe.config
+C:\vs_proj2012_11s\dag07 opgaver\dag7opg4start\opgave_0\bin\Debug\dag7opg4.exe
+C:\vs_proj2012_11s\dag07 opgaver\dag7opg4start\opgave_0\bin\Debug\dag7opg4.pdb
+C:\vs_proj2012_11s\dag07 opgaver\dag7opg4start\opgave_0\obj\Debug\dag7opg4_MarkupCompile.cache
+C:\vs_proj2012_11s\dag07 opgaver\dag7opg4start\opgave_0\obj\Debug\dag7opg4.g.resources
+C:\vs_proj2012_11s\dag07 opgaver\dag7opg4start\opgave_0\obj\Debug\dag7opg4.Properties.Resources.resources
+C:\vs_proj2012_11s\dag07 opgaver\dag7opg4start\opgave_0\obj\Debug\dag7opg4.exe
+C:\vs_proj2012_11s\dag07 opgaver\dag7opg4start\opgave_0\obj\Debug\dag7opg4.pdb
+D:\WorkspaceVisualStudio\dag7opg4start\opgave_0\bin\Debug\dag7opg4.exe.config
+D:\WorkspaceVisualStudio\dag7opg4start\opgave_0\obj\Debug\dag7opg4.exe
+D:\WorkspaceVisualStudio\dag7opg4start\opgave_0\obj\Debug\dag7opg4.pdb
+D:\WorkspaceVisualStudio\dag7opg4start\opgave_0\bin\Debug\dag7opg4.exe
+D:\WorkspaceVisualStudio\dag7opg4start\opgave_0\bin\Debug\dag7opg4.pdb
+D:\WorkspaceVisualStudio\dag7opg4start\opgave_0\obj\Debug\dag7opg4start.csprojResolveAssemblyReference.cache
+D:\WorkspaceVisualStudio\dag7opg4start\opgave_0\obj\Debug\MainWindow.baml
+D:\WorkspaceVisualStudio\dag7opg4start\opgave_0\obj\Debug\MainWindow.g.cs
+D:\WorkspaceVisualStudio\dag7opg4start\opgave_0\obj\Debug\App.g.cs
+D:\WorkspaceVisualStudio\dag7opg4start\opgave_0\obj\Debug\dag7opg4_MarkupCompile.cache
+D:\WorkspaceVisualStudio\dag7opg4start\opgave_0\obj\Debug\dag7opg4.g.resources
+D:\WorkspaceVisualStudio\dag7opg4start\opgave_0\obj\Debug\dag7opg4.Properties.Resources.resources
+D:\WorkspaceVisualStudio\dag7opg4start\opgave_0\obj\Debug\dag7opg4start.csproj.GenerateResource.Cache

@@ -1,0 +1,5 @@
+C:\vs_proj2008\spectronic\demo\DELEGATETEST\DelegateTest\obj\Debug\DelegateTest.exe
+C:\vs_proj2008\spectronic\demo\DELEGATETEST\DelegateTest\obj\Debug\DelegateTest.pdb
+C:\vs_proj2008\spectronic\demo\DELEGATETEST\DelegateTest\bin\Debug\DelegateTest.exe
+C:\vs_proj2008\spectronic\demo\DELEGATETEST\DelegateTest\bin\Debug\DelegateTest.pdb
+C:\vs_proj2008\spectronic\demo\DELEGATETEST\DelegateTest\obj\Debug\ResolveAssemblyReference.cache

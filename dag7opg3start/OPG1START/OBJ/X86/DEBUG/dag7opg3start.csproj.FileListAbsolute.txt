@@ -1,0 +1,23 @@
+C:\vs_proj2012_11s\dag07 opgaver\dag7opg3start\Opg1Start\bin\Debug\dag7opg3.exe
+C:\vs_proj2012_11s\dag07 opgaver\dag7opg3start\Opg1Start\bin\Debug\dag7opg3.pdb
+C:\vs_proj2012_11s\dag07 opgaver\dag7opg3start\Opg1Start\obj\x86\Debug\MainWindow.baml
+C:\vs_proj2012_11s\dag07 opgaver\dag7opg3start\Opg1Start\obj\x86\Debug\MainWindow.g.cs
+C:\vs_proj2012_11s\dag07 opgaver\dag7opg3start\Opg1Start\obj\x86\Debug\App.g.cs
+C:\vs_proj2012_11s\dag07 opgaver\dag7opg3start\Opg1Start\obj\x86\Debug\dag7opg3_MarkupCompile.cache
+C:\vs_proj2012_11s\dag07 opgaver\dag7opg3start\Opg1Start\obj\x86\Debug\dag7opg3.g.resources
+C:\vs_proj2012_11s\dag07 opgaver\dag7opg3start\Opg1Start\obj\x86\Debug\Opg3Start.Properties.Resources.resources
+C:\vs_proj2012_11s\dag07 opgaver\dag7opg3start\Opg1Start\obj\x86\Debug\dag7opg3start.csproj.GenerateResource.Cache
+C:\vs_proj2012_11s\dag07 opgaver\dag7opg3start\Opg1Start\obj\x86\Debug\dag7opg3.exe
+C:\vs_proj2012_11s\dag07 opgaver\dag7opg3start\Opg1Start\obj\x86\Debug\dag7opg3.pdb
+D:\WorkspaceVisualStudio\dag7opg3start\Opg1Start\obj\x86\Debug\dag7opg3.exe
+D:\WorkspaceVisualStudio\dag7opg3start\Opg1Start\obj\x86\Debug\dag7opg3.pdb
+D:\WorkspaceVisualStudio\dag7opg3start\Opg1Start\bin\Debug\dag7opg3.exe
+D:\WorkspaceVisualStudio\dag7opg3start\Opg1Start\bin\Debug\dag7opg3.pdb
+D:\WorkspaceVisualStudio\dag7opg3start\Opg1Start\obj\x86\Debug\dag7opg3start.csprojResolveAssemblyReference.cache
+D:\WorkspaceVisualStudio\dag7opg3start\Opg1Start\obj\x86\Debug\MainWindow.baml
+D:\WorkspaceVisualStudio\dag7opg3start\Opg1Start\obj\x86\Debug\MainWindow.g.cs
+D:\WorkspaceVisualStudio\dag7opg3start\Opg1Start\obj\x86\Debug\App.g.cs
+D:\WorkspaceVisualStudio\dag7opg3start\Opg1Start\obj\x86\Debug\dag7opg3_MarkupCompile.cache
+D:\WorkspaceVisualStudio\dag7opg3start\Opg1Start\obj\x86\Debug\dag7opg3.g.resources
+D:\WorkspaceVisualStudio\dag7opg3start\Opg1Start\obj\x86\Debug\Opg3Start.Properties.Resources.resources
+D:\WorkspaceVisualStudio\dag7opg3start\Opg1Start\obj\x86\Debug\dag7opg3start.csproj.GenerateResource.Cache

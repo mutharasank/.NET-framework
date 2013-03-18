@@ -1,0 +1,19 @@
+C:\vs_proj2008\spectronic\demo\DELEGATETEST\DelegateTest\obj\Debug\DelegateTest.exe
+C:\vs_proj2008\spectronic\demo\DELEGATETEST\DelegateTest\obj\Debug\DelegateTest.pdb
+C:\vs_proj2008\spectronic\demo\DELEGATETEST\DelegateTest\bin\Debug\DelegateTest.exe
+C:\vs_proj2008\spectronic\demo\DELEGATETEST\DelegateTest\bin\Debug\DelegateTest.pdb
+C:\vs_proj2008\spectronic\demo\DELEGATETEST\DelegateTest\obj\Debug\ResolveAssemblyReference.cache
+c:\vs_proj2008_07V\demo\delegate_events\DELEGATETEST\DelegateTest\obj\Debug\DelegateTest.exe
+c:\vs_proj2008_07V\demo\delegate_events\DELEGATETEST\DelegateTest\obj\Debug\DelegateTest.pdb
+C:\vs_proj2010\10Vdemo\day3\DELEGATETEST\DelegateTest\obj\Debug\DelegateTest.exe
+C:\vs_proj2010\10Vdemo\day3\DELEGATETEST\DelegateTest\obj\Debug\DelegateTest.pdb
+c:\vs_proj2010\10Vdemo\day3\DELEGATETEST\DelegateTest\bin\Debug\DelegateTest.exe
+c:\vs_proj2010\10Vdemo\day3\DELEGATETEST\DelegateTest\bin\Debug\DelegateTest.pdb
+c:\vs_proj2010\10Vdemo\day3\DELEGATETEST\DelegateTest\obj\Debug\ResolveAssemblyReference.cache
+Z:\2013-SPRING\11T-C#\Day 04 - C# sproget 3\delegate_examples\DELEGATETEST\DelegateTest\obj\Debug\DelegateTest.exe
+Z:\2013-SPRING\11T-C#\Day 04 - C# sproget 3\delegate_examples\DELEGATETEST\DelegateTest\obj\Debug\DelegateTest.pdb
+Z:\2013-SPRING\11T-C#\Day 04 - C# sproget 3\delegate_examples\DELEGATETEST\DelegateTest\bin\Debug\DelegateTest.exe
+Z:\2013-SPRING\11T-C#\Day 04 - C# sproget 3\delegate_examples\DELEGATETEST\DelegateTest\bin\Debug\DelegateTest.pdb
+Z:\2013-SPRING\11T-C#\Day 04 - C# sproget 3\delegate_examples\DELEGATETEST\DelegateTest\obj\Debug\DelegateTest.csprojResolveAssemblyReference.cache
+D:\WorkspaceVisualStudio\DELEGATETEST\DelegateTest\obj\Debug\DelegateTest.exe
+D:\WorkspaceVisualStudio\DELEGATETEST\DelegateTest\obj\Debug\DelegateTest.pdb

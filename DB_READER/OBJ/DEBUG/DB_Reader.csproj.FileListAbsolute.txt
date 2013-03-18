@@ -1,0 +1,35 @@
+E:\vs_2008prj\dbdemo\DB_Reader\DB_Reader\obj\Debug\DB_Reader.exe
+E:\vs_2008prj\dbdemo\DB_Reader\DB_Reader\obj\Debug\DB_Reader.pdb
+E:\vs_2008prj\dbdemo\DB_Reader\DB_Reader\bin\Debug\DB_Reader.exe
+E:\vs_2008prj\dbdemo\DB_Reader\DB_Reader\bin\Debug\DB_Reader.pdb
+E:\vs_2008prj\dbdemo\DB_Reader\DB_Reader\obj\Debug\ResolveAssemblyReference.cache
+C:\vs_proj2008_06i\dbdemo\DB_Reader\DB_Reader\obj\Debug\DB_Reader.exe
+C:\vs_proj2008_06i\dbdemo\DB_Reader\DB_Reader\obj\Debug\DB_Reader.pdb
+C:\vs_proj2008_06i\dbdemo\DB_Reader\DB_Reader\obj\Debug\ResolveAssemblyReference.cache
+C:\vs_proj2008_06i\dbdemo\DB_Reader\DB_Reader\bin\Debug\DB_Reader.exe
+C:\vs_proj2008_06i\dbdemo\DB_Reader\DB_Reader\bin\Debug\DB_Reader.pdb
+c:\vs_proj2010\10Vdemo\dag7 ado_net\DB_Reader\DB_Reader\obj\Debug\DB_Reader.exe
+c:\vs_proj2010\10Vdemo\dag7 ado_net\DB_Reader\DB_Reader\obj\Debug\DB_Reader.pdb
+c:\vs_proj2010\10Vdemo\dag7 ado_net\DB_Reader\DB_Reader\bin\Debug\DB_Reader.exe
+c:\vs_proj2010\10Vdemo\dag7 ado_net\DB_Reader\DB_Reader\bin\Debug\DB_Reader.pdb
+c:\vs_proj2010\10Vdemo\dag7 ado_net\DB_Reader\DB_Reader\obj\Debug\ResolveAssemblyReference.cache
+C:\vs_proj2012_11s\dag09\DB_READER\DB_Reader\obj\Debug\DB_Reader.exe
+C:\vs_proj2012_11s\dag09\DB_READER\DB_Reader\obj\Debug\DB_Reader.pdb
+C:\vs_proj2012_11s\dag09\DB_READER\DB_Reader\bin\Debug\DB_Reader.exe
+C:\vs_proj2012_11s\dag09\DB_READER\DB_Reader\bin\Debug\DB_Reader.pdb
+C:\vs_proj2012_11s\dag09\DB_READER\DB_Reader\obj\Debug\DB_Reader.csprojResolveAssemblyReference.cache
+Z:\2013-SPRING\11T-C#\Day 09 - ADO.NET 1\DB_READER\DB_Reader\obj\Debug\DB_Reader.exe
+Z:\2013-SPRING\11T-C#\Day 09 - ADO.NET 1\DB_READER\DB_Reader\obj\Debug\DB_Reader.pdb
+Z:\2013-SPRING\11T-C#\Day 09 - ADO.NET 1\DB_READER\DB_Reader\bin\Debug\DB_Reader.exe
+Z:\2013-SPRING\11T-C#\Day 09 - ADO.NET 1\DB_READER\DB_Reader\bin\Debug\DB_Reader.pdb
+Z:\2013-SPRING\11T-C#\Day 09 - ADO.NET 1\DB_READER\DB_Reader\obj\Debug\DB_Reader.csprojResolveAssemblyReference.cache
+Z:\2013-SPRING\11T-C#\Day 09 - ADO.NET 1\DB_READER\DB_Reader\bin\Debug\DB_Reader.exe.config
+Z:\2013-SPRING\11I-C#\Day 09 - ADO.NET 1\DB_READER\DB_Reader\bin\Debug\DB_Reader.exe.config
+Z:\2013-SPRING\11I-C#\Day 09 - ADO.NET 1\DB_READER\DB_Reader\obj\Debug\DB_Reader.exe
+Z:\2013-SPRING\11I-C#\Day 09 - ADO.NET 1\DB_READER\DB_Reader\obj\Debug\DB_Reader.pdb
+Z:\2013-SPRING\11I-C#\Day 09 - ADO.NET 1\DB_READER\DB_Reader\bin\Debug\DB_Reader.exe
+Z:\2013-SPRING\11I-C#\Day 09 - ADO.NET 1\DB_READER\DB_Reader\bin\Debug\DB_Reader.pdb
+Z:\2013-SPRING\11I-C#\Day 09 - ADO.NET 1\DB_READER\DB_Reader\obj\Debug\DB_Reader.csprojResolveAssemblyReference.cache
+D:\WorkspaceVisualStudio\DB_READER\bin\Debug\DB_Reader.exe.config
+D:\WorkspaceVisualStudio\DB_READER\obj\Debug\DB_Reader.exe
+D:\WorkspaceVisualStudio\DB_READER\obj\Debug\DB_Reader.pdb

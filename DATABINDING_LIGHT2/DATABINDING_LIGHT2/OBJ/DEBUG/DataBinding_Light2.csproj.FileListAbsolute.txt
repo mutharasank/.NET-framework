@@ -1,0 +1,40 @@
+C:\vs2012_11V\DataBinding_Light2\DataBinding_Light2\bin\Debug\DataBinding_Light2.exe.config
+C:\vs2012_11V\DataBinding_Light2\DataBinding_Light2\obj\Debug\MainWindow.baml
+C:\vs2012_11V\DataBinding_Light2\DataBinding_Light2\obj\Debug\MainWindow.g.cs
+C:\vs2012_11V\DataBinding_Light2\DataBinding_Light2\obj\Debug\App.g.cs
+C:\vs2012_11V\DataBinding_Light2\DataBinding_Light2\obj\Debug\DataBinding_Light2_MarkupCompile.cache
+C:\vs2012_11V\DataBinding_Light2\DataBinding_Light2\obj\Debug\DataBinding_Light2.g.resources
+C:\vs2012_11V\DataBinding_Light2\DataBinding_Light2\obj\Debug\DataBinding_Light2.Properties.Resources.resources
+C:\vs2012_11V\DataBinding_Light2\DataBinding_Light2\obj\Debug\DataBinding_Light2.csproj.GenerateResource.Cache
+C:\vs2012_11V\DataBinding_Light2\DataBinding_Light2\bin\Debug\DataBinding_Light2.exe
+C:\vs2012_11V\DataBinding_Light2\DataBinding_Light2\bin\Debug\DataBinding_Light2.pdb
+C:\vs2012_11V\DataBinding_Light2\DataBinding_Light2\obj\Debug\DataBinding_Light2.exe
+C:\vs2012_11V\DataBinding_Light2\DataBinding_Light2\obj\Debug\DataBinding_Light2.pdb
+C:\vs_proj2012_11s\dag05\DATABINDING_LIGHT2\DataBinding_Light2\bin\Debug\DataBinding_Light2.exe.config
+C:\vs_proj2012_11s\dag05\DATABINDING_LIGHT2\DataBinding_Light2\bin\Debug\DataBinding_Light2.exe
+C:\vs_proj2012_11s\dag05\DATABINDING_LIGHT2\DataBinding_Light2\bin\Debug\DataBinding_Light2.pdb
+C:\vs_proj2012_11s\dag05\DATABINDING_LIGHT2\DataBinding_Light2\obj\Debug\MainWindow.baml
+C:\vs_proj2012_11s\dag05\DATABINDING_LIGHT2\DataBinding_Light2\obj\Debug\MainWindow.g.cs
+C:\vs_proj2012_11s\dag05\DATABINDING_LIGHT2\DataBinding_Light2\obj\Debug\App.g.cs
+C:\vs_proj2012_11s\dag05\DATABINDING_LIGHT2\DataBinding_Light2\obj\Debug\DataBinding_Light2_MarkupCompile.cache
+C:\vs_proj2012_11s\dag05\DATABINDING_LIGHT2\DataBinding_Light2\obj\Debug\DataBinding_Light2.g.resources
+C:\vs_proj2012_11s\dag05\DATABINDING_LIGHT2\DataBinding_Light2\obj\Debug\DataBinding_Light2.Properties.Resources.resources
+C:\vs_proj2012_11s\dag05\DATABINDING_LIGHT2\DataBinding_Light2\obj\Debug\DataBinding_Light2.csproj.GenerateResource.Cache
+C:\vs_proj2012_11s\dag05\DATABINDING_LIGHT2\DataBinding_Light2\obj\Debug\DataBinding_Light2.exe
+C:\vs_proj2012_11s\dag05\DATABINDING_LIGHT2\DataBinding_Light2\obj\Debug\DataBinding_Light2.pdb
+Z:\2013-SPRING\11S-C#-ATM\Day 05\DATABINDING_LIGHT2\DataBinding_Light2\bin\Debug\DataBinding_Light2.exe.config
+Z:\2013-SPRING\11S-C#-ATM\Day 05\DATABINDING_LIGHT2\DataBinding_Light2\obj\Debug\DataBinding_Light2.exe
+Z:\2013-SPRING\11S-C#-ATM\Day 05\DATABINDING_LIGHT2\DataBinding_Light2\obj\Debug\DataBinding_Light2.pdb
+Z:\2013-SPRING\11S-C#-ATM\Day 05\DATABINDING_LIGHT2\DataBinding_Light2\bin\Debug\DataBinding_Light2.exe
+Z:\2013-SPRING\11S-C#-ATM\Day 05\DATABINDING_LIGHT2\DataBinding_Light2\bin\Debug\DataBinding_Light2.pdb
+Z:\2013-SPRING\11S-C#-ATM\Day 05\DATABINDING_LIGHT2\DataBinding_Light2\obj\Debug\DataBinding_Light2.csprojResolveAssemblyReference.cache
+Z:\2013-SPRING\11S-C#-ATM\Day 05\DATABINDING_LIGHT2\DataBinding_Light2\obj\Debug\MainWindow.baml
+Z:\2013-SPRING\11S-C#-ATM\Day 05\DATABINDING_LIGHT2\DataBinding_Light2\obj\Debug\MainWindow.g.cs
+Z:\2013-SPRING\11S-C#-ATM\Day 05\DATABINDING_LIGHT2\DataBinding_Light2\obj\Debug\App.g.cs
+Z:\2013-SPRING\11S-C#-ATM\Day 05\DATABINDING_LIGHT2\DataBinding_Light2\obj\Debug\DataBinding_Light2_MarkupCompile.cache
+Z:\2013-SPRING\11S-C#-ATM\Day 05\DATABINDING_LIGHT2\DataBinding_Light2\obj\Debug\DataBinding_Light2.g.resources
+Z:\2013-SPRING\11S-C#-ATM\Day 05\DATABINDING_LIGHT2\DataBinding_Light2\obj\Debug\DataBinding_Light2.Properties.Resources.resources
+Z:\2013-SPRING\11S-C#-ATM\Day 05\DATABINDING_LIGHT2\DataBinding_Light2\obj\Debug\DataBinding_Light2.csproj.GenerateResource.Cache
+D:\WorkspaceVisualStudio\DATABINDING_LIGHT2\DataBinding_Light2\bin\Debug\DataBinding_Light2.exe.config
+D:\WorkspaceVisualStudio\DATABINDING_LIGHT2\DataBinding_Light2\obj\Debug\DataBinding_Light2.exe
+D:\WorkspaceVisualStudio\DATABINDING_LIGHT2\DataBinding_Light2\obj\Debug\DataBinding_Light2.pdb

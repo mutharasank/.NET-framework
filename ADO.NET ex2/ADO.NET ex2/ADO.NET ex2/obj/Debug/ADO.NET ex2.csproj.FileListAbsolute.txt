@@ -1,0 +1,13 @@
+D:\WorkspaceVisualStudio\ADO.NET ex2\ADO.NET ex2\ADO.NET ex2\bin\Debug\ADO.NET ex2.exe.config
+D:\WorkspaceVisualStudio\ADO.NET ex2\ADO.NET ex2\ADO.NET ex2\obj\Debug\ADO.NET ex2.csprojResolveAssemblyReference.cache
+D:\WorkspaceVisualStudio\ADO.NET ex2\ADO.NET ex2\ADO.NET ex2\obj\Debug\MainWindow.baml
+D:\WorkspaceVisualStudio\ADO.NET ex2\ADO.NET ex2\ADO.NET ex2\obj\Debug\MainWindow.g.cs
+D:\WorkspaceVisualStudio\ADO.NET ex2\ADO.NET ex2\ADO.NET ex2\obj\Debug\App.g.cs
+D:\WorkspaceVisualStudio\ADO.NET ex2\ADO.NET ex2\ADO.NET ex2\obj\Debug\ADO.NET ex2_MarkupCompile.cache
+D:\WorkspaceVisualStudio\ADO.NET ex2\ADO.NET ex2\ADO.NET ex2\obj\Debug\ADO.NET ex2.g.resources
+D:\WorkspaceVisualStudio\ADO.NET ex2\ADO.NET ex2\ADO.NET ex2\obj\Debug\ADO.NET_ex2.Properties.Resources.resources
+D:\WorkspaceVisualStudio\ADO.NET ex2\ADO.NET ex2\ADO.NET ex2\obj\Debug\ADO.NET ex2.csproj.GenerateResource.Cache
+D:\WorkspaceVisualStudio\ADO.NET ex2\ADO.NET ex2\ADO.NET ex2\bin\Debug\ADO.NET ex2.exe
+D:\WorkspaceVisualStudio\ADO.NET ex2\ADO.NET ex2\ADO.NET ex2\bin\Debug\ADO.NET ex2.pdb
+D:\WorkspaceVisualStudio\ADO.NET ex2\ADO.NET ex2\ADO.NET ex2\obj\Debug\ADO.NET ex2.exe
+D:\WorkspaceVisualStudio\ADO.NET ex2\ADO.NET ex2\ADO.NET ex2\obj\Debug\ADO.NET ex2.pdb

@@ -1,0 +1,12 @@
+C:\vs_proj2012_11s\dag07 opgaver\dag7opg1start\Dag9Opg1\bin\Debug\Dag9Opg1.exe
+C:\vs_proj2012_11s\dag07 opgaver\dag7opg1start\Dag9Opg1\bin\Debug\Dag9Opg1.pdb
+C:\vs_proj2012_11s\dag07 opgaver\dag7opg1start\Dag9Opg1\obj\x86\Debug\Dag7Opg1.csprojResolveAssemblyReference.cache
+C:\vs_proj2012_11s\dag07 opgaver\dag7opg1start\Dag9Opg1\obj\x86\Debug\MainWindow.baml
+C:\vs_proj2012_11s\dag07 opgaver\dag7opg1start\Dag9Opg1\obj\x86\Debug\MainWindow.g.cs
+C:\vs_proj2012_11s\dag07 opgaver\dag7opg1start\Dag9Opg1\obj\x86\Debug\App.g.cs
+C:\vs_proj2012_11s\dag07 opgaver\dag7opg1start\Dag9Opg1\obj\x86\Debug\Dag9Opg1_MarkupCompile.cache
+C:\vs_proj2012_11s\dag07 opgaver\dag7opg1start\Dag9Opg1\obj\x86\Debug\Dag9Opg1.g.resources
+C:\vs_proj2012_11s\dag07 opgaver\dag7opg1start\Dag9Opg1\obj\x86\Debug\Dag7Opg1.csproj.GenerateResource.Cache
+C:\vs_proj2012_11s\dag07 opgaver\dag7opg1start\Dag9Opg1\obj\x86\Debug\Dag9Opg1.exe
+C:\vs_proj2012_11s\dag07 opgaver\dag7opg1start\Dag9Opg1\obj\x86\Debug\Dag9Opg1.pdb
+C:\vs_proj2012_11s\dag07 opgaver\dag7opg1start\Dag9Opg1\obj\x86\Debug\Dag7Opg1.Properties.Resources.resources

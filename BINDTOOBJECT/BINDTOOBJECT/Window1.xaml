@@ -1,0 +1,32 @@
+﻿<Window x:Class="BindToObject.Window1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="clr-namespace:BindToObject" 
+    Title="Window1" Height="300" Width="300">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" MinHeight="29" />
+            <RowDefinition Height="Auto" MinHeight="29" />
+            <RowDefinition Height="Auto" MinHeight="31" />
+            <RowDefinition Height="*" MinHeight="31" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto" MinWidth="42" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+
+        <TextBlock Grid.Row="0" Grid.Column="0" Margin="5" VerticalAlignment="Center">Name:</TextBlock>
+        <TextBox Grid.Row="0" Grid.Column="1" Margin="5" Name="tBoxName" />
+
+        <TextBlock Grid.Row="1" Grid.Column="0" Margin="5" VerticalAlignment="Center">Age:</TextBlock>
+        <TextBox Name="tBoxAge" Grid.Row="1" Grid.Column="1" Margin="5" />
+
+        <Button Name="birthdayButton" Grid.Row="2" Grid.Column="1" Margin="5">Birthday</Button>
+        <TextBox Grid.Column="1" Grid.Row="2" Height="23" Margin="6,0,164,-29" Name="tBoxSetAge" VerticalAlignment="Bottom" />
+        <Button Grid.Column="1" Grid.Row="2" Height="23" Margin="6,0,6,-58" Name="button1" VerticalAlignment="Bottom" 
+            Click="button1_Click">Set Age</Button>
+        <Button Grid.Column="1" Grid.Row="3" Height="23" HorizontalAlignment="Stretch" Margin="6,0,6,6" Name="btnShowObject" VerticalAlignment="Bottom" 
+            Click="btnShowObject_Click">ShowObject</Button>
+    </Grid>
+</Window>

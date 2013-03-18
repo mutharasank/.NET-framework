@@ -1,0 +1,6 @@
+D:\WorkspaceVisualStudio\TimeStruct\TimeStruct\bin\Debug\TimeStruct.exe.config
+D:\WorkspaceVisualStudio\TimeStruct\TimeStruct\obj\Debug\TimeStruct.csprojResolveAssemblyReference.cache
+D:\WorkspaceVisualStudio\TimeStruct\TimeStruct\bin\Debug\TimeStruct.exe
+D:\WorkspaceVisualStudio\TimeStruct\TimeStruct\bin\Debug\TimeStruct.pdb
+D:\WorkspaceVisualStudio\TimeStruct\TimeStruct\obj\Debug\TimeStruct.exe
+D:\WorkspaceVisualStudio\TimeStruct\TimeStruct\obj\Debug\TimeStruct.pdb

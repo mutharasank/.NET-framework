@@ -1,0 +1,37 @@
+C:\vs_proj2010\10s_demos\dag03\EventWPF\EventWPF\bin\Debug\EventWPF.exe
+C:\vs_proj2010\10s_demos\dag03\EventWPF\EventWPF\bin\Debug\EventWPF.pdb
+C:\vs_proj2010\10s_demos\dag03\EventWPF\EventWPF\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\vs_proj2010\10s_demos\dag03\EventWPF\EventWPF\obj\x86\Debug\MainWindow.baml
+C:\vs_proj2010\10s_demos\dag03\EventWPF\EventWPF\obj\x86\Debug\MainWindow.g.cs
+C:\vs_proj2010\10s_demos\dag03\EventWPF\EventWPF\obj\x86\Debug\App.g.cs
+C:\vs_proj2010\10s_demos\dag03\EventWPF\EventWPF\obj\x86\Debug\EventWPF_MarkupCompile.cache
+C:\vs_proj2010\10s_demos\dag03\EventWPF\EventWPF\obj\x86\Debug\EventWPF.g.resources
+C:\vs_proj2010\10s_demos\dag03\EventWPF\EventWPF\obj\x86\Debug\EventWPF.Properties.Resources.resources
+C:\vs_proj2010\10s_demos\dag03\EventWPF\EventWPF\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\vs_proj2010\10s_demos\dag03\EventWPF\EventWPF\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\vs_proj2010\10s_demos\dag03\EventWPF\EventWPF\obj\x86\Debug\EventWPF.exe
+C:\vs_proj2010\10s_demos\dag03\EventWPF\EventWPF\obj\x86\Debug\EventWPF.pdb
+Z:\2013-SPRING\11T-C#\Day 04 - C# sproget 3\EventWPF\EventWPF\obj\x86\Debug\EventWPF.exe
+Z:\2013-SPRING\11T-C#\Day 04 - C# sproget 3\EventWPF\EventWPF\obj\x86\Debug\EventWPF.pdb
+Z:\2013-SPRING\11T-C#\Day 04 - C# sproget 3\EventWPF\EventWPF\bin\Debug\EventWPF.exe
+Z:\2013-SPRING\11T-C#\Day 04 - C# sproget 3\EventWPF\EventWPF\bin\Debug\EventWPF.pdb
+Z:\2013-SPRING\11T-C#\Day 04 - C# sproget 3\EventWPF\EventWPF\obj\x86\Debug\EventWPF.csprojResolveAssemblyReference.cache
+Z:\2013-SPRING\11T-C#\Day 04 - C# sproget 3\EventWPF\EventWPF\obj\x86\Debug\MainWindow.baml
+Z:\2013-SPRING\11T-C#\Day 04 - C# sproget 3\EventWPF\EventWPF\obj\x86\Debug\MainWindow.g.cs
+Z:\2013-SPRING\11T-C#\Day 04 - C# sproget 3\EventWPF\EventWPF\obj\x86\Debug\App.g.cs
+Z:\2013-SPRING\11T-C#\Day 04 - C# sproget 3\EventWPF\EventWPF\obj\x86\Debug\EventWPF_MarkupCompile.cache
+Z:\2013-SPRING\11T-C#\Day 04 - C# sproget 3\EventWPF\EventWPF\obj\x86\Debug\EventWPF.g.resources
+Z:\2013-SPRING\11T-C#\Day 04 - C# sproget 3\EventWPF\EventWPF\obj\x86\Debug\EventWPF.Properties.Resources.resources
+Z:\2013-SPRING\11T-C#\Day 04 - C# sproget 3\EventWPF\EventWPF\obj\x86\Debug\EventWPF.csproj.GenerateResource.Cache
+D:\WorkspaceVisualStudio\EventWPF\obj\x86\Debug\EventWPF.exe
+D:\WorkspaceVisualStudio\EventWPF\obj\x86\Debug\EventWPF.pdb
+D:\WorkspaceVisualStudio\EventWPF\bin\Debug\EventWPF.exe
+D:\WorkspaceVisualStudio\EventWPF\bin\Debug\EventWPF.pdb
+D:\WorkspaceVisualStudio\EventWPF\obj\x86\Debug\EventWPF.csprojResolveAssemblyReference.cache
+D:\WorkspaceVisualStudio\EventWPF\obj\x86\Debug\MainWindow.baml
+D:\WorkspaceVisualStudio\EventWPF\obj\x86\Debug\MainWindow.g.cs
+D:\WorkspaceVisualStudio\EventWPF\obj\x86\Debug\App.g.cs
+D:\WorkspaceVisualStudio\EventWPF\obj\x86\Debug\EventWPF_MarkupCompile.cache
+D:\WorkspaceVisualStudio\EventWPF\obj\x86\Debug\EventWPF.g.resources
+D:\WorkspaceVisualStudio\EventWPF\obj\x86\Debug\EventWPF.Properties.Resources.resources
+D:\WorkspaceVisualStudio\EventWPF\obj\x86\Debug\EventWPF.csproj.GenerateResource.Cache

@@ -1,0 +1,6 @@
+D:\WorkspaceVisualStudio\GrowableIndexer\GrowableIndexer\bin\Debug\GrowableIndexer.exe.config
+D:\WorkspaceVisualStudio\GrowableIndexer\GrowableIndexer\obj\Debug\GrowableIndexer.csprojResolveAssemblyReference.cache
+D:\WorkspaceVisualStudio\GrowableIndexer\GrowableIndexer\bin\Debug\GrowableIndexer.exe
+D:\WorkspaceVisualStudio\GrowableIndexer\GrowableIndexer\bin\Debug\GrowableIndexer.pdb
+D:\WorkspaceVisualStudio\GrowableIndexer\GrowableIndexer\obj\Debug\GrowableIndexer.exe
+D:\WorkspaceVisualStudio\GrowableIndexer\GrowableIndexer\obj\Debug\GrowableIndexer.pdb

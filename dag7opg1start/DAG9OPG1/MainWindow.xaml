@@ -1,0 +1,21 @@
+﻿<Window x:Class="Dag7Opg1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="378.299" Width="525">
+    <StackPanel Name="TopStackPanel">
+        <Label Content="Name" Height="28" Name="label1" />
+        <TextBox Height="23" Name="tBoxName" Width="120" HorizontalAlignment="Left" Text = "{Binding Path=Name,Mode=TwoWay}"  />
+        <Label Content="Height (cm)" Height="28" Name="label2" />
+        <TextBox Height="23" Name="tBoxHeight" Width="120" HorizontalAlignment="Left" Text = "{Binding Path=Height,Mode=TwoWay}" />
+        <Label Content="Weight (kg)" Height="28" Name="label3" />
+        <TextBox Height="23" Name="tBoxWeight" Width="120" HorizontalAlignment="Left" Text = "{Binding Path=Weight,Mode=TwoWay}"/>
+        <Label Content="BMI" Height="28" Name="label4" />
+        <Rectangle Height="6" Stroke="LightGreen" Width="185" HorizontalAlignment="Left" Fill="LightGreen"/>
+        <Rectangle Height="25" Name="rectBmi" Stroke="Black" Width="{Binding Path=BMI}" HorizontalAlignment="Left" Fill="LightGray" />
+        <Rectangle Height="6" Stroke="Yellow" Width="250" HorizontalAlignment="Left" Fill="Yellow"/>
+        <Rectangle Height="6" Stroke="Red" Width="300" HorizontalAlignment="Left" Fill="Red"/>
+        <Button Content="Show Person Object" Height="23" Name="btnShow" Width="120" Margin="0,20,0,0" HorizontalAlignment="Left" Click="btnShow_Click" />
+        <Button Content="Set h=170, w=70" Height="23" Name="btnSet1" Width="120" Margin="0,10,0,0" HorizontalAlignment="Left" Click="btnSet1_Click" />
+        <Button Content="Set h=164, w=87" Height="23" Name="btnSet2" Width="120" Margin="0,5,0,0" HorizontalAlignment="Left" Click="btnSet2_Click" />
+    </StackPanel>
+</Window>
