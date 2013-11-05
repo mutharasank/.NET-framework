@@ -1,0 +1,14 @@
+D:\WorkspaceVisualStudio\Tweakker_DB_System\Tweakker_DB_System\Tweakker_DB_System\bin\Debug\Tweakker_DB_System.exe.config
+D:\WorkspaceVisualStudio\Tweakker_DB_System\Tweakker_DB_System\Tweakker_DB_System\bin\Debug\Tweakker_DB_System.exe
+D:\WorkspaceVisualStudio\Tweakker_DB_System\Tweakker_DB_System\Tweakker_DB_System\bin\Debug\Tweakker_DB_System.pdb
+D:\WorkspaceVisualStudio\Tweakker_DB_System\Tweakker_DB_System\Tweakker_DB_System\obj\Debug\Tweakker_DB_System.csprojResolveAssemblyReference.cache
+D:\WorkspaceVisualStudio\Tweakker_DB_System\Tweakker_DB_System\Tweakker_DB_System\obj\Debug\MainWindow.baml
+D:\WorkspaceVisualStudio\Tweakker_DB_System\Tweakker_DB_System\Tweakker_DB_System\obj\Debug\MainWindow.g.cs
+D:\WorkspaceVisualStudio\Tweakker_DB_System\Tweakker_DB_System\Tweakker_DB_System\obj\Debug\App.g.cs
+D:\WorkspaceVisualStudio\Tweakker_DB_System\Tweakker_DB_System\Tweakker_DB_System\obj\Debug\Tweakker_DB_System_MarkupCompile.cache
+D:\WorkspaceVisualStudio\Tweakker_DB_System\Tweakker_DB_System\Tweakker_DB_System\obj\Debug\Tweakker_DB_System.g.resources
+D:\WorkspaceVisualStudio\Tweakker_DB_System\Tweakker_DB_System\Tweakker_DB_System\obj\Debug\Tweakker_DB_System.Properties.Resources.resources
+D:\WorkspaceVisualStudio\Tweakker_DB_System\Tweakker_DB_System\Tweakker_DB_System\obj\Debug\Tweakker_DB_System.csproj.GenerateResource.Cache
+D:\WorkspaceVisualStudio\Tweakker_DB_System\Tweakker_DB_System\Tweakker_DB_System\obj\Debug\Tweakker_DB_System.exe
+D:\WorkspaceVisualStudio\Tweakker_DB_System\Tweakker_DB_System\Tweakker_DB_System\obj\Debug\Tweakker_DB_System.pdb
+D:\WorkspaceVisualStudio\Tweakker_DB_System\Tweakker_DB_System\Tweakker_DB_System\bin\Debug\MySql.Data.dll

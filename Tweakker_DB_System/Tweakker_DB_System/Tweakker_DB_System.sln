@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tweakker_DB_System", "Tweakker_DB_System\Tweakker_DB_System.csproj", "{3E147C63-632E-4829-B01A-0BF7C83A1996}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E147C63-632E-4829-B01A-0BF7C83A1996}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E147C63-632E-4829-B01A-0BF7C83A1996}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E147C63-632E-4829-B01A-0BF7C83A1996}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E147C63-632E-4829-B01A-0BF7C83A1996}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
