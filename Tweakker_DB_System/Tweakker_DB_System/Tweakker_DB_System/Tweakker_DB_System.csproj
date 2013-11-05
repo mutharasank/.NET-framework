@@ -57,6 +57,9 @@
       <SubType>Designer</SubType>
     </ApplicationDefinition>
     <Compile Include="Country.cs" />
+    <Compile Include="Network.cs" />
+    <Compile Include="Parameter.cs" />
+    <Compile Include="Setting.cs" />
     <Compile Include="SqlScripts.cs" />
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>

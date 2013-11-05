@@ -1,4 +1,5 @@
-﻿using System;
+﻿using MySql.Data.MySqlClient;
+using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.Diagnostics;
@@ -92,6 +93,11 @@ namespace Tweakker_DB_System
             cbx_Countries.DataContext = countries;
             cbx_Countries.DisplayMemberPath = "name";
 
+            cbx_Countries_tab2.ItemsSource = countries;
+            cbx_Countries_tab2.DataContext = countries;
+            cbx_Countries_tab2.DisplayMemberPath = "name";
+            
+
         }
 
         private void ComboBox_SelectionChanged_1(object sender, SelectionChangedEventArgs e)
@@ -151,7 +157,7 @@ namespace Tweakker_DB_System
                 }
                 try
                 {
-                    BusinessService.Instance.SaveSettings_BookmarkParameters(current_country_id, network_name, mcc, mnc, ranking, ismno, setting_name, setting_alternative_name, bookmark_name, bookmark_url, bookmark_pin);
+                    BusinessService.Instance.SaveSetting_BookmarkParameters(current_country_id, network_name, mcc, mnc, ranking, ismno, setting_name, setting_alternative_name, bookmark_name, bookmark_url, bookmark_pin);
                     //   MessageBox.Show(current_country_id + " " + network_name + "  " + mcc + " " + mnc + " " + ranking + " " + ismno + " " + setting_name + " " + setting_alternative_name + " " + bookmark_name + " " + bookmark_url + " " + bookmark_pin);
                 }
                 catch (Exception ex)
@@ -258,6 +264,117 @@ namespace Tweakker_DB_System
             {
                 MessageBox.Show("Invalid Input");
             }
+        }
+
+        private void cbx_Countries_tab2_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+            Country country;
+            ObservableCollection<Network> networks = new ObservableCollection<Network>();
+
+            if (cbx_Countries_tab2.SelectedItem != null)
+            {
+                country = (Country)cbx_Countries_tab2.SelectedItem;
+               
+                txt_ISO_tab2.Text = country.iso;
+
+                networks = BusinessService.Instance.GetNetworksByCountryID(country.id);
+                cbx_Networks_tab2.ItemsSource = networks;
+                cbx_Networks_tab2.DataContext = networks;
+                cbx_Networks_tab2.DisplayMemberPath = "name";
+              
+            }
+            else
+            {
+               // employees.Clear();
+            }
+        }
+
+        private void cbx_Networks_tab2_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+            Network network;
+            ObservableCollection<Setting> settings = new ObservableCollection<Setting>();
+
+            if (cbx_Networks_tab2.SelectedItem != null)
+            {
+                network = (Network)cbx_Networks_tab2.SelectedItem;
+                txt_netw_name_tab2.Text = network.name;
+                txt_ranking_tab2.Text = Convert.ToString(network.ranking);
+                checkbox_ismno_tab2.IsChecked = network.ismno;
+
+
+                settings = BusinessService.Instance.GetSettingsByNetworkID(network.id);
+                cbx_Settings_tab2.ItemsSource = settings;
+                cbx_Settings_tab2.DataContext = settings;
+                cbx_Settings_tab2.DisplayMemberPath = "name";
+
+            }
+            else
+            {
+                // employees.Clear();
+            }
+            
+        }
+
+        private void cbx_Settings_tab2_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+            Setting setting;
+            ObservableCollection<Parameter> parameters = new ObservableCollection<Parameter>();
+
+            if (cbx_Settings_tab2.SelectedItem != null)
+            {
+                setting = (Setting)cbx_Settings_tab2.SelectedItem;
+                txt_Setting_name_tab2.Text = setting.name;
+                txt_Alt_Name_tab2.Text = setting.alternative_name;
+               
+           //     parameters = BusinessService.Instance.GetParametersBySettingID(setting.id);
+
+                BusinessService.Instance.PopulateDataGrid(datagrid_parameters, setting.id);
+
+                //cbx_Settings_tab2.ItemsSource = settings;
+                //cbx_Settings_tab2.DataContext = settings;
+                //cbx_Settings_tab2.DisplayMemberPath = "name";
+
+            }
+            else
+            {
+               
+            }
+
+        }
+
+        private void Button_Click_1(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void btn_save_tab2_Click_1(object sender, RoutedEventArgs e)
+        {
+            Country c = (Country)cbx_Countries_tab2.SelectedItem;
+            Network n = (Network)cbx_Networks_tab2.SelectedItem;
+            Setting s = (Setting)cbx_Settings_tab2.SelectedItem;
+
+            try
+            {
+                c.iso = txt_ISO_tab2.Text;
+                c.name = txt_Setting_name_tab2.Text;
+
+                n.ismno = checkbox_ismno_tab2.IsChecked.Value;
+                n.name = txt_netw_name_tab2.Text;
+                n.ranking = Convert.ToInt32(txt_ranking_tab2.Text);
+
+                s.name = txt_Setting_name_tab2.Text;
+                s.alternative_name = txt_Alt_Name_tab2.Text;
+
+                BusinessService.Instance.UpdateDataGridValues();
+
+                BusinessService.Instance.UpdateSetting(c, n, s);
+
+
+
+            }
+            catch(Exception ex)
+            {}
+            
         }
 
 
