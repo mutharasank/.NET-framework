@@ -1,0 +1,116 @@
+C:\vs_proj2008\spectronic\demo\Threads\WpfCrossThreadDemo\WpfCrossThreadDemo\obj\Debug\ResolveAssemblyReference.cache
+C:\vs_proj2008\spectronic\demo\Threads\WpfCrossThreadDemo\WpfCrossThreadDemo\obj\Debug\Window1.baml
+C:\vs_proj2008\spectronic\demo\Threads\WpfCrossThreadDemo\WpfCrossThreadDemo\obj\Debug\Window1.g.cs
+C:\vs_proj2008\spectronic\demo\Threads\WpfCrossThreadDemo\WpfCrossThreadDemo\obj\Debug\App.g.cs
+C:\vs_proj2008\spectronic\demo\Threads\WpfCrossThreadDemo\WpfCrossThreadDemo\obj\Debug\WpfCrossThreadDemo_MarkupCompile.cache
+C:\vs_proj2008\spectronic\demo\Threads\WpfCrossThreadDemo\WpfCrossThreadDemo\obj\Debug\WpfCrossThreadDemo.g.resources
+C:\vs_proj2008\spectronic\demo\Threads\WpfCrossThreadDemo\WpfCrossThreadDemo\obj\Debug\WpfCrossThreadDemo.Properties.Resources.resources
+C:\vs_proj2008\spectronic\demo\Threads\WpfCrossThreadDemo\WpfCrossThreadDemo\obj\Debug\WpfCrossThreadDemo.csproj.GenerateResource.Cache
+C:\vs_proj2008\spectronic\demo\Threads\WpfCrossThreadDemo\WpfCrossThreadDemo\bin\Debug\WpfCrossThreadDemo.exe
+C:\vs_proj2008\spectronic\demo\Threads\WpfCrossThreadDemo\WpfCrossThreadDemo\bin\Debug\WpfCrossThreadDemo.pdb
+C:\vs_proj2008\spectronic\demo\Threads\WpfCrossThreadDemo\WpfCrossThreadDemo\obj\Debug\WpfCrossThreadDemo.exe
+C:\vs_proj2008\spectronic\demo\Threads\WpfCrossThreadDemo\WpfCrossThreadDemo\obj\Debug\WpfCrossThreadDemo.pdb
+C:\VS_proj_spec_e07\demo\threads - ultimate\WpfCrossThreadDemo\WpfCrossThreadDemo\obj\Debug\WpfCrossThreadDemo.exe
+C:\VS_proj_spec_e07\demo\threads - ultimate\WpfCrossThreadDemo\WpfCrossThreadDemo\obj\Debug\WpfCrossThreadDemo.pdb
+C:\VS_proj_spec_e07\demo\threads - ultimate\WpfCrossThreadDemo\WpfCrossThreadDemo\bin\Debug\WpfCrossThreadDemo.exe
+C:\VS_proj_spec_e07\demo\threads - ultimate\WpfCrossThreadDemo\WpfCrossThreadDemo\bin\Debug\WpfCrossThreadDemo.pdb
+C:\VS_proj_spec_e07\demo\threads - ultimate\WpfCrossThreadDemo\WpfCrossThreadDemo\obj\Debug\ResolveAssemblyReference.cache
+C:\VS_proj_spec_e07\demo\threads - ultimate\WpfCrossThreadDemo\WpfCrossThreadDemo\obj\Debug\Window1.baml
+C:\VS_proj_spec_e07\demo\threads - ultimate\WpfCrossThreadDemo\WpfCrossThreadDemo\obj\Debug\Window1.g.cs
+C:\VS_proj_spec_e07\demo\threads - ultimate\WpfCrossThreadDemo\WpfCrossThreadDemo\obj\Debug\App.g.cs
+C:\VS_proj_spec_e07\demo\threads - ultimate\WpfCrossThreadDemo\WpfCrossThreadDemo\obj\Debug\WpfCrossThreadDemo_MarkupCompile.cache
+C:\VS_proj_spec_e07\demo\threads - ultimate\WpfCrossThreadDemo\WpfCrossThreadDemo\obj\Debug\WpfCrossThreadDemo.g.resources
+C:\VS_proj_spec_e07\demo\threads - ultimate\WpfCrossThreadDemo\WpfCrossThreadDemo\obj\Debug\WpfCrossThreadDemo.Properties.Resources.resources
+C:\VS_proj_spec_e07\demo\threads - ultimate\WpfCrossThreadDemo\WpfCrossThreadDemo\obj\Debug\WpfCrossThreadDemo.csproj.GenerateResource.Cache
+C:\vs_proj2008\spectronic\demo\threads - final\WpfCrossThreadDemo\WpfCrossThreadDemo\obj\Debug\WpfCrossThreadDemo.exe
+C:\vs_proj2008\spectronic\demo\threads - final\WpfCrossThreadDemo\WpfCrossThreadDemo\obj\Debug\WpfCrossThreadDemo.pdb
+C:\vs_proj2008\spectronic\demo\threads - final\WpfCrossThreadDemo\WpfCrossThreadDemo\bin\Debug\WpfCrossThreadDemo.exe
+C:\vs_proj2008\spectronic\demo\threads - final\WpfCrossThreadDemo\WpfCrossThreadDemo\bin\Debug\WpfCrossThreadDemo.pdb
+C:\vs_proj2008\spectronic\demo\threads - final\WpfCrossThreadDemo\WpfCrossThreadDemo\obj\Debug\ResolveAssemblyReference.cache
+C:\vs_proj2008\spectronic\demo\threads - final\WpfCrossThreadDemo\WpfCrossThreadDemo\obj\Debug\Window1.baml
+C:\vs_proj2008\spectronic\demo\threads - final\WpfCrossThreadDemo\WpfCrossThreadDemo\obj\Debug\Window1.g.cs
+C:\vs_proj2008\spectronic\demo\threads - final\WpfCrossThreadDemo\WpfCrossThreadDemo\obj\Debug\App.g.cs
+C:\vs_proj2008\spectronic\demo\threads - final\WpfCrossThreadDemo\WpfCrossThreadDemo\obj\Debug\WpfCrossThreadDemo_MarkupCompile.cache
+C:\vs_proj2008\spectronic\demo\threads - final\WpfCrossThreadDemo\WpfCrossThreadDemo\obj\Debug\WpfCrossThreadDemo.g.resources
+C:\vs_proj2008\spectronic\demo\threads - final\WpfCrossThreadDemo\WpfCrossThreadDemo\obj\Debug\WpfCrossThreadDemo.Properties.Resources.resources
+C:\vs_proj2008\spectronic\demo\threads - final\WpfCrossThreadDemo\WpfCrossThreadDemo\obj\Debug\WpfCrossThreadDemo.csproj.GenerateResource.Cache
+c:\vs_proj2008_07V\demo\threads\WpfCrossThreadDemo\WpfCrossThreadDemo\obj\Debug\WpfCrossThreadDemo.exe
+c:\vs_proj2008_07V\demo\threads\WpfCrossThreadDemo\WpfCrossThreadDemo\obj\Debug\WpfCrossThreadDemo.pdb
+c:\vs_proj2008_07V\demo\threads\WpfCrossThreadDemo\WpfCrossThreadDemo\bin\Debug\WpfCrossThreadDemo.exe
+c:\vs_proj2008_07V\demo\threads\WpfCrossThreadDemo\WpfCrossThreadDemo\bin\Debug\WpfCrossThreadDemo.pdb
+c:\vs_proj2008_07V\demo\threads\WpfCrossThreadDemo\WpfCrossThreadDemo\obj\Debug\ResolveAssemblyReference.cache
+c:\vs_proj2008_07V\demo\threads\WpfCrossThreadDemo\WpfCrossThreadDemo\obj\Debug\Window1.baml
+c:\vs_proj2008_07V\demo\threads\WpfCrossThreadDemo\WpfCrossThreadDemo\obj\Debug\Window1.g.cs
+c:\vs_proj2008_07V\demo\threads\WpfCrossThreadDemo\WpfCrossThreadDemo\obj\Debug\App.g.cs
+c:\vs_proj2008_07V\demo\threads\WpfCrossThreadDemo\WpfCrossThreadDemo\obj\Debug\WpfCrossThreadDemo_MarkupCompile.cache
+c:\vs_proj2008_07V\demo\threads\WpfCrossThreadDemo\WpfCrossThreadDemo\obj\Debug\WpfCrossThreadDemo.g.resources
+c:\vs_proj2008_07V\demo\threads\WpfCrossThreadDemo\WpfCrossThreadDemo\obj\Debug\WpfCrossThreadDemo.Properties.Resources.resources
+c:\vs_proj2008_07V\demo\threads\WpfCrossThreadDemo\WpfCrossThreadDemo\obj\Debug\WpfCrossThreadDemo.csproj.GenerateResource.Cache
+C:\vs_proj2010\demo09S\threading\WpfCrossThreadDemo\WpfCrossThreadDemo\obj\Debug\WpfCrossThreadDemo.exe
+C:\vs_proj2010\demo09S\threading\WpfCrossThreadDemo\WpfCrossThreadDemo\obj\Debug\WpfCrossThreadDemo.pdb
+D:\vs2010_proj\10v\threading\WPFCROSSTHREADDEMO\WpfCrossThreadDemo\obj\Debug\WpfCrossThreadDemo.exe
+D:\vs2010_proj\10v\threading\WPFCROSSTHREADDEMO\WpfCrossThreadDemo\obj\Debug\WpfCrossThreadDemo.pdb
+D:\vs2010_proj\10v\threading\WPFCROSSTHREADDEMO\WpfCrossThreadDemo\bin\Debug\WpfCrossThreadDemo.exe
+D:\vs2010_proj\10v\threading\WPFCROSSTHREADDEMO\WpfCrossThreadDemo\bin\Debug\WpfCrossThreadDemo.pdb
+D:\vs2010_proj\10v\threading\WPFCROSSTHREADDEMO\WpfCrossThreadDemo\obj\Debug\ResolveAssemblyReference.cache
+D:\vs2010_proj\10v\threading\WPFCROSSTHREADDEMO\WpfCrossThreadDemo\obj\Debug\Window1.baml
+D:\vs2010_proj\10v\threading\WPFCROSSTHREADDEMO\WpfCrossThreadDemo\obj\Debug\Window1.g.cs
+D:\vs2010_proj\10v\threading\WPFCROSSTHREADDEMO\WpfCrossThreadDemo\obj\Debug\App.g.cs
+D:\vs2010_proj\10v\threading\WPFCROSSTHREADDEMO\WpfCrossThreadDemo\obj\Debug\WpfCrossThreadDemo_MarkupCompile.cache
+D:\vs2010_proj\10v\threading\WPFCROSSTHREADDEMO\WpfCrossThreadDemo\obj\Debug\WpfCrossThreadDemo.g.resources
+D:\vs2010_proj\10v\threading\WPFCROSSTHREADDEMO\WpfCrossThreadDemo\obj\Debug\WpfCrossThreadDemo.Properties.Resources.resources
+D:\vs2010_proj\10v\threading\WPFCROSSTHREADDEMO\WpfCrossThreadDemo\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\vs2010_proj\10v\threading\WPFCROSSTHREADDEMO\WpfCrossThreadDemo\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\vs_proj2010\10V_DB_demo\dag13 threading\WPFCROSSTHREADDEMO\WpfCrossThreadDemo\obj\Debug\WpfCrossThreadDemo.exe
+C:\vs_proj2010\10V_DB_demo\dag13 threading\WPFCROSSTHREADDEMO\WpfCrossThreadDemo\obj\Debug\WpfCrossThreadDemo.pdb
+C:\vs_proj2010\10V_DB_demo\dag13 threading\WPFCROSSTHREADDEMO\WpfCrossThreadDemo\bin\Debug\WpfCrossThreadDemo.exe
+C:\vs_proj2010\10V_DB_demo\dag13 threading\WPFCROSSTHREADDEMO\WpfCrossThreadDemo\bin\Debug\WpfCrossThreadDemo.pdb
+C:\vs_proj2010\10V_DB_demo\dag13 threading\WPFCROSSTHREADDEMO\WpfCrossThreadDemo\obj\Debug\ResolveAssemblyReference.cache
+C:\vs_proj2010\10V_DB_demo\dag13 threading\WPFCROSSTHREADDEMO\WpfCrossThreadDemo\obj\Debug\Window1.baml
+C:\vs_proj2010\10V_DB_demo\dag13 threading\WPFCROSSTHREADDEMO\WpfCrossThreadDemo\obj\Debug\Window1.g.cs
+C:\vs_proj2010\10V_DB_demo\dag13 threading\WPFCROSSTHREADDEMO\WpfCrossThreadDemo\obj\Debug\App.g.cs
+C:\vs_proj2010\10V_DB_demo\dag13 threading\WPFCROSSTHREADDEMO\WpfCrossThreadDemo\obj\Debug\WpfCrossThreadDemo_MarkupCompile.cache
+C:\vs_proj2010\10V_DB_demo\dag13 threading\WPFCROSSTHREADDEMO\WpfCrossThreadDemo\obj\Debug\WpfCrossThreadDemo.g.resources
+C:\vs_proj2010\10V_DB_demo\dag13 threading\WPFCROSSTHREADDEMO\WpfCrossThreadDemo\obj\Debug\WpfCrossThreadDemo.Properties.Resources.resources
+C:\vs_proj2010\10V_DB_demo\dag13 threading\WPFCROSSTHREADDEMO\WpfCrossThreadDemo\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\vs_proj2010\10V_DB_demo\dag13 threading\WPFCROSSTHREADDEMO\WpfCrossThreadDemo\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\vs_proj2010\10Vdemo\day13\WPFCROSSTHREADDEMO\WpfCrossThreadDemo\obj\Debug\WpfCrossThreadDemo.exe
+C:\vs_proj2010\10Vdemo\day13\WPFCROSSTHREADDEMO\WpfCrossThreadDemo\obj\Debug\WpfCrossThreadDemo.pdb
+C:\vs_proj2010\10Vdemo\day13\WPFCROSSTHREADDEMO\WpfCrossThreadDemo\obj\Debug\ResolveAssemblyReference.cache
+C:\vs_proj2010\10Vdemo\day13\WPFCROSSTHREADDEMO\WpfCrossThreadDemo\obj\Debug\Window1.baml
+C:\vs_proj2010\10Vdemo\day13\WPFCROSSTHREADDEMO\WpfCrossThreadDemo\obj\Debug\Window1.g.cs
+C:\vs_proj2010\10Vdemo\day13\WPFCROSSTHREADDEMO\WpfCrossThreadDemo\obj\Debug\App.g.cs
+C:\vs_proj2010\10Vdemo\day13\WPFCROSSTHREADDEMO\WpfCrossThreadDemo\obj\Debug\WpfCrossThreadDemo_MarkupCompile.cache
+C:\vs_proj2010\10Vdemo\day13\WPFCROSSTHREADDEMO\WpfCrossThreadDemo\obj\Debug\WpfCrossThreadDemo.g.resources
+C:\vs_proj2010\10Vdemo\day13\WPFCROSSTHREADDEMO\WpfCrossThreadDemo\obj\Debug\WpfCrossThreadDemo.Properties.Resources.resources
+C:\vs_proj2010\10Vdemo\day13\WPFCROSSTHREADDEMO\WpfCrossThreadDemo\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\vs_proj2010\10Vdemo\day13\WPFCROSSTHREADDEMO\WpfCrossThreadDemo\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\vs_proj2010\10Vdemo\day13\WPFCROSSTHREADDEMO\WpfCrossThreadDemo\bin\Debug\WpfCrossThreadDemo.exe
+C:\vs_proj2010\10Vdemo\day13\WPFCROSSTHREADDEMO\WpfCrossThreadDemo\bin\Debug\WpfCrossThreadDemo.pdb
+C:\2012 H1\10I C#\Day 12 - Threading\threading_demos\WPFCROSSTHREADDEMO\WpfCrossThreadDemo\obj\Debug\WpfCrossThreadDemo.exe
+C:\2012 H1\10I C#\Day 12 - Threading\threading_demos\WPFCROSSTHREADDEMO\WpfCrossThreadDemo\obj\Debug\WpfCrossThreadDemo.pdb
+C:\2012 H1\10I C#\Day 12 - Threading\threading_demos\WPFCROSSTHREADDEMO\WpfCrossThreadDemo\bin\Debug\WpfCrossThreadDemo.exe
+C:\2012 H1\10I C#\Day 12 - Threading\threading_demos\WPFCROSSTHREADDEMO\WpfCrossThreadDemo\bin\Debug\WpfCrossThreadDemo.pdb
+C:\2012 H1\10I C#\Day 12 - Threading\threading_demos\WPFCROSSTHREADDEMO\WpfCrossThreadDemo\obj\Debug\ResolveAssemblyReference.cache
+C:\2012 H1\10I C#\Day 12 - Threading\threading_demos\WPFCROSSTHREADDEMO\WpfCrossThreadDemo\obj\Debug\Window1.baml
+C:\2012 H1\10I C#\Day 12 - Threading\threading_demos\WPFCROSSTHREADDEMO\WpfCrossThreadDemo\obj\Debug\Window1.g.cs
+C:\2012 H1\10I C#\Day 12 - Threading\threading_demos\WPFCROSSTHREADDEMO\WpfCrossThreadDemo\obj\Debug\App.g.cs
+C:\2012 H1\10I C#\Day 12 - Threading\threading_demos\WPFCROSSTHREADDEMO\WpfCrossThreadDemo\obj\Debug\WpfCrossThreadDemo_MarkupCompile.cache
+C:\2012 H1\10I C#\Day 12 - Threading\threading_demos\WPFCROSSTHREADDEMO\WpfCrossThreadDemo\obj\Debug\WpfCrossThreadDemo.g.resources
+C:\2012 H1\10I C#\Day 12 - Threading\threading_demos\WPFCROSSTHREADDEMO\WpfCrossThreadDemo\obj\Debug\WpfCrossThreadDemo.Properties.Resources.resources
+C:\2012 H1\10I C#\Day 12 - Threading\threading_demos\WPFCROSSTHREADDEMO\WpfCrossThreadDemo\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\2012 H1\10I C#\Day 12 - Threading\threading_demos\WPFCROSSTHREADDEMO\WpfCrossThreadDemo\obj\Debug\ResGen.read.1.tlog
+C:\2012 H1\10I C#\Day 12 - Threading\threading_demos\WPFCROSSTHREADDEMO\WpfCrossThreadDemo\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\2012 H1\10I C#\Day 12 - Threading\threading_demos\WPFCROSSTHREADDEMO\WpfCrossThreadDemo\obj\Debug\ResGen.write.1.tlog
+Z:\2012-SPRING\10I C#\Day 12 - Threading\threading_demos\WPFCROSSTHREADDEMO\WpfCrossThreadDemo\obj\Debug\WpfCrossThreadDemo.exe
+Z:\2012-SPRING\10I C#\Day 12 - Threading\threading_demos\WPFCROSSTHREADDEMO\WpfCrossThreadDemo\obj\Debug\WpfCrossThreadDemo.pdb
+Z:\2012-SPRING\10I C#\Day 12 - Threading\threading_demos\WPFCROSSTHREADDEMO\WpfCrossThreadDemo\bin\Debug\WpfCrossThreadDemo.exe.config
+Z:\2012-SPRING\10I C#\Day 12 - Threading\threading_demos\WPFCROSSTHREADDEMO\WpfCrossThreadDemo\bin\Debug\WpfCrossThreadDemo.exe
+Z:\2012-SPRING\10I C#\Day 12 - Threading\threading_demos\WPFCROSSTHREADDEMO\WpfCrossThreadDemo\bin\Debug\WpfCrossThreadDemo.pdb
+Z:\2012-SPRING\10I C#\Day 12 - Threading\threading_demos\WPFCROSSTHREADDEMO\WpfCrossThreadDemo\obj\Debug\Window1.baml
+Z:\2012-SPRING\10I C#\Day 12 - Threading\threading_demos\WPFCROSSTHREADDEMO\WpfCrossThreadDemo\obj\Debug\Window1.g.cs
+Z:\2012-SPRING\10I C#\Day 12 - Threading\threading_demos\WPFCROSSTHREADDEMO\WpfCrossThreadDemo\obj\Debug\App.g.cs
+Z:\2012-SPRING\10I C#\Day 12 - Threading\threading_demos\WPFCROSSTHREADDEMO\WpfCrossThreadDemo\obj\Debug\WpfCrossThreadDemo_MarkupCompile.cache
+Z:\2012-SPRING\10I C#\Day 12 - Threading\threading_demos\WPFCROSSTHREADDEMO\WpfCrossThreadDemo\obj\Debug\WpfCrossThreadDemo.g.resources
+Z:\2012-SPRING\10I C#\Day 12 - Threading\threading_demos\WPFCROSSTHREADDEMO\WpfCrossThreadDemo\obj\Debug\WpfCrossThreadDemo.Properties.Resources.resources
+Z:\2012-SPRING\10I C#\Day 12 - Threading\threading_demos\WPFCROSSTHREADDEMO\WpfCrossThreadDemo\obj\Debug\WpfCrossThreadDemo.csproj.GenerateResource.Cache

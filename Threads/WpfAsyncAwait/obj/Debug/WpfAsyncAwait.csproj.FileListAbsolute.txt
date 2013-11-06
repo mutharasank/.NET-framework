@@ -1,0 +1,13 @@
+Z:\2013-SPRING\Demo\Threads\WpfAsyncAwait\bin\Debug\WpfAsyncAwait.exe.config
+Z:\2013-SPRING\Demo\Threads\WpfAsyncAwait\bin\Debug\WpfAsyncAwait.exe
+Z:\2013-SPRING\Demo\Threads\WpfAsyncAwait\bin\Debug\WpfAsyncAwait.pdb
+Z:\2013-SPRING\Demo\Threads\WpfAsyncAwait\obj\Debug\WpfAsyncAwait.csprojResolveAssemblyReference.cache
+Z:\2013-SPRING\Demo\Threads\WpfAsyncAwait\obj\Debug\MainWindow.baml
+Z:\2013-SPRING\Demo\Threads\WpfAsyncAwait\obj\Debug\MainWindow.g.cs
+Z:\2013-SPRING\Demo\Threads\WpfAsyncAwait\obj\Debug\App.g.cs
+Z:\2013-SPRING\Demo\Threads\WpfAsyncAwait\obj\Debug\WpfAsyncAwait_MarkupCompile.cache
+Z:\2013-SPRING\Demo\Threads\WpfAsyncAwait\obj\Debug\WpfAsyncAwait.g.resources
+Z:\2013-SPRING\Demo\Threads\WpfAsyncAwait\obj\Debug\WpfAsyncAwait.Properties.Resources.resources
+Z:\2013-SPRING\Demo\Threads\WpfAsyncAwait\obj\Debug\WpfAsyncAwait.csproj.GenerateResource.Cache
+Z:\2013-SPRING\Demo\Threads\WpfAsyncAwait\obj\Debug\WpfAsyncAwait.exe
+Z:\2013-SPRING\Demo\Threads\WpfAsyncAwait\obj\Debug\WpfAsyncAwait.pdb

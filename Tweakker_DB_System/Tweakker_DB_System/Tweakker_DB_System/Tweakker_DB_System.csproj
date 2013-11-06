@@ -56,8 +56,10 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="Code.cs" />
     <Compile Include="Country.cs" />
     <Compile Include="Network.cs" />
+    <Compile Include="Note.cs" />
     <Compile Include="Parameter.cs" />
     <Compile Include="Setting.cs" />
     <Compile Include="SqlScripts.cs" />

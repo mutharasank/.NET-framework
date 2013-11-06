@@ -1,0 +1,5 @@
+D:\WorkspaceVisualStudio\ListFindAll LambdaExpression\ListFindAll LambdaExpression\ListFindAll LambdaExpression\bin\Debug\ListFindAll LambdaExpression.exe.config
+D:\WorkspaceVisualStudio\ListFindAll LambdaExpression\ListFindAll LambdaExpression\ListFindAll LambdaExpression\bin\Debug\ListFindAll LambdaExpression.exe
+D:\WorkspaceVisualStudio\ListFindAll LambdaExpression\ListFindAll LambdaExpression\ListFindAll LambdaExpression\bin\Debug\ListFindAll LambdaExpression.pdb
+D:\WorkspaceVisualStudio\ListFindAll LambdaExpression\ListFindAll LambdaExpression\ListFindAll LambdaExpression\obj\Debug\ListFindAll LambdaExpression.exe
+D:\WorkspaceVisualStudio\ListFindAll LambdaExpression\ListFindAll LambdaExpression\ListFindAll LambdaExpression\obj\Debug\ListFindAll LambdaExpression.pdb

@@ -1,0 +1,63 @@
+E:\vs_2008prj\spectronic\demo\Threads\WpfBackGroundWorker\WpfBackGroundWorker\obj\Debug\ResolveAssemblyReference.cache
+E:\vs_2008prj\spectronic\demo\Threads\WpfBackGroundWorker\WpfBackGroundWorker\obj\Debug\Window1.baml
+E:\vs_2008prj\spectronic\demo\Threads\WpfBackGroundWorker\WpfBackGroundWorker\obj\Debug\Window1.g.cs
+E:\vs_2008prj\spectronic\demo\Threads\WpfBackGroundWorker\WpfBackGroundWorker\obj\Debug\App.g.cs
+E:\vs_2008prj\spectronic\demo\Threads\WpfBackGroundWorker\WpfBackGroundWorker\obj\Debug\WpfBackGroundWorker_MarkupCompile.cache
+E:\vs_2008prj\spectronic\demo\Threads\WpfBackGroundWorker\WpfBackGroundWorker\obj\Debug\WpfBackGroundWorker.g.resources
+E:\vs_2008prj\spectronic\demo\Threads\WpfBackGroundWorker\WpfBackGroundWorker\obj\Debug\WpfBackGroundWorker.Properties.Resources.resources
+E:\vs_2008prj\spectronic\demo\Threads\WpfBackGroundWorker\WpfBackGroundWorker\obj\Debug\WpfBackGroundWorker.csproj.GenerateResource.Cache
+E:\vs_2008prj\spectronic\demo\Threads\WpfBackGroundWorker\WpfBackGroundWorker\bin\Debug\WpfBackGroundWorker.exe
+E:\vs_2008prj\spectronic\demo\Threads\WpfBackGroundWorker\WpfBackGroundWorker\bin\Debug\WpfBackGroundWorker.pdb
+E:\vs_2008prj\spectronic\demo\Threads\WpfBackGroundWorker\WpfBackGroundWorker\obj\Debug\WpfBackGroundWorker.exe
+E:\vs_2008prj\spectronic\demo\Threads\WpfBackGroundWorker\WpfBackGroundWorker\obj\Debug\WpfBackGroundWorker.pdb
+C:\VS_proj_spec_e07\demo\threads - ultimate\WpfBackGroundWorker\WpfBackGroundWorker\obj\Debug\WpfBackGroundWorker.exe
+C:\VS_proj_spec_e07\demo\threads - ultimate\WpfBackGroundWorker\WpfBackGroundWorker\obj\Debug\WpfBackGroundWorker.pdb
+C:\VS_proj_spec_e07\demo\threads - ultimate\WpfBackGroundWorker\WpfBackGroundWorker\bin\Debug\WpfBackGroundWorker.exe
+C:\VS_proj_spec_e07\demo\threads - ultimate\WpfBackGroundWorker\WpfBackGroundWorker\bin\Debug\WpfBackGroundWorker.pdb
+C:\VS_proj_spec_e07\demo\threads - ultimate\WpfBackGroundWorker\WpfBackGroundWorker\obj\Debug\ResolveAssemblyReference.cache
+C:\VS_proj_spec_e07\demo\threads - ultimate\WpfBackGroundWorker\WpfBackGroundWorker\obj\Debug\Window1.baml
+C:\VS_proj_spec_e07\demo\threads - ultimate\WpfBackGroundWorker\WpfBackGroundWorker\obj\Debug\Window1.g.cs
+C:\VS_proj_spec_e07\demo\threads - ultimate\WpfBackGroundWorker\WpfBackGroundWorker\obj\Debug\App.g.cs
+C:\VS_proj_spec_e07\demo\threads - ultimate\WpfBackGroundWorker\WpfBackGroundWorker\obj\Debug\WpfBackGroundWorker_MarkupCompile.cache
+C:\VS_proj_spec_e07\demo\threads - ultimate\WpfBackGroundWorker\WpfBackGroundWorker\obj\Debug\WpfBackGroundWorker.g.resources
+C:\VS_proj_spec_e07\demo\threads - ultimate\WpfBackGroundWorker\WpfBackGroundWorker\obj\Debug\WpfBackGroundWorker.Properties.Resources.resources
+C:\VS_proj_spec_e07\demo\threads - ultimate\WpfBackGroundWorker\WpfBackGroundWorker\obj\Debug\WpfBackGroundWorker.csproj.GenerateResource.Cache
+C:\vs_proj2008\spectronic\demo\threads - final\WpfBackGroundWorker\WpfBackGroundWorker\obj\Debug\WpfBackGroundWorker.exe
+C:\vs_proj2008\spectronic\demo\threads - final\WpfBackGroundWorker\WpfBackGroundWorker\obj\Debug\WpfBackGroundWorker.pdb
+C:\vs_proj2008\spectronic\demo\threads - final\WpfBackGroundWorker\WpfBackGroundWorker\bin\Debug\WpfBackGroundWorker.exe
+C:\vs_proj2008\spectronic\demo\threads - final\WpfBackGroundWorker\WpfBackGroundWorker\bin\Debug\WpfBackGroundWorker.pdb
+C:\vs_proj2008\spectronic\demo\threads - final\WpfBackGroundWorker\WpfBackGroundWorker\obj\Debug\ResolveAssemblyReference.cache
+C:\vs_proj2008\spectronic\demo\threads - final\WpfBackGroundWorker\WpfBackGroundWorker\obj\Debug\Window1.baml
+C:\vs_proj2008\spectronic\demo\threads - final\WpfBackGroundWorker\WpfBackGroundWorker\obj\Debug\Window1.g.cs
+C:\vs_proj2008\spectronic\demo\threads - final\WpfBackGroundWorker\WpfBackGroundWorker\obj\Debug\App.g.cs
+C:\vs_proj2008\spectronic\demo\threads - final\WpfBackGroundWorker\WpfBackGroundWorker\obj\Debug\WpfBackGroundWorker_MarkupCompile.cache
+C:\vs_proj2008\spectronic\demo\threads - final\WpfBackGroundWorker\WpfBackGroundWorker\obj\Debug\WpfBackGroundWorker.g.resources
+C:\vs_proj2008\spectronic\demo\threads - final\WpfBackGroundWorker\WpfBackGroundWorker\obj\Debug\WpfBackGroundWorker.Properties.Resources.resources
+C:\vs_proj2008\spectronic\demo\threads - final\WpfBackGroundWorker\WpfBackGroundWorker\obj\Debug\WpfBackGroundWorker.csproj.GenerateResource.Cache
+C:\vs_proj2010\demo09S\threading\WpfBackGroundWorker\WpfBackGroundWorker\obj\Debug\WpfBackGroundWorker.exe
+C:\vs_proj2010\demo09S\threading\WpfBackGroundWorker\WpfBackGroundWorker\obj\Debug\WpfBackGroundWorker.pdb
+C:\2012 H1\10I C#\Day 12 - Threading\threading_demos\WPFBACKGROUNDWORKER\WpfBackGroundWorker\obj\Debug\WpfBackGroundWorker.exe
+C:\2012 H1\10I C#\Day 12 - Threading\threading_demos\WPFBACKGROUNDWORKER\WpfBackGroundWorker\obj\Debug\WpfBackGroundWorker.pdb
+C:\2012 H1\10I C#\Day 12 - Threading\threading_demos\WPFBACKGROUNDWORKER\WpfBackGroundWorker\bin\Debug\WpfBackGroundWorker.exe
+C:\2012 H1\10I C#\Day 12 - Threading\threading_demos\WPFBACKGROUNDWORKER\WpfBackGroundWorker\bin\Debug\WpfBackGroundWorker.pdb
+C:\2012 H1\10I C#\Day 12 - Threading\threading_demos\WPFBACKGROUNDWORKER\WpfBackGroundWorker\obj\Debug\ResolveAssemblyReference.cache
+C:\2012 H1\10I C#\Day 12 - Threading\threading_demos\WPFBACKGROUNDWORKER\WpfBackGroundWorker\obj\Debug\Window1.baml
+C:\2012 H1\10I C#\Day 12 - Threading\threading_demos\WPFBACKGROUNDWORKER\WpfBackGroundWorker\obj\Debug\Window1.g.cs
+C:\2012 H1\10I C#\Day 12 - Threading\threading_demos\WPFBACKGROUNDWORKER\WpfBackGroundWorker\obj\Debug\App.g.cs
+C:\2012 H1\10I C#\Day 12 - Threading\threading_demos\WPFBACKGROUNDWORKER\WpfBackGroundWorker\obj\Debug\WpfBackGroundWorker_MarkupCompile.cache
+C:\2012 H1\10I C#\Day 12 - Threading\threading_demos\WPFBACKGROUNDWORKER\WpfBackGroundWorker\obj\Debug\WpfBackGroundWorker.g.resources
+C:\2012 H1\10I C#\Day 12 - Threading\threading_demos\WPFBACKGROUNDWORKER\WpfBackGroundWorker\obj\Debug\WpfBackGroundWorker.Properties.Resources.resources
+C:\2012 H1\10I C#\Day 12 - Threading\threading_demos\WPFBACKGROUNDWORKER\WpfBackGroundWorker\obj\Debug\ResGen.read.1.tlog
+C:\2012 H1\10I C#\Day 12 - Threading\threading_demos\WPFBACKGROUNDWORKER\WpfBackGroundWorker\obj\Debug\ResGen.write.1.tlog
+Z:\2012-SPRING\10I C#\Day 12 - Threading\threading_demos\WPFBACKGROUNDWORKER\WpfBackGroundWorker\obj\Debug\WpfBackGroundWorker.exe
+Z:\2012-SPRING\10I C#\Day 12 - Threading\threading_demos\WPFBACKGROUNDWORKER\WpfBackGroundWorker\obj\Debug\WpfBackGroundWorker.pdb
+Z:\2012-SPRING\10I C#\Day 12 - Threading\threading_demos\WPFBACKGROUNDWORKER\WpfBackGroundWorker\bin\Debug\WpfBackGroundWorker.exe.config
+Z:\2012-SPRING\10I C#\Day 12 - Threading\threading_demos\WPFBACKGROUNDWORKER\WpfBackGroundWorker\bin\Debug\WpfBackGroundWorker.exe
+Z:\2012-SPRING\10I C#\Day 12 - Threading\threading_demos\WPFBACKGROUNDWORKER\WpfBackGroundWorker\bin\Debug\WpfBackGroundWorker.pdb
+Z:\2012-SPRING\10I C#\Day 12 - Threading\threading_demos\WPFBACKGROUNDWORKER\WpfBackGroundWorker\obj\Debug\Window1.baml
+Z:\2012-SPRING\10I C#\Day 12 - Threading\threading_demos\WPFBACKGROUNDWORKER\WpfBackGroundWorker\obj\Debug\Window1.g.cs
+Z:\2012-SPRING\10I C#\Day 12 - Threading\threading_demos\WPFBACKGROUNDWORKER\WpfBackGroundWorker\obj\Debug\App.g.cs
+Z:\2012-SPRING\10I C#\Day 12 - Threading\threading_demos\WPFBACKGROUNDWORKER\WpfBackGroundWorker\obj\Debug\WpfBackGroundWorker_MarkupCompile.cache
+Z:\2012-SPRING\10I C#\Day 12 - Threading\threading_demos\WPFBACKGROUNDWORKER\WpfBackGroundWorker\obj\Debug\WpfBackGroundWorker.g.resources
+Z:\2012-SPRING\10I C#\Day 12 - Threading\threading_demos\WPFBACKGROUNDWORKER\WpfBackGroundWorker\obj\Debug\WpfBackGroundWorker.Properties.Resources.resources
+Z:\2012-SPRING\10I C#\Day 12 - Threading\threading_demos\WPFBACKGROUNDWORKER\WpfBackGroundWorker\obj\Debug\WpfBackGroundWorker.csproj.GenerateResource.Cache

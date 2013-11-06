@@ -1,0 +1,5 @@
+D:\WorkspaceVisualStudio\List.FindIndex(LambdaExpression)\List.FindIndex(LambdaExpression)\List.FindIndex(LambdaExpression)\bin\Debug\List.FindIndex(LambdaExpression).exe.config
+D:\WorkspaceVisualStudio\List.FindIndex(LambdaExpression)\List.FindIndex(LambdaExpression)\List.FindIndex(LambdaExpression)\bin\Debug\List.FindIndex(LambdaExpression).exe
+D:\WorkspaceVisualStudio\List.FindIndex(LambdaExpression)\List.FindIndex(LambdaExpression)\List.FindIndex(LambdaExpression)\bin\Debug\List.FindIndex(LambdaExpression).pdb
+D:\WorkspaceVisualStudio\List.FindIndex(LambdaExpression)\List.FindIndex(LambdaExpression)\List.FindIndex(LambdaExpression)\obj\Debug\List.FindIndex(LambdaExpression).exe
+D:\WorkspaceVisualStudio\List.FindIndex(LambdaExpression)\List.FindIndex(LambdaExpression)\List.FindIndex(LambdaExpression)\obj\Debug\List.FindIndex(LambdaExpression).pdb

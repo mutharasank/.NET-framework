@@ -1,0 +1,6 @@
+D:\WorkspaceVisualStudio\ArrayFindAll(LambdaExpression)\ArrayFindAll(LambdaExpression)\ArrayFindAll(LambdaExpression)\bin\Debug\ArrayFindAll(LambdaExpression).exe.config
+D:\WorkspaceVisualStudio\ArrayFindAll(LambdaExpression)\ArrayFindAll(LambdaExpression)\ArrayFindAll(LambdaExpression)\obj\Debug\ArrayFindAll(LambdaExpression).csprojResolveAssemblyReference.cache
+D:\WorkspaceVisualStudio\ArrayFindAll(LambdaExpression)\ArrayFindAll(LambdaExpression)\ArrayFindAll(LambdaExpression)\bin\Debug\ArrayFindAll(LambdaExpression).exe
+D:\WorkspaceVisualStudio\ArrayFindAll(LambdaExpression)\ArrayFindAll(LambdaExpression)\ArrayFindAll(LambdaExpression)\bin\Debug\ArrayFindAll(LambdaExpression).pdb
+D:\WorkspaceVisualStudio\ArrayFindAll(LambdaExpression)\ArrayFindAll(LambdaExpression)\ArrayFindAll(LambdaExpression)\obj\Debug\ArrayFindAll(LambdaExpression).exe
+D:\WorkspaceVisualStudio\ArrayFindAll(LambdaExpression)\ArrayFindAll(LambdaExpression)\ArrayFindAll(LambdaExpression)\obj\Debug\ArrayFindAll(LambdaExpression).pdb

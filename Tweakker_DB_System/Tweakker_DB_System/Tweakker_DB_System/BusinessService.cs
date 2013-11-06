@@ -43,10 +43,19 @@ namespace Tweakker_DB_System
 
         }
 
-
-           public void UpdateSetting(Country c, Network n, Setting s)
+           public string Get_Mnc_byNetwork_id(int p)
            {
-               DataAccess.Instance.UpdateSetting(c, n, s);
+              return DataAccess.Instance.Get_Mnc_byNetwork_id(p);
+           }
+
+           public string Get_Mcc_byNetwork_id(int p)
+           {
+            return   DataAccess.Instance.Get_Mcc_byNetwork_id(p);
+           }
+
+           public void UpdateSetting(Country c, Network n, Setting s, Code code, Note note)
+           {
+               DataAccess.Instance.UpdateSetting(c, n, s,code, note);
            }
            public void PopulateDataGrid(System.Windows.Controls.DataGrid datagrid_parameters, int p)
            {
@@ -57,6 +66,16 @@ namespace Tweakker_DB_System
                DataAccess.Instance.UpdateDataGridValues();
            }
 
+           public void DeleteSetting(int p)
+           {
+               DataAccess.Instance.DeleteSetting(p);
+           }
+
+           public string GetNoteBySettingID(int p)
+           {
+               return DataAccess.Instance.GetNoteBySettingID(p);
+
+           }
            public void SaveSetting_BookmarkParameters(int current_country_id, string network_name, string mcc, string mnc, string ranking, int ismno, string setting_name, string setting_alternative_name, string bookmark_name, string bookmark_url, string bookmark_pin)
            {
                DataAccess.Instance.SaveSettings_BookmarkParameters(current_country_id, network_name, mcc, mnc, ranking, ismno, setting_name, setting_alternative_name, bookmark_name, bookmark_url, bookmark_pin);
@@ -113,5 +132,10 @@ namespace Tweakker_DB_System
         //    dbConnect.Restore();
         //}
 
+
+
+
+
+      
     }
 }

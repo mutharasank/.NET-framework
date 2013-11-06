@@ -13,7 +13,7 @@ namespace Tweakker_DB_System
         public bool ismno { get; set; }
         public int ranking { get; set; }
         public int country_id { get; set; }
-
+   
         public Network(int id, string name, bool ismno, int ranking, int country_id)
         {
             this.id = id;
@@ -21,6 +21,7 @@ namespace Tweakker_DB_System
             this.ismno = ismno;
             this.ranking = ranking;
             this.country_id = country_id;
+
         }
     }
 }

@@ -1,0 +1,6 @@
+D:\WorkspaceVisualStudio\WCF web service\Client\Client\bin\Debug\Client.exe.config
+D:\WorkspaceVisualStudio\WCF web service\Client\Client\bin\Debug\Client.exe
+D:\WorkspaceVisualStudio\WCF web service\Client\Client\bin\Debug\Client.pdb
+D:\WorkspaceVisualStudio\WCF web service\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\WorkspaceVisualStudio\WCF web service\Client\Client\obj\Debug\Client.exe
+D:\WorkspaceVisualStudio\WCF web service\Client\Client\obj\Debug\Client.pdb

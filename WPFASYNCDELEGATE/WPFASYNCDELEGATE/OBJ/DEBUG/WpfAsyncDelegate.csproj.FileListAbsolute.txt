@@ -1,0 +1,79 @@
+E:\vs_2008prj\spectronic\demo\Threads\WpfAsyncDelegate\WpfAsyncDelegate\bin\Debug\WpfAsyncDelegate.exe
+E:\vs_2008prj\spectronic\demo\Threads\WpfAsyncDelegate\WpfAsyncDelegate\bin\Debug\WpfAsyncDelegate.pdb
+E:\vs_2008prj\spectronic\demo\Threads\WpfAsyncDelegate\WpfAsyncDelegate\obj\Debug\ResolveAssemblyReference.cache
+E:\vs_2008prj\spectronic\demo\Threads\WpfAsyncDelegate\WpfAsyncDelegate\obj\Debug\Window1.baml
+E:\vs_2008prj\spectronic\demo\Threads\WpfAsyncDelegate\WpfAsyncDelegate\obj\Debug\Window1.g.cs
+E:\vs_2008prj\spectronic\demo\Threads\WpfAsyncDelegate\WpfAsyncDelegate\obj\Debug\App.g.cs
+E:\vs_2008prj\spectronic\demo\Threads\WpfAsyncDelegate\WpfAsyncDelegate\obj\Debug\WpfAsyncDelegate_MarkupCompile.cache
+E:\vs_2008prj\spectronic\demo\Threads\WpfAsyncDelegate\WpfAsyncDelegate\obj\Debug\WpfAsyncDelegate.g.resources
+E:\vs_2008prj\spectronic\demo\Threads\WpfAsyncDelegate\WpfAsyncDelegate\obj\Debug\WpfAsyncDelegate.Properties.Resources.resources
+E:\vs_2008prj\spectronic\demo\Threads\WpfAsyncDelegate\WpfAsyncDelegate\obj\Debug\WpfAsyncDelegate.csproj.GenerateResource.Cache
+E:\vs_2008prj\spectronic\demo\Threads\WpfAsyncDelegate\WpfAsyncDelegate\obj\Debug\WpfAsyncDelegate.exe
+E:\vs_2008prj\spectronic\demo\Threads\WpfAsyncDelegate\WpfAsyncDelegate\obj\Debug\WpfAsyncDelegate.pdb
+C:\vs_proj2008\spectronic\demo\threads - final\WpfAsyncDelegate\WpfAsyncDelegate\obj\Debug\WpfAsyncDelegate.exe
+C:\vs_proj2008\spectronic\demo\threads - final\WpfAsyncDelegate\WpfAsyncDelegate\obj\Debug\WpfAsyncDelegate.pdb
+C:\vs_proj2008\spectronic\demo\threads - final\WpfAsyncDelegate\WpfAsyncDelegate\bin\Debug\WpfAsyncDelegate.exe
+C:\vs_proj2008\spectronic\demo\threads - final\WpfAsyncDelegate\WpfAsyncDelegate\bin\Debug\WpfAsyncDelegate.pdb
+C:\vs_proj2008\spectronic\demo\threads - final\WpfAsyncDelegate\WpfAsyncDelegate\obj\Debug\ResolveAssemblyReference.cache
+C:\vs_proj2008\spectronic\demo\threads - final\WpfAsyncDelegate\WpfAsyncDelegate\obj\Debug\Window1.baml
+C:\vs_proj2008\spectronic\demo\threads - final\WpfAsyncDelegate\WpfAsyncDelegate\obj\Debug\Window1.g.cs
+C:\vs_proj2008\spectronic\demo\threads - final\WpfAsyncDelegate\WpfAsyncDelegate\obj\Debug\App.g.cs
+C:\vs_proj2008\spectronic\demo\threads - final\WpfAsyncDelegate\WpfAsyncDelegate\obj\Debug\WpfAsyncDelegate_MarkupCompile.cache
+C:\vs_proj2008\spectronic\demo\threads - final\WpfAsyncDelegate\WpfAsyncDelegate\obj\Debug\WpfAsyncDelegate.g.resources
+C:\vs_proj2008\spectronic\demo\threads - final\WpfAsyncDelegate\WpfAsyncDelegate\obj\Debug\WpfAsyncDelegate.Properties.Resources.resources
+C:\vs_proj2008\spectronic\demo\threads - final\WpfAsyncDelegate\WpfAsyncDelegate\obj\Debug\WpfAsyncDelegate.csproj.GenerateResource.Cache
+c:\vs_proj2008_07V\demo\threads\WpfAsyncDelegate\WpfAsyncDelegate\obj\Debug\WpfAsyncDelegate.exe
+c:\vs_proj2008_07V\demo\threads\WpfAsyncDelegate\WpfAsyncDelegate\obj\Debug\WpfAsyncDelegate.pdb
+c:\vs_proj2008_07V\demo\threads\WpfAsyncDelegate\WpfAsyncDelegate\bin\Debug\WpfAsyncDelegate.exe
+c:\vs_proj2008_07V\demo\threads\WpfAsyncDelegate\WpfAsyncDelegate\bin\Debug\WpfAsyncDelegate.pdb
+c:\vs_proj2008_07V\demo\threads\WpfAsyncDelegate\WpfAsyncDelegate\obj\Debug\ResolveAssemblyReference.cache
+c:\vs_proj2008_07V\demo\threads\WpfAsyncDelegate\WpfAsyncDelegate\obj\Debug\Window1.baml
+c:\vs_proj2008_07V\demo\threads\WpfAsyncDelegate\WpfAsyncDelegate\obj\Debug\Window1.g.cs
+c:\vs_proj2008_07V\demo\threads\WpfAsyncDelegate\WpfAsyncDelegate\obj\Debug\App.g.cs
+c:\vs_proj2008_07V\demo\threads\WpfAsyncDelegate\WpfAsyncDelegate\obj\Debug\WpfAsyncDelegate_MarkupCompile.cache
+c:\vs_proj2008_07V\demo\threads\WpfAsyncDelegate\WpfAsyncDelegate\obj\Debug\WpfAsyncDelegate.g.resources
+c:\vs_proj2008_07V\demo\threads\WpfAsyncDelegate\WpfAsyncDelegate\obj\Debug\WpfAsyncDelegate.Properties.Resources.resources
+c:\vs_proj2008_07V\demo\threads\WpfAsyncDelegate\WpfAsyncDelegate\obj\Debug\WpfAsyncDelegate.csproj.GenerateResource.Cache
+C:\vs_proj2010\demo09S\threading\WpfAsyncDelegate\WpfAsyncDelegate\obj\Debug\WpfAsyncDelegate.exe
+C:\vs_proj2010\demo09S\threading\WpfAsyncDelegate\WpfAsyncDelegate\obj\Debug\WpfAsyncDelegate.pdb
+D:\vs2010_proj\10v\threading\WPFASYNCDELEGATE\WpfAsyncDelegate\obj\Debug\WpfAsyncDelegate.exe
+D:\vs2010_proj\10v\threading\WPFASYNCDELEGATE\WpfAsyncDelegate\obj\Debug\WpfAsyncDelegate.pdb
+D:\vs2010_proj\10v\threading\WPFASYNCDELEGATE\WpfAsyncDelegate\bin\Debug\WpfAsyncDelegate.exe
+D:\vs2010_proj\10v\threading\WPFASYNCDELEGATE\WpfAsyncDelegate\bin\Debug\WpfAsyncDelegate.pdb
+D:\vs2010_proj\10v\threading\WPFASYNCDELEGATE\WpfAsyncDelegate\obj\Debug\ResolveAssemblyReference.cache
+D:\vs2010_proj\10v\threading\WPFASYNCDELEGATE\WpfAsyncDelegate\obj\Debug\Window1.baml
+D:\vs2010_proj\10v\threading\WPFASYNCDELEGATE\WpfAsyncDelegate\obj\Debug\Window1.g.cs
+D:\vs2010_proj\10v\threading\WPFASYNCDELEGATE\WpfAsyncDelegate\obj\Debug\App.g.cs
+D:\vs2010_proj\10v\threading\WPFASYNCDELEGATE\WpfAsyncDelegate\obj\Debug\WpfAsyncDelegate_MarkupCompile.cache
+D:\vs2010_proj\10v\threading\WPFASYNCDELEGATE\WpfAsyncDelegate\obj\Debug\WpfAsyncDelegate.g.resources
+D:\vs2010_proj\10v\threading\WPFASYNCDELEGATE\WpfAsyncDelegate\obj\Debug\WpfAsyncDelegate.Properties.Resources.resources
+D:\vs2010_proj\10v\threading\WPFASYNCDELEGATE\WpfAsyncDelegate\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\vs2010_proj\10v\threading\WPFASYNCDELEGATE\WpfAsyncDelegate\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\2012 H1\10I C#\Day 12 - Threading\threading_demos\WPFASYNCDELEGATE\WpfAsyncDelegate\obj\Debug\WpfAsyncDelegate.exe
+C:\2012 H1\10I C#\Day 12 - Threading\threading_demos\WPFASYNCDELEGATE\WpfAsyncDelegate\obj\Debug\WpfAsyncDelegate.pdb
+C:\2012 H1\10I C#\Day 12 - Threading\threading_demos\WPFASYNCDELEGATE\WpfAsyncDelegate\bin\Debug\WpfAsyncDelegate.exe
+C:\2012 H1\10I C#\Day 12 - Threading\threading_demos\WPFASYNCDELEGATE\WpfAsyncDelegate\bin\Debug\WpfAsyncDelegate.pdb
+C:\2012 H1\10I C#\Day 12 - Threading\threading_demos\WPFASYNCDELEGATE\WpfAsyncDelegate\obj\Debug\ResolveAssemblyReference.cache
+C:\2012 H1\10I C#\Day 12 - Threading\threading_demos\WPFASYNCDELEGATE\WpfAsyncDelegate\obj\Debug\Window1.baml
+C:\2012 H1\10I C#\Day 12 - Threading\threading_demos\WPFASYNCDELEGATE\WpfAsyncDelegate\obj\Debug\Window1.g.cs
+C:\2012 H1\10I C#\Day 12 - Threading\threading_demos\WPFASYNCDELEGATE\WpfAsyncDelegate\obj\Debug\App.g.cs
+C:\2012 H1\10I C#\Day 12 - Threading\threading_demos\WPFASYNCDELEGATE\WpfAsyncDelegate\obj\Debug\WpfAsyncDelegate_MarkupCompile.cache
+C:\2012 H1\10I C#\Day 12 - Threading\threading_demos\WPFASYNCDELEGATE\WpfAsyncDelegate\obj\Debug\WpfAsyncDelegate.g.resources
+C:\2012 H1\10I C#\Day 12 - Threading\threading_demos\WPFASYNCDELEGATE\WpfAsyncDelegate\obj\Debug\WpfAsyncDelegate.Properties.Resources.resources
+C:\2012 H1\10I C#\Day 12 - Threading\threading_demos\WPFASYNCDELEGATE\WpfAsyncDelegate\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\2012 H1\10I C#\Day 12 - Threading\threading_demos\WPFASYNCDELEGATE\WpfAsyncDelegate\obj\Debug\ResGen.read.1.tlog
+C:\2012 H1\10I C#\Day 12 - Threading\threading_demos\WPFASYNCDELEGATE\WpfAsyncDelegate\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\2012 H1\10I C#\Day 12 - Threading\threading_demos\WPFASYNCDELEGATE\WpfAsyncDelegate\obj\Debug\ResGen.write.1.tlog
+Z:\2012-SPRING\10I C#\Day 12 - Threading\threading_demos\WPFASYNCDELEGATE\WpfAsyncDelegate\obj\Debug\WpfAsyncDelegate.exe
+Z:\2012-SPRING\10I C#\Day 12 - Threading\threading_demos\WPFASYNCDELEGATE\WpfAsyncDelegate\obj\Debug\WpfAsyncDelegate.pdb
+Z:\2012-SPRING\10I C#\Day 12 - Threading\threading_demos\WPFASYNCDELEGATE\WpfAsyncDelegate\bin\Debug\WpfAsyncDelegate.exe.config
+Z:\2012-SPRING\10I C#\Day 12 - Threading\threading_demos\WPFASYNCDELEGATE\WpfAsyncDelegate\bin\Debug\WpfAsyncDelegate.exe
+Z:\2012-SPRING\10I C#\Day 12 - Threading\threading_demos\WPFASYNCDELEGATE\WpfAsyncDelegate\bin\Debug\WpfAsyncDelegate.pdb
+Z:\2012-SPRING\10I C#\Day 12 - Threading\threading_demos\WPFASYNCDELEGATE\WpfAsyncDelegate\obj\Debug\WpfAsyncDelegate.csprojResolveAssemblyReference.cache
+Z:\2012-SPRING\10I C#\Day 12 - Threading\threading_demos\WPFASYNCDELEGATE\WpfAsyncDelegate\obj\Debug\Window1.baml
+Z:\2012-SPRING\10I C#\Day 12 - Threading\threading_demos\WPFASYNCDELEGATE\WpfAsyncDelegate\obj\Debug\Window1.g.cs
+Z:\2012-SPRING\10I C#\Day 12 - Threading\threading_demos\WPFASYNCDELEGATE\WpfAsyncDelegate\obj\Debug\App.g.cs
+Z:\2012-SPRING\10I C#\Day 12 - Threading\threading_demos\WPFASYNCDELEGATE\WpfAsyncDelegate\obj\Debug\WpfAsyncDelegate_MarkupCompile.cache
+Z:\2012-SPRING\10I C#\Day 12 - Threading\threading_demos\WPFASYNCDELEGATE\WpfAsyncDelegate\obj\Debug\WpfAsyncDelegate.g.resources
+Z:\2012-SPRING\10I C#\Day 12 - Threading\threading_demos\WPFASYNCDELEGATE\WpfAsyncDelegate\obj\Debug\WpfAsyncDelegate.Properties.Resources.resources
+Z:\2012-SPRING\10I C#\Day 12 - Threading\threading_demos\WPFASYNCDELEGATE\WpfAsyncDelegate\obj\Debug\WpfAsyncDelegate.csproj.GenerateResource.Cache

@@ -1,0 +1,21 @@
+﻿<Window x:Class="WpfAsyncDelegate.Window1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="Window1" Height="329" Width="331" Closing="Window_Closing">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="220*" />
+            <RowDefinition Height="50*" />
+        </Grid.RowDefinitions>
+        <ListBox HorizontalAlignment="Left" Margin="11,12,0,33" Name="lbxPrimes" Width="120" />
+        <Button Height="23" HorizontalAlignment="Right" Margin="0,12,40,0" Name="btnStartWorker" VerticalAlignment="Top" Width="107" 
+                Click="btnStartWorker_Click">Start worker thread</Button>
+        <Button Height="23" HorizontalAlignment="Right" Margin="0,50,40,0" Name="btnCancelWorker" VerticalAlignment="Top" Width="106" 
+                Click="btnCancelWorker_Click">Stop worker thread</Button>
+        <Label Height="28" HorizontalAlignment="Right" Margin="0,0,27,33" Name="lblStatus" VerticalAlignment="Bottom" Width="120">Worker not started</Label>
+        <StackPanel Grid.Row="1" Orientation="Horizontal" Grid.RowSpan="2">
+            <ProgressBar Height="12" Width="200" Margin="5" Name="pgbPrimes"  />
+            <Label Height="28" HorizontalAlignment="Right" Margin="5" Name="lblProgress">Label</Label>
+        </StackPanel>
+    </Grid>
+</Window>

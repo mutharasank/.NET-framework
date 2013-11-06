@@ -1,0 +1,18 @@
+﻿<Window x:Class="WpfAsyncAwait.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="34,38,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"
+                 Name="tbx"/>
+        <Button Content="DoWorkAsync" HorizontalAlignment="Left" Margin="34,84,0,0" VerticalAlignment="Top" Width="140" 
+                Name="btnDoWorkAsync" Click="btnDoWorkAsync_Click"/>
+        <Label Content="lbl1" HorizontalAlignment="Left" Margin="209,84,0,0" VerticalAlignment="Top" Width="178"
+               Name="lbl1" />
+        <Button Content="Do Work in UI-thread" HorizontalAlignment="Left" Margin="34,131,0,0" VerticalAlignment="Top" Width="140"
+                Name="btnDoWork" Click="btnDoWork_Click"/>
+        <Label Content="lbl2" HorizontalAlignment="Left" Margin="209,131,0,0" VerticalAlignment="Top" 
+               Name="lbl2" Width="152"/>
+
+    </Grid>
+</Window>

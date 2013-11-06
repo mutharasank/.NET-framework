@@ -1,0 +1,6 @@
+D:\WorkspaceVisualStudio\ThreadSynchronization\Thread-Synchronization\Thread-Synchronization\bin\Debug\Thread-Synchronization.exe.config
+D:\WorkspaceVisualStudio\ThreadSynchronization\Thread-Synchronization\Thread-Synchronization\bin\Debug\Thread-Synchronization.exe
+D:\WorkspaceVisualStudio\ThreadSynchronization\Thread-Synchronization\Thread-Synchronization\bin\Debug\Thread-Synchronization.pdb
+D:\WorkspaceVisualStudio\ThreadSynchronization\Thread-Synchronization\Thread-Synchronization\obj\Debug\Thread-Synchronization.csprojResolveAssemblyReference.cache
+D:\WorkspaceVisualStudio\ThreadSynchronization\Thread-Synchronization\Thread-Synchronization\obj\Debug\Thread-Synchronization.exe
+D:\WorkspaceVisualStudio\ThreadSynchronization\Thread-Synchronization\Thread-Synchronization\obj\Debug\Thread-Synchronization.pdb

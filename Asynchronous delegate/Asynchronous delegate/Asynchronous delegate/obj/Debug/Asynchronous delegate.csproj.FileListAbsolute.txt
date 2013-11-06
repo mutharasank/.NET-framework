@@ -1,0 +1,13 @@
+D:\WorkspaceVisualStudio\Asynchronous delegate\Asynchronous delegate\Asynchronous delegate\bin\Debug\Asynchronous delegate.exe.config
+D:\WorkspaceVisualStudio\Asynchronous delegate\Asynchronous delegate\Asynchronous delegate\obj\Debug\Asynchronous delegate.csprojResolveAssemblyReference.cache
+D:\WorkspaceVisualStudio\Asynchronous delegate\Asynchronous delegate\Asynchronous delegate\obj\Debug\MainWindow.baml
+D:\WorkspaceVisualStudio\Asynchronous delegate\Asynchronous delegate\Asynchronous delegate\obj\Debug\MainWindow.g.cs
+D:\WorkspaceVisualStudio\Asynchronous delegate\Asynchronous delegate\Asynchronous delegate\obj\Debug\App.g.cs
+D:\WorkspaceVisualStudio\Asynchronous delegate\Asynchronous delegate\Asynchronous delegate\obj\Debug\Asynchronous delegate_MarkupCompile.cache
+D:\WorkspaceVisualStudio\Asynchronous delegate\Asynchronous delegate\Asynchronous delegate\obj\Debug\Asynchronous delegate.g.resources
+D:\WorkspaceVisualStudio\Asynchronous delegate\Asynchronous delegate\Asynchronous delegate\obj\Debug\Asynchronous_delegate.Properties.Resources.resources
+D:\WorkspaceVisualStudio\Asynchronous delegate\Asynchronous delegate\Asynchronous delegate\obj\Debug\Asynchronous delegate.csproj.GenerateResource.Cache
+D:\WorkspaceVisualStudio\Asynchronous delegate\Asynchronous delegate\Asynchronous delegate\bin\Debug\Asynchronous delegate.exe
+D:\WorkspaceVisualStudio\Asynchronous delegate\Asynchronous delegate\Asynchronous delegate\bin\Debug\Asynchronous delegate.pdb
+D:\WorkspaceVisualStudio\Asynchronous delegate\Asynchronous delegate\Asynchronous delegate\obj\Debug\Asynchronous delegate.exe
+D:\WorkspaceVisualStudio\Asynchronous delegate\Asynchronous delegate\Asynchronous delegate\obj\Debug\Asynchronous delegate.pdb

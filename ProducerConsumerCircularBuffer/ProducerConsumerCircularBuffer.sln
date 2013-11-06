@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProducerConsumerCircularBuffer", "ProducerConsumerCircularBuffer.csproj", "{873DE9C1-0A55-4860-B37F-B60174502072}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{873DE9C1-0A55-4860-B37F-B60174502072}.Debug.ActiveCfg = Debug|.NET
+		{873DE9C1-0A55-4860-B37F-B60174502072}.Debug.Build.0 = Debug|.NET
+		{873DE9C1-0A55-4860-B37F-B60174502072}.Release.ActiveCfg = Release|.NET
+		{873DE9C1-0A55-4860-B37F-B60174502072}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

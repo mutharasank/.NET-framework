@@ -1,0 +1,49 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Student Home Page</title>
+    <asp:ContentPlaceHolder id="head" runat="server">
+     
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .auto-style1 {
+            width: 523px;
+        }
+        .auto-style2 {
+            width: 515px;
+        }
+        .auto-style3 {
+            width: 568px;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div style="background-color: aliceblue; height: 358px; width:823px; margin:10px auto 0 auto; text-align:center;">
+        
+            <a href="index.aspx">  <asp:Label ID="Label1" runat="server" Text="Student Examination Control Panel" BorderStyle="Double" Font-Bold="False" Font-Italic="False" Font-Size="20pt" Font-Underline="True" ForeColor="#0099FF" Height="39px"></asp:Label>  </a> 
+        <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+
+                               </asp:ContentPlaceHolder>
+        <asp:PlaceHolder ID="PlaceHolder1" runat="server">
+            <table style="margin:10px">
+<tr>
+
+<td class="auto-style3">
+<asp:LinkButton ID="LinkButton4" runat="server" OnClick="LinkButton4_Click">Your Exams</asp:LinkButton>
+</td>
+<td class="auto-style2"><asp:LinkButton ID="LinkButton5" OnClick="LinkButton5_Click" runat="server">Sign Up for Exam</asp:LinkButton>
+</td>
+<td class="auto-style1"><asp:LinkButton ID="LinkButton3" OnClick="LinkButton3_Click" runat="server">Logout</asp:LinkButton></td>
+</tr>
+</table>
+        </asp:PlaceHolder>
+
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server"></asp:ContentPlaceHolder>
+    </div>
+    </form>
+</body>
+</html>

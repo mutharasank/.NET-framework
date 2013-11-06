@@ -1,0 +1,151 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "testcookie", "http://localhost:50556", "{E8DA9252-40E0-46B6-96C0-29D56A3B4B5C}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/testcookie"
+		Debug.AspNetCompiler.PhysicalPath = "testcookie\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\testcookie\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/testcookie"
+		Release.AspNetCompiler.PhysicalPath = "testcookie\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\testcookie\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "testcookie\"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "VALIDATEDEMO", "http://localhost:50519", "{234A787B-BA9B-4B72-91DD-9349C58B5C3C}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/VALIDATEDEMO"
+		Debug.AspNetCompiler.PhysicalPath = "VALIDATEDEMO\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\VALIDATEDEMO\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/VALIDATEDEMO"
+		Release.AspNetCompiler.PhysicalPath = "VALIDATEDEMO\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\VALIDATEDEMO\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "VALIDATEDEMO\"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "SITEMAPDEMO", "http://localhost:50557", "{62AF3583-C19C-4E4D-9B6F-DB1460B41BAC}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv3.5"
+		Debug.AspNetCompiler.VirtualPath = "/SITEMAPDEMO"
+		Debug.AspNetCompiler.PhysicalPath = "SITEMAPDEMO\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\SITEMAPDEMO\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/SITEMAPDEMO"
+		Release.AspNetCompiler.PhysicalPath = "SITEMAPDEMO\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\SITEMAPDEMO\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "SITEMAPDEMO\"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "MASTERPAGE1", "http://localhost:50558", "{3F0D52AA-B461-45A9-AA01-DD155DEA2C9D}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/MASTERPAGE1"
+		Debug.AspNetCompiler.PhysicalPath = "MASTERPAGE1\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\MASTERPAGE1\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/MASTERPAGE1"
+		Release.AspNetCompiler.PhysicalPath = "MASTERPAGE1\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\MASTERPAGE1\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "MASTERPAGE1\"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "LIFECYCLE", "http://localhost:50559", "{1FCC2DED-569B-43E4-B9EF-69457D3D5FA1}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/LIFECYCLE"
+		Debug.AspNetCompiler.PhysicalPath = "LIFECYCLE\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\LIFECYCLE\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/LIFECYCLE"
+		Release.AspNetCompiler.PhysicalPath = "LIFECYCLE\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\LIFECYCLE\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "LIFECYCLE\"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "DYNCTRLDEMO", "http://localhost:50560", "{66E7394A-5ED6-4554-8411-C051DEDC9A9E}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/DYNCTRLDEMO"
+		Debug.AspNetCompiler.PhysicalPath = "DYNCTRLDEMO\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\DYNCTRLDEMO\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/DYNCTRLDEMO"
+		Release.AspNetCompiler.PhysicalPath = "DYNCTRLDEMO\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\DYNCTRLDEMO\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "DYNCTRLDEMO\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8DA9252-40E0-46B6-96C0-29D56A3B4B5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8DA9252-40E0-46B6-96C0-29D56A3B4B5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{234A787B-BA9B-4B72-91DD-9349C58B5C3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{234A787B-BA9B-4B72-91DD-9349C58B5C3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62AF3583-C19C-4E4D-9B6F-DB1460B41BAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62AF3583-C19C-4E4D-9B6F-DB1460B41BAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F0D52AA-B461-45A9-AA01-DD155DEA2C9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F0D52AA-B461-45A9-AA01-DD155DEA2C9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FCC2DED-569B-43E4-B9EF-69457D3D5FA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FCC2DED-569B-43E4-B9EF-69457D3D5FA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66E7394A-5ED6-4554-8411-C051DEDC9A9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66E7394A-5ED6-4554-8411-C051DEDC9A9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

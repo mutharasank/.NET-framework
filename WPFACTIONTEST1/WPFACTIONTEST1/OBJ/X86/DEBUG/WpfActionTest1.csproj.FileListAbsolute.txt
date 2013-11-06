@@ -1,0 +1,39 @@
+C:\vs_proj2010\10s_demos\dag15\WpfActionTest1\WpfActionTest1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\vs_proj2010\10s_demos\dag15\WpfActionTest1\WpfActionTest1\obj\x86\Debug\MainWindow.baml
+C:\vs_proj2010\10s_demos\dag15\WpfActionTest1\WpfActionTest1\obj\x86\Debug\MainWindow.g.cs
+C:\vs_proj2010\10s_demos\dag15\WpfActionTest1\WpfActionTest1\obj\x86\Debug\App.g.cs
+C:\vs_proj2010\10s_demos\dag15\WpfActionTest1\WpfActionTest1\obj\x86\Debug\WpfActionTest1_MarkupCompile.cache
+C:\vs_proj2010\10s_demos\dag15\WpfActionTest1\WpfActionTest1\obj\x86\Debug\WpfActionTest1.g.resources
+C:\vs_proj2010\10s_demos\dag15\WpfActionTest1\WpfActionTest1\obj\x86\Debug\WpfActionTest1.Properties.Resources.resources
+C:\vs_proj2010\10s_demos\dag15\WpfActionTest1\WpfActionTest1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\vs_proj2010\10s_demos\dag15\WpfActionTest1\WpfActionTest1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\vs_proj2010\10s_demos\dag15\WpfActionTest1\WpfActionTest1\bin\Debug\WpfActionTest1.exe
+C:\vs_proj2010\10s_demos\dag15\WpfActionTest1\WpfActionTest1\bin\Debug\WpfActionTest1.pdb
+C:\vs_proj2010\10s_demos\dag15\WpfActionTest1\WpfActionTest1\obj\x86\Debug\WpfActionTest1.exe
+C:\vs_proj2010\10s_demos\dag15\WpfActionTest1\WpfActionTest1\obj\x86\Debug\WpfActionTest1.pdb
+C:\vs_proj2012_11s\dag15 lambda\WPFACTIONTEST1\WpfActionTest1\obj\x86\Debug\WpfActionTest1.exe
+C:\vs_proj2012_11s\dag15 lambda\WPFACTIONTEST1\WpfActionTest1\obj\x86\Debug\WpfActionTest1.pdb
+C:\vs_proj2012_11s\dag15 lambda\WPFACTIONTEST1\WpfActionTest1\bin\Debug\WpfActionTest1.exe
+C:\vs_proj2012_11s\dag15 lambda\WPFACTIONTEST1\WpfActionTest1\bin\Debug\WpfActionTest1.pdb
+C:\vs_proj2012_11s\dag15 lambda\WPFACTIONTEST1\WpfActionTest1\obj\x86\Debug\WpfActionTest1.csprojResolveAssemblyReference.cache
+C:\vs_proj2012_11s\dag15 lambda\WPFACTIONTEST1\WpfActionTest1\obj\x86\Debug\MainWindow.baml
+C:\vs_proj2012_11s\dag15 lambda\WPFACTIONTEST1\WpfActionTest1\obj\x86\Debug\MainWindow.g.cs
+C:\vs_proj2012_11s\dag15 lambda\WPFACTIONTEST1\WpfActionTest1\obj\x86\Debug\App.g.cs
+C:\vs_proj2012_11s\dag15 lambda\WPFACTIONTEST1\WpfActionTest1\obj\x86\Debug\WpfActionTest1_MarkupCompile.cache
+C:\vs_proj2012_11s\dag15 lambda\WPFACTIONTEST1\WpfActionTest1\obj\x86\Debug\WpfActionTest1.g.resources
+C:\vs_proj2012_11s\dag15 lambda\WPFACTIONTEST1\WpfActionTest1\obj\x86\Debug\WpfActionTest1.Properties.Resources.resources
+C:\vs_proj2012_11s\dag15 lambda\WPFACTIONTEST1\WpfActionTest1\obj\x86\Debug\WpfActionTest1.csproj.GenerateResource.Cache
+Z:\2013-SPRING\11T-C#\Day 15 - Threads, Tasks, Lambdas\dag15_all_demos\WPFACTIONTEST1\WpfActionTest1\obj\x86\Debug\WpfActionTest1.exe
+Z:\2013-SPRING\11T-C#\Day 15 - Threads, Tasks, Lambdas\dag15_all_demos\WPFACTIONTEST1\WpfActionTest1\obj\x86\Debug\WpfActionTest1.pdb
+Z:\2013-SPRING\11T-C#\Day 15 - Threads, Tasks, Lambdas\dag15_all_demos\WPFACTIONTEST1\WpfActionTest1\bin\Debug\WpfActionTest1.exe
+Z:\2013-SPRING\11T-C#\Day 15 - Threads, Tasks, Lambdas\dag15_all_demos\WPFACTIONTEST1\WpfActionTest1\bin\Debug\WpfActionTest1.pdb
+Z:\2013-SPRING\11T-C#\Day 15 - Threads, Tasks, Lambdas\dag15_all_demos\WPFACTIONTEST1\WpfActionTest1\obj\x86\Debug\WpfActionTest1.csprojResolveAssemblyReference.cache
+Z:\2013-SPRING\11T-C#\Day 15 - Threads, Tasks, Lambdas\dag15_all_demos\WPFACTIONTEST1\WpfActionTest1\obj\x86\Debug\MainWindow.baml
+Z:\2013-SPRING\11T-C#\Day 15 - Threads, Tasks, Lambdas\dag15_all_demos\WPFACTIONTEST1\WpfActionTest1\obj\x86\Debug\MainWindow.g.cs
+Z:\2013-SPRING\11T-C#\Day 15 - Threads, Tasks, Lambdas\dag15_all_demos\WPFACTIONTEST1\WpfActionTest1\obj\x86\Debug\App.g.cs
+Z:\2013-SPRING\11T-C#\Day 15 - Threads, Tasks, Lambdas\dag15_all_demos\WPFACTIONTEST1\WpfActionTest1\obj\x86\Debug\WpfActionTest1_MarkupCompile.cache
+Z:\2013-SPRING\11T-C#\Day 15 - Threads, Tasks, Lambdas\dag15_all_demos\WPFACTIONTEST1\WpfActionTest1\obj\x86\Debug\WpfActionTest1.g.resources
+Z:\2013-SPRING\11T-C#\Day 15 - Threads, Tasks, Lambdas\dag15_all_demos\WPFACTIONTEST1\WpfActionTest1\obj\x86\Debug\WpfActionTest1.Properties.Resources.resources
+Z:\2013-SPRING\11T-C#\Day 15 - Threads, Tasks, Lambdas\dag15_all_demos\WPFACTIONTEST1\WpfActionTest1\obj\x86\Debug\WpfActionTest1.csproj.GenerateResource.Cache
+D:\WorkspaceVisualStudio\WPFACTIONTEST1\WpfActionTest1\obj\x86\Debug\WpfActionTest1.exe
+D:\WorkspaceVisualStudio\WPFACTIONTEST1\WpfActionTest1\obj\x86\Debug\WpfActionTest1.pdb

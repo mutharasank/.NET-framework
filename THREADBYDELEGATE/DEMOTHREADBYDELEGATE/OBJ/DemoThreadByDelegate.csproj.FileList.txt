@@ -1,0 +1,5 @@
+bin\Debug\DemoThreadByDelegate.exe
+bin\Debug\DemoThreadByDelegate.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\DemoThreadByDelegate.exe
+obj\Debug\DemoThreadByDelegate.pdb

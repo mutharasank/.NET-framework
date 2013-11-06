@@ -1,0 +1,21 @@
+D:\vs2010_proj\10v\ParallelDemo1\ParallelDemo1\bin\Debug\ParallelDemo1.exe
+D:\vs2010_proj\10v\ParallelDemo1\ParallelDemo1\bin\Debug\ParallelDemo1.pdb
+D:\vs2010_proj\10v\ParallelDemo1\ParallelDemo1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\vs2010_proj\10v\ParallelDemo1\ParallelDemo1\obj\x86\Debug\ParallelDemo1.exe
+D:\vs2010_proj\10v\ParallelDemo1\ParallelDemo1\obj\x86\Debug\ParallelDemo1.pdb
+C:\vs_proj2010\10Vdemo\day13 parallel\ParallelDemo1\ParallelDemo1\obj\x86\Debug\ParallelDemo1.exe
+C:\vs_proj2010\10Vdemo\day13 parallel\ParallelDemo1\ParallelDemo1\obj\x86\Debug\ParallelDemo1.pdb
+C:\vs_proj2010\10Vdemo\day13 parallel\ParallelDemo1\ParallelDemo1\bin\Debug\ParallelDemo1.exe
+C:\vs_proj2010\10Vdemo\day13 parallel\ParallelDemo1\ParallelDemo1\bin\Debug\ParallelDemo1.pdb
+C:\vs_proj2010\10Vdemo\day13 parallel\ParallelDemo1\ParallelDemo1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\vs_proj2012_11s\dag15 lambda\PARALLELDEMO1\ParallelDemo1\obj\x86\Debug\ParallelDemo1.exe
+C:\vs_proj2012_11s\dag15 lambda\PARALLELDEMO1\ParallelDemo1\obj\x86\Debug\ParallelDemo1.pdb
+C:\vs_proj2012_11s\dag15 lambda\PARALLELDEMO1\ParallelDemo1\bin\Debug\ParallelDemo1.exe
+C:\vs_proj2012_11s\dag15 lambda\PARALLELDEMO1\ParallelDemo1\bin\Debug\ParallelDemo1.pdb
+C:\vs_proj2012_11s\dag15 lambda\PARALLELDEMO1\ParallelDemo1\obj\x86\Debug\ParallelDemo1.csprojResolveAssemblyReference.cache
+Z:\2013-SPRING\11T-C#\Day 15 - Threads, Tasks, Lambdas\dag15_all_demos\PARALLELDEMO1\ParallelDemo1\obj\x86\Debug\ParallelDemo1.exe
+Z:\2013-SPRING\11T-C#\Day 15 - Threads, Tasks, Lambdas\dag15_all_demos\PARALLELDEMO1\ParallelDemo1\obj\x86\Debug\ParallelDemo1.pdb
+Z:\2013-SPRING\11T-C#\Day 15 - Threads, Tasks, Lambdas\dag15_all_demos\PARALLELDEMO1\ParallelDemo1\bin\Debug\ParallelDemo1.exe.config
+Z:\2013-SPRING\11T-C#\Day 15 - Threads, Tasks, Lambdas\dag15_all_demos\PARALLELDEMO1\ParallelDemo1\bin\Debug\ParallelDemo1.exe
+Z:\2013-SPRING\11T-C#\Day 15 - Threads, Tasks, Lambdas\dag15_all_demos\PARALLELDEMO1\ParallelDemo1\bin\Debug\ParallelDemo1.pdb
+Z:\2013-SPRING\11T-C#\Day 15 - Threads, Tasks, Lambdas\dag15_all_demos\PARALLELDEMO1\ParallelDemo1\obj\x86\Debug\ParallelDemo1.csprojResolveAssemblyReference.cache

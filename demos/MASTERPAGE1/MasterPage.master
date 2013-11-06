@@ -1,0 +1,27 @@
+<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Untitled Page</title>
+</head>
+<body style="width: 800px; margin: auto;">
+    <form id="form1" runat="server">
+        <div>
+            <asp:Panel ID="Panel1" runat="server" BackColor="Silver" Height="180px" Width="100%">
+                <asp:Image ID="Image1" runat="server" ImageUrl="~/images/image1.jpg" ImageAlign="Top" />
+                <asp:Label ID="Label1" runat="server" Font-Bold="True" Font-Names="Arial" Font-Size="30pt"
+                    Text="Header on all pages" ForeColor="Blue"></asp:Label>
+                <br />
+            </asp:Panel>
+            <br />
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+        <br />
+        <asp:Label ID="LabelFooter" runat="server" Font-Bold="True" ForeColor="Blue"
+            Text="Footer on all pages"></asp:Label>
+    </form>
+</body>
+</html>

@@ -1,0 +1,7 @@
+D:\WorkspaceVisualStudio\ConsumerProducerWithtSynch\bin\Debug\ConsumerProducerWithoutSynch.exe
+D:\WorkspaceVisualStudio\ConsumerProducerWithtSynch\bin\Debug\ConsumerProducerWithoutSynch.pdb
+D:\WorkspaceVisualStudio\ConsumerProducerWithtSynch\obj\Debug\ConsumerProducerWithSynch.csprojResolveAssemblyReference.cache
+D:\WorkspaceVisualStudio\ConsumerProducerWithtSynch\obj\Debug\ConsumerProducerWithSynch.frmProducerConsumer.resources
+D:\WorkspaceVisualStudio\ConsumerProducerWithtSynch\obj\Debug\ConsumerProducerWithSynch.csproj.GenerateResource.Cache
+D:\WorkspaceVisualStudio\ConsumerProducerWithtSynch\obj\Debug\ConsumerProducerWithoutSynch.exe
+D:\WorkspaceVisualStudio\ConsumerProducerWithtSynch\obj\Debug\ConsumerProducerWithoutSynch.pdb

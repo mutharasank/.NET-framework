@@ -21,7 +21,7 @@ namespace Tweakker_DB_System
         private string uid;
         private string password;
         private string sql;
-        private MySqlCommand cmd;
+        private MySqlCommand cmd, cmd2;
         DataSet ds = null;
         DataTable dt = null;
         MySqlDataAdapter dataAdapter = null;
@@ -53,7 +53,6 @@ namespace Tweakker_DB_System
             password = "pass";
             string connectionString;
             connectionString = "SERVER=" + server + ";" + "DATABASE=" + database + ";" + "UID=" + uid + ";" + "PASSWORD=" + password + ";";
-
             connection = new MySqlConnection(connectionString);
         }
 
@@ -68,7 +67,6 @@ namespace Tweakker_DB_System
             }
             catch (MySqlException ex)
             {
-                //When handling errors, you can your application's response based on the error number.
                 //The two most common error numbers when connecting are as follows:
                 //0: Cannot connect to server.
                 //1045: Invalid user name and/or password.
@@ -77,7 +75,6 @@ namespace Tweakker_DB_System
                     case 0:
                         MessageBox.Show("Cannot connect to server.  Contact administrator");
                         break;
-
                     case 1045:
                         MessageBox.Show("Invalid username/password, please try again");
                         break;
@@ -100,204 +97,18 @@ namespace Tweakker_DB_System
                 return false;
             }
         }
-        public ObservableCollection<Country> GetAllCountries()
-        {
-            ObservableCollection<Country> countries = new ObservableCollection<Country>();
+       
 
-
-            sql = "SELECT * FROM country";
-
-            try
-            {
-                cmd = new MySqlCommand(sql, connection);
-                // open the connection
-                OpenConnection();
-                MySqlDataReader reader = cmd.ExecuteReader();
-                while (reader.Read())
-                {
-
-                    int id = (int)reader[0];
-                    string iso = (string)reader[1];
-                    string name = (string)reader[2];
-
-
-                    Country c = new Country(id, iso, name);
-                    Debug.WriteLine(id + iso + name);
-                    countries.Add(c);
-
-
-
-                }
-                reader.Close();
-            }
-            catch (Exception ex)
-            {
-                MessageBox.Show("Error loading all countries" + ex.Message);
-            }
-            finally
-            {
-                connection.Close();
-
-                // close the reader
-
-            }
-            return countries;
-        }
-
-
-        public ObservableCollection<Setting> GetSettingsByNetworkID(int p)
-        {
-            ObservableCollection<Setting> settings = new ObservableCollection<Setting>();
-
-
-            sql = "SELECT * FROM setting WHERE network_id = " + "'" + p + "';";
-            try
-            {
-                cmd = new MySqlCommand(sql, connection);
-                // open the connection
-                OpenConnection();
-                MySqlDataReader reader = cmd.ExecuteReader();
-                while (reader.Read())
-                {
-
-                    int id = (int)reader[0];
-                    string name = (string)reader[1];
-                    string alternative_name = (string)reader[2];
-
-                    int network_id = (int)reader[3];
-
-
-                    Setting setting = new Setting(id, name, alternative_name, network_id);
-
-                    settings.Add(setting);
-
-
-
-                }
-                reader.Close();
-            }
-            catch (Exception ex)
-            {
-                MessageBox.Show("Error loading settings by network_id" + ex.Message);
-            }
-            finally
-            {
-                connection.Close();
-
-                // close the reader
-
-            }
-            return settings;
-
-        }
-        public ObservableCollection<Network> GetNetworksByCountryID(int p)
-        {
-            ObservableCollection<Network> networks = new ObservableCollection<Network>();
-
-
-            sql = "SELECT * FROM network WHERE country_id = " + "'" + p + "';";
-
-            try
-            {
-                cmd = new MySqlCommand(sql, connection);
-                // open the connection
-                OpenConnection();
-                MySqlDataReader reader = cmd.ExecuteReader();
-                while (reader.Read())
-                {
-
-                    int id = (int)reader[0];
-                    string name = (string)reader[1];
-                    int ranking = (int)reader[2];
-                    bool ismno = (bool)reader[3];
-                    int country_id = (int)reader[4];
-
-                    // MessageBox.Show(id + name + ranking + ismno + country_id);
-                    Network network = new Network(id, name, ismno, ranking, country_id);
-
-                    networks.Add(network);
-
-
-
-                }
-                reader.Close();
-            }
-            catch (Exception ex)
-            {
-                MessageBox.Show("Error loading networks by country_id" + ex.Message);
-            }
-            finally
-            {
-                connection.Close();
-
-                // close the reader
-
-            }
-            return networks;
-        }
-
-        public ObservableCollection<Parameter> GetParametersBySettingID(int p)
-        {
-            ObservableCollection<Parameter> parameters = new ObservableCollection<Parameter>();
-
-            sql = "SELECT * FROM setting_parameters WHERE setting_id = " + "'" + p + "';";
-            try
-            {
-                cmd = new MySqlCommand(sql, connection);
-                // open the connection
-                OpenConnection();
-                MySqlDataReader reader = cmd.ExecuteReader();
-                while (reader.Read())
-                {
-
-
-                    string parameter_name = (string)reader[0];
-                    string parameter_value = (string)reader[1];
-                    int setting_id = (int)reader[2];
-
-                    Parameter parameter = new Parameter(setting_id, parameter_name, parameter_value);
-
-                    parameters.Add(parameter);
-
-
-
-                }
-                reader.Close();
-            }
-            catch (Exception ex)
-            {
-                MessageBox.Show("Error loading networks by country_id" + ex.Message);
-            }
-            finally
-            {
-                connection.Close();
-
-                // close the reader
-
-            }
-            return parameters;
-
-        }
-
-
-
-        public void UpdateSetting(Country c, Network n, Setting s)
+        public void UpdateSetting(Country c, Network n, Setting s, Code code, Note note)
         {
             ObservableCollection<Parameter> parameters = new ObservableCollection<Parameter>();
             OpenConnection();
             MySqlCommand myCommand = connection.CreateCommand();
             MySqlTransaction myTrans;
             myTrans = connection.BeginTransaction();
-            //           BEGIN;
-            //UPDATE country SET iso =c.iso WHERE country_id = c.id;
-            //UPDATE network SET name = n.name, ranking = n.ranking, ismno=n.ismno WHERE country_id = c.id;
-            //UPDATE setting SET name = s.name, alternative_name = s.alternative_name WHERE network_id = n.id;
-            //COMMIT;
             try
             {
-
                 // Start a local transaction
-
                 // Must assign both transaction object and connection
                 // to Command object for a pending local transaction
                 myCommand.Connection = connection;
@@ -315,22 +126,27 @@ namespace Tweakker_DB_System
                 myCommand.Parameters.AddWithValue("@c_id", c.id);
                 myCommand.ExecuteNonQuery();
 
+                myCommand.CommandText = "UPDATE code SET mcc = @mcc, mnc = @mnc WHERE network_id = @net_id;";
+                myCommand.Parameters.AddWithValue("@mcc", code.mcc);
+                myCommand.Parameters.AddWithValue("@mnc", code.mnc);
+                myCommand.Parameters.AddWithValue("@net_id", n.id);
+                myCommand.ExecuteNonQuery();
+
                 myCommand.CommandText = "UPDATE setting SET name = @setting_name, alternative_name = @setting_alt_name WHERE network_id = @network_id";
-                Debug.WriteLine(myCommand.Parameters.Count);
                 myCommand.Parameters.AddWithValue("@setting_name", s.name);
                 myCommand.Parameters.AddWithValue("@setting_alt_name", s.alternative_name);
                 myCommand.Parameters.AddWithValue("@network_id", n.id);
-                int id = Convert.ToInt32(myCommand.ExecuteScalar());
 
 
-
+                myCommand.CommandText = "INSERT INTO notes (setting_id,text) VALUES (@setting_id, @text);";
+                myCommand.Parameters.AddWithValue("@setting_id", s.id);
+                myCommand.Parameters.AddWithValue("@text", note.text);
                 myCommand.ExecuteNonQuery();
+
                 myTrans.Commit();
 
                 MessageBox.Show("Record Updated");
             }
-
-
             catch (Exception ex1)
             {
                 try
@@ -341,33 +157,25 @@ namespace Tweakker_DB_System
                 {
                     if (myTrans.Connection != null)
                     {
-                        Console.WriteLine("An exception of type " + ex.GetType() +
+                        MessageBox.Show("An exception of type " + ex.Message +
                                           " was encountered while attempting to roll back the transaction.");
                     }
                 }
-
-                Console.WriteLine("An exception of type " + ex1.GetType() +
-                                  " was encountered while inserting the data.");
-                Console.WriteLine("Neither record was written to database.");
+                MessageBox.Show("An exception of type " + ex1.Message +
+                   " was encountered while inserting the data.");
+                MessageBox.Show("Neither record was written to database.");
             }
-
-
             finally
             {
                 CloseConnection();
-
             }
-
         }
 
 
         public void PopulateDataGrid(System.Windows.Controls.DataGrid datagrid_parameters, int p)
         {
-
             OpenConnection();
-
             sql = "SELECT * FROM setting_parameters WHERE setting_id = " + "'" + p + "';";
-
             ds = new DataSet();
             dataAdapter = new MySqlDataAdapter(sql, connection);
             dataAdapter.Fill(ds, "setting_parameters");
@@ -378,7 +186,6 @@ namespace Tweakker_DB_System
 
         public void UpdateDataGridValues()
         {
-
             MySqlCommandBuilder catCB = new MySqlCommandBuilder(dataAdapter);
             dataAdapter.UpdateCommand = catCB.GetUpdateCommand();
             dataAdapter.DeleteCommand = catCB.GetDeleteCommand();
@@ -386,20 +193,306 @@ namespace Tweakker_DB_System
             dataAdapter.Update(dt);
         }
 
+        public ObservableCollection<Country> GetAllCountries()
+        {
+            ObservableCollection<Country> countries = new ObservableCollection<Country>();
+            sql = "SELECT * FROM country";
+            try
+            {
+                cmd = new MySqlCommand(sql, connection);
+                // open the connection
+                OpenConnection();
+                MySqlDataReader reader = cmd.ExecuteReader();
+                while (reader.Read())
+                {
+                    int id = (int)reader[0];
+                    string iso = (string)reader[1];
+                    string name = (string)reader[2];
+                    Country c = new Country(id, iso, name);
+                    Debug.WriteLine(id + iso + name);
+                    countries.Add(c);
+                }
+                reader.Close();
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Error loading all countries" + ex.Message);
+            }
+            finally
+            {
+                connection.Close();
+            }
+            return countries;
+        }
+
+        public ObservableCollection<Setting> GetSettingsByNetworkID(int p)
+        {
+            ObservableCollection<Setting> settings = new ObservableCollection<Setting>();
+            sql = "SELECT * FROM setting WHERE network_id = " + "'" + p + "';";
+            try
+            {
+                cmd = new MySqlCommand(sql, connection);
+                OpenConnection();
+                MySqlDataReader reader = cmd.ExecuteReader();
+                while (reader.Read())
+                {
+                    int id = (int)reader[0];
+                    string name = (string)reader[1];
+                    string alternative_name = (string)reader[2];
+                    int network_id = (int)reader[3];
+                    Setting setting = new Setting(id, name, alternative_name, network_id);
+                    settings.Add(setting);
+                }
+                reader.Close();
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Error loading settings by network_id" + ex.Message);
+            }
+            finally
+            {
+                connection.Close();
+            }
+            return settings;
+
+        }
+        public ObservableCollection<Network> GetNetworksByCountryID(int p)
+        {
+            ObservableCollection<Network> networks = new ObservableCollection<Network>();
+            sql = "SELECT * FROM network WHERE country_id = " + "'" + p + "';";
+            try
+            {
+                cmd = new MySqlCommand(sql, connection);
+                // open the connection
+                OpenConnection();
+                MySqlDataReader reader = cmd.ExecuteReader();
+                while (reader.Read())
+                {
+                    int id = (int)reader[0];
+                    string name = (string)reader[1];
+                    int ranking = (int)reader[2];
+                    bool ismno = (bool)reader[3];
+                    int country_id = (int)reader[4];
+                    Network network = new Network(id, name, ismno, ranking, country_id);
+                    networks.Add(network);
+                }
+                reader.Close();
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Error loading networks by country_id" + ex.Message);
+            }
+            finally
+            {
+                connection.Close();
+
+            }
+            return networks;
+        }
+
+        private String getNetworkMNC(int id)
+        {
+            String mnc = "";
+            sql = "SELECT * FROM code WHERE network_id = " + "'" + id + "';";
+            try
+            {
+                cmd = new MySqlCommand(sql, connection);
+                // open the connection
+                OpenConnection();
+                MySqlDataReader reader = cmd.ExecuteReader();
+                while (reader.Read())
+                {
+                    int temp_mnc = (int)reader[1];
+                    mnc += Convert.ToString(temp_mnc) + ",";
+                }
+                reader.Close();
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Error loading codes by network_id" + ex.Message);
+            }
+            finally
+            {
+                connection.Close();
+            }
+            return mnc;
+        }
+        public ObservableCollection<Parameter> GetParametersBySettingID(int p)
+        {
+            ObservableCollection<Parameter> parameters = new ObservableCollection<Parameter>();
+            sql = "SELECT * FROM setting_parameters WHERE setting_id = " + "'" + p + "';";
+            try
+            {
+                cmd = new MySqlCommand(sql, connection);
+                // open the connection
+                OpenConnection();
+                MySqlDataReader reader = cmd.ExecuteReader();
+                while (reader.Read())
+                {
+                    string parameter_name = (string)reader[0];
+                    string parameter_value = (string)reader[1];
+                    int setting_id = (int)reader[2];
+                    Parameter parameter = new Parameter(setting_id, parameter_name, parameter_value);
+                    parameters.Add(parameter);
+                }
+                reader.Close();
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Error loading networks by country_id" + ex.Message);
+            }
+            finally
+            {
+                connection.Close();
+            }
+            return parameters;
+        }
+
+
+        public string Get_Mcc_byNetwork_id(int p)
+        {
+            string mcc = "";
+            sql = "SELECT mcc FROM code WHERE network_id = " + "'" + p + "';";
+            try
+            {
+                cmd = new MySqlCommand(sql, connection);
+                OpenConnection();
+                MySqlDataReader reader = cmd.ExecuteReader();
+                while (reader.Read())
+                {
+                    int temp = (int)reader[0];
+                    mcc += temp.ToString() + ",";
+                }
+                reader.Close();
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Error loading codes by network_id" + ex.Message);
+            }
+            finally
+            {
+                connection.Close();
+            }
+            return mcc;
+        }
+
+        public string Get_Mnc_byNetwork_id(int p)
+        {
+            string mnc = "";
+            sql = "SELECT mnc FROM code WHERE network_id = " + "'" + p + "';";
+            try
+            {
+                cmd = new MySqlCommand(sql, connection);
+                OpenConnection();
+                MySqlDataReader reader = cmd.ExecuteReader();
+                while (reader.Read())
+                {
+                    int temp = (int)reader[0];
+                    mnc += temp.ToString() + ",";
+                }
+                reader.Close();
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Error loading codes by network_id" + ex.Message);
+            }
+            finally
+            {
+                connection.Close();
+            }
+            return mnc;
+        }
+
+        public void DeleteSetting(int p)
+        {
+           connection.Open();
+                MySqlCommand myCommand = connection.CreateCommand();
+                MySqlTransaction myTrans;
+                myTrans = connection.BeginTransaction();
+                myCommand.Connection = connection;
+                myCommand.Transaction = myTrans;
+
+                try
+                {
+
+                    myCommand.CommandText = "DELETE FROM setting_parameters WHERE setting_id = @setting_id;";
+                    myCommand.Parameters.AddWithValue("@setting_id",p);
+                    myCommand.ExecuteNonQuery();
+              
+
+                    myCommand.CommandText = "DELETE FROM setting WHERE setting_id = @set_id;";
+                    myCommand.Parameters.AddWithValue("@set_id", p);
+                               myCommand.ExecuteNonQuery();
+
+                    myTrans.Commit();
+            
+
+               }
+                catch (Exception e)
+                {
+                    try
+                    {
+                        myTrans.Rollback();
+                    }
+                    catch (MySqlException ex)
+                    {
+                        if (myTrans.Connection != null)
+                        {
+                            MessageBox.Show("An exception of type " + ex.GetType() +
+                                              " was encountered while attempting to roll back the transaction.");
+                        }
+                    }
+
+                     MessageBox.Show("An exception of type " + e.GetType() +
+                                      " was encountered while inserting the data.");
+                    MessageBox.Show("Neither record was written to database.");
+                }
+                finally
+                {
+                    connection.Close();
+                    MessageBox.Show("Setting Deleted!");
+                }
+            
+            
+
+        }
+        public string GetNoteBySettingID(int p)
+        {
+            string setting_text = "";
+            sql = "SELECT text FROM notes WHERE setting_id = " + "'" + p + "';";
+            try
+            {
+                cmd = new MySqlCommand(sql, connection);
+                OpenConnection();
+                MySqlDataReader reader = cmd.ExecuteReader();
+                while (reader.Read())
+                {
+                     setting_text = (string)reader[0];
+                   
+                }
+                reader.Close();
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Error loading notes by setting id" + ex.Message);
+            }
+            finally
+            {
+                connection.Close();
+            }
+            return setting_text;
+           
+        }
+
 
         public void SaveSettings_BookmarkParameters(int current_country_id, string network_name, string mcc, string mnc, string ranking, int ismno, string setting_name, string setting_alternative_name, string bookmark_name, string bookmark_url, string bookmark_pin)
         {
-
             if (network_name != null && mcc != null && mnc != null & ranking != null && setting_name != null && setting_alternative_name != null)
             {
-
                 connection.Open();
                 MySqlCommand myCommand = connection.CreateCommand();
                 MySqlTransaction myTrans;
-                // Start a local transaction
                 myTrans = connection.BeginTransaction();
-                // Must assign both transaction object and connection
-                // to Command object for a pending local transaction
                 myCommand.Connection = connection;
                 myCommand.Transaction = myTrans;
 
@@ -455,14 +548,14 @@ namespace Tweakker_DB_System
                     {
                         if (myTrans.Connection != null)
                         {
-                            Console.WriteLine("An exception of type " + ex.GetType() +
+                            MessageBox.Show("An exception of type " + ex.GetType() +
                                               " was encountered while attempting to roll back the transaction.");
                         }
                     }
 
-                    Console.WriteLine("An exception of type " + e.GetType() +
+                     MessageBox.Show("An exception of type " + e.GetType() +
                                       " was encountered while inserting the data.");
-                    Console.WriteLine("Neither record was written to database.");
+                    MessageBox.Show("Neither record was written to database.");
                 }
                 finally
                 {
@@ -483,22 +576,12 @@ namespace Tweakker_DB_System
             string mms_gprs_auth_secret, string mms_gprs_auth_type, string mms_gprs_name, string mms_gprs_proxy,
             string mms_gprs_proxy_port, string mms_gprs_url, string pin, string protocol, string security_method)
         {
-
-            //            Debug.WriteLine(iap_gprs_access_point_name + "item" + iap_gprs_auth_name + "item" + iap_gprs_auth_secret + "item" +
-            //            iap_gprs_auth_type + "item" + iap_gprs_name + "item" + iap_gprs_proxy_port + "item" + iap_gprs_url + "item" +
-            //            iap_mms_gprs_bootstrap_name + "item" + mms_gprs_access_point_name + "item" + mms_gprs_auth_name + "item" +
-            //mms_gprs_auth_secret + "item" + mms_gprs_auth_type + "item" + mms_gprs_name + "item" + mms_gprs_proxy + "item" +
-            //     mms_gprs_proxy_port + "item" + mms_gprs_url + "item" + pin + "item" + protocol + "item" + security_method);
-
             if (network_name != null && mcc != null && mnc != null & ranking != null && setting_name != null && setting_alternative_name != null)
             {
                 connection.Open();
                 MySqlCommand myCommand = connection.CreateCommand();
                 MySqlTransaction myTrans;
-                // Start a local transaction
                 myTrans = connection.BeginTransaction();
-                // Must assign both transaction object and connection
-                // to Command object for a pending local transaction
                 myCommand.Connection = connection;
                 myCommand.Transaction = myTrans;
 
@@ -614,7 +697,6 @@ namespace Tweakker_DB_System
                     myCommand.ExecuteNonQuery();
                     myTrans.Commit();
                     MessageBox.Show("Setting is saved to database!");
-
                 }
                 catch (Exception e)
                 {
@@ -626,14 +708,13 @@ namespace Tweakker_DB_System
                     {
                         if (myTrans.Connection != null)
                         {
-                            Console.WriteLine("An exception of type " + ex.GetType() +
+                            MessageBox.Show("An exception of type " + ex.GetType() +
                                               " was encountered while attempting to roll back the transaction.");
                         }
                     }
-
-                    Console.WriteLine("An exception of type " + e.GetType() +
-                                      " was encountered while inserting the data.");
-                    Console.WriteLine("Neither record was written to database.");
+                    MessageBox.Show("An exception of type " + e.GetType() +
+                  " was encountered while inserting the data.");
+                    MessageBox.Show("Neither record was written to database.");
                 }
                 finally
                 {
@@ -749,5 +830,9 @@ namespace Tweakker_DB_System
         //    }
         //}
 
+
+
+
+    
     }
 }

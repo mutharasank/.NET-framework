@@ -1,0 +1,6 @@
+D:\WorkspaceVisualStudio\PredicateDelegate\Predicate Delegate\Predicate Delegate\bin\Debug\Predicate Delegate.exe.config
+D:\WorkspaceVisualStudio\PredicateDelegate\Predicate Delegate\Predicate Delegate\obj\Debug\Predicate Delegate.csprojResolveAssemblyReference.cache
+D:\WorkspaceVisualStudio\PredicateDelegate\Predicate Delegate\Predicate Delegate\bin\Debug\Predicate Delegate.exe
+D:\WorkspaceVisualStudio\PredicateDelegate\Predicate Delegate\Predicate Delegate\bin\Debug\Predicate Delegate.pdb
+D:\WorkspaceVisualStudio\PredicateDelegate\Predicate Delegate\Predicate Delegate\obj\Debug\Predicate Delegate.exe
+D:\WorkspaceVisualStudio\PredicateDelegate\Predicate Delegate\Predicate Delegate\obj\Debug\Predicate Delegate.pdb

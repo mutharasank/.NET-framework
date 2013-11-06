@@ -1,0 +1,5 @@
+D:\WorkspaceVisualStudio\List.ForEach(LambdaExpression)\List.ForEach(LambdaExpression)\List.ForEach(LambdaExpression)\bin\Debug\List.ForEach(LambdaExpression).exe.config
+D:\WorkspaceVisualStudio\List.ForEach(LambdaExpression)\List.ForEach(LambdaExpression)\List.ForEach(LambdaExpression)\bin\Debug\List.ForEach(LambdaExpression).exe
+D:\WorkspaceVisualStudio\List.ForEach(LambdaExpression)\List.ForEach(LambdaExpression)\List.ForEach(LambdaExpression)\bin\Debug\List.ForEach(LambdaExpression).pdb
+D:\WorkspaceVisualStudio\List.ForEach(LambdaExpression)\List.ForEach(LambdaExpression)\List.ForEach(LambdaExpression)\obj\Debug\List.ForEach(LambdaExpression).exe
+D:\WorkspaceVisualStudio\List.ForEach(LambdaExpression)\List.ForEach(LambdaExpression)\List.ForEach(LambdaExpression)\obj\Debug\List.ForEach(LambdaExpression).pdb

@@ -1,0 +1,6 @@
+D:\WorkspaceVisualStudio\Bounded Buffer(Threading)\Bounded Buffer (Threading)\Bounded Buffer (Threading)\bin\Debug\Bounded Buffer (Threading).exe.config
+D:\WorkspaceVisualStudio\Bounded Buffer(Threading)\Bounded Buffer (Threading)\Bounded Buffer (Threading)\bin\Debug\Bounded Buffer (Threading).exe
+D:\WorkspaceVisualStudio\Bounded Buffer(Threading)\Bounded Buffer (Threading)\Bounded Buffer (Threading)\bin\Debug\Bounded Buffer (Threading).pdb
+D:\WorkspaceVisualStudio\Bounded Buffer(Threading)\Bounded Buffer (Threading)\Bounded Buffer (Threading)\obj\Debug\Bounded Buffer (Threading).exe
+D:\WorkspaceVisualStudio\Bounded Buffer(Threading)\Bounded Buffer (Threading)\Bounded Buffer (Threading)\obj\Debug\Bounded Buffer (Threading).pdb
+D:\WorkspaceVisualStudio\Bounded Buffer(Threading)\Bounded Buffer (Threading)\Bounded Buffer (Threading)\obj\Debug\Bounded Buffer (Threading).csprojResolveAssemblyReference.cache

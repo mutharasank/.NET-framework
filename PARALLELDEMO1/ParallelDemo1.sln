@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParallelDemo1", "ParallelDemo1\ParallelDemo1.csproj", "{FDD4773E-3F6F-4EB0-8804-6EE6D94F7692}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDD4773E-3F6F-4EB0-8804-6EE6D94F7692}.Debug|x86.ActiveCfg = Debug|x86
+		{FDD4773E-3F6F-4EB0-8804-6EE6D94F7692}.Debug|x86.Build.0 = Debug|x86
+		{FDD4773E-3F6F-4EB0-8804-6EE6D94F7692}.Release|x86.ActiveCfg = Release|x86
+		{FDD4773E-3F6F-4EB0-8804-6EE6D94F7692}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

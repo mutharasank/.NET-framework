@@ -1,0 +1,5 @@
+bin\Debug\demoasynccall1.exe
+bin\Debug\demoasynccall1.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\demoasynccall1.exe
+obj\Debug\demoasynccall1.pdb
