@@ -154,7 +154,7 @@
                 </Grid>
             </TabItem>
             <TabItem Header="Search / Manage Existing Settings" Name="tab_SearchManage">
-                <Grid Background="#FFF1E6FB" Margin="0,-5,0,1">
+                <Grid Background="#FFF1E6FB" Margin="0,-2">
                     <Grid.ColumnDefinitions>
                         <ColumnDefinition/>
                     </Grid.ColumnDefinitions>
@@ -184,12 +184,12 @@
                             </Grid>
                         </TabItem>
                     </TabControl>
-                    <DataGrid HorizontalAlignment="Left" Name="datagrid_parameters" Height="292" Margin="22,280,0,0" ItemsSource="{Binding}" VerticalAlignment="Top" Width="378" AutoGenerateColumns="True"/>
+                    <DataGrid HorizontalAlignment="Left" Name="datagrid_parameters" Height="292" Margin="22,285,0,0" ItemsSource="{Binding}" VerticalAlignment="Top" Width="378" AutoGenerateColumns="True"/>
                     <Label Content="Setting Parameters" HorizontalAlignment="Left" Height="27" Margin="22,253,0,0" VerticalAlignment="Top" Width="142"/>
                     <Button Content="Save Changes" HorizontalAlignment="Left" Height="42" Margin="544,530,0,0" VerticalAlignment="Top" Width="162" Name="btn_save_tab2" Click="btn_save_tab2_Click_1"/>
                     <Button Content="Delete Setting" Name="btn_Delete_tab2" HorizontalAlignment="Left" Height="40" Margin="544,472,0,0" VerticalAlignment="Top" Width="162" Click="btn_Delete_tab2_Click_1"/>
                     <Label Content="MNC :" HorizontalAlignment="Left" Height="30" Margin="567,196,0,0" VerticalAlignment="Top" Width="47"/>
-                    <TextBox x:Name="txt_note_tab2" HorizontalAlignment="Left" Height="170" Margin="417,280,0,0" TextWrapping="Wrap" Text="Please write a comment for the changes made here " VerticalAlignment="Top" Width="398" BorderThickness="1" Background="#FFFFE1E1">
+                    <TextBox x:Name="txt_note_tab2" HorizontalAlignment="Left" Height="170" Margin="417,285,0,0" TextWrapping="Wrap" Text="Please write a comment for the changes made here " VerticalAlignment="Top" Width="398" BorderThickness="1" Background="#FFFFE1E1">
                         <TextBox.BorderBrush>
                             <LinearGradientBrush EndPoint="0,20" MappingMode="Absolute" StartPoint="0,0">
                                 <GradientStop Color="#FFABADB3" Offset="0.05"/>
@@ -201,7 +201,40 @@
                     <Label Content="Note " HorizontalAlignment="Left" Height="27" Margin="417,253,0,0" VerticalAlignment="Top" Width="235" RenderTransformOrigin="0.502,-0.045"/>
                 </Grid>
             </TabItem>
+            <TabItem Header="Grant Remote Access" HorizontalAlignment="Left" Height="20" VerticalAlignment="Top" Width="141" Margin="0">
+                <Grid Background="#FFE5E5E5">
+                    <CheckBox x:Name="checkbox_ip" Content="IP Address" HorizontalAlignment="Left" Height="28" Margin="190,304,0,0" VerticalAlignment="Top" Width="80"/>
+                    <CheckBox x:Name="checkbox_Domain" Content="Domain Address" HorizontalAlignment="Left" Height="28" Margin="304,304,0,0" VerticalAlignment="Top" Width="118"/>
+                    <CheckBox x:Name="checkbox_Wildcard" Content="Wildcard" HorizontalAlignment="Left" Height="28" Margin="555,304,0,0" VerticalAlignment="Top" Width="86"/>
+                    <Label Content="Select Host Type :" HorizontalAlignment="Left" Margin="338,269,0,0" VerticalAlignment="Top" IsEnabled="False" FontSize="16"/>
+                    <Label Content="Choose Username :" HorizontalAlignment="Left" Height="32" Margin="10,98,0,0" VerticalAlignment="Top" Width="118"/>
+                    <Label Content="Choose Password :" HorizontalAlignment="Left" Height="41" Margin="262,98,0,0" VerticalAlignment="Top" Width="134"/>
+                    <TextBox x:Name="txt_username" HorizontalAlignment="Left" Height="32" Margin="133,98,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="121"/>
+                    <TextBox x:Name="txt_password" HorizontalAlignment="Left" Height="31" Margin="380,98,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="121"/>
+                    <ComboBox x:Name="cbx_access_level" HorizontalAlignment="Left" Height="27" Margin="641,98,0,0" VerticalAlignment="Top" Width="174"/>
+                    <Label Content="Select Access Level : " HorizontalAlignment="Left" Height="32" Margin="522,98,0,0" VerticalAlignment="Top" Width="172"/>
+                    <CheckBox x:Name="cbx_localhost" Content="Localhost" HorizontalAlignment="Left" Margin="451,304,0,0" VerticalAlignment="Top"/>
+                    <TextBox HorizontalAlignment="Left" Name="txt_max_queries" Height="28" Margin="348,232,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="50"/>
+                    <TextBox x:Name="txt_max_updates" HorizontalAlignment="Left" Height="28" Margin="348,199,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="50"/>
+                    <TextBox x:Name="txt_max_con_perhour" HorizontalAlignment="Left" Height="25" Margin="662,232,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="50"/>
+                    <TextBox x:Name="max_user_con" HorizontalAlignment="Left" Height="28" Margin="662,199,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="50"/>
+                    <Label Content="Maximum Queries per hour :" HorizontalAlignment="Left" Height="28" Margin="111,232,0,0" VerticalAlignment="Top" Width="172"/>
+                    <Label Content="Maximum Updates per hour :" HorizontalAlignment="Left" Height="28" Margin="111,199,0,0" VerticalAlignment="Top" Width="172"/>
+                    <Label Content="Maximum Connections per hour :" HorizontalAlignment="Left" Height="25" Margin="425,232,0,0" VerticalAlignment="Top" Width="190"/>
+                    <Label Content="Maximum User Connections :" HorizontalAlignment="Left" Height="28" Margin="425,199,0,0" VerticalAlignment="Top" Width="172"/>
+                    <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="95" Margin="10,44,0,0" VerticalAlignment="Top" Width="820">
+                        <Label Content="User Information : " HorizontalAlignment="Left" Height="34" Margin="328,-1,0,0" VerticalAlignment="Top" Width="273" IsEnabled="False" FontSize="16"/>
+                    </Border>
+                    <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="109" Margin="47,155,0,0" VerticalAlignment="Top" Width="750">
+                        <Label Content="User's Permissions :" HorizontalAlignment="Left" Height="30" Margin="289,-1,0,0" VerticalAlignment="Top" Width="252" FontSize="16" IsEnabled="False"/>
+                    </Border>
+                    <TextBox x:Name="txt_host" HorizontalAlignment="Left" Height="27" Margin="338,354,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="180"/>
+                    <Label Content="Host Address :" HorizontalAlignment="Left" Height="27" Margin="241,354,0,0" VerticalAlignment="Top" Width="92" RenderTransformOrigin="0.913,0.593"/>
+                    <Button x:Name="btn_Grant" Content="Grant Access" HorizontalAlignment="Left" Height="31" Margin="280,429,0,0" VerticalAlignment="Top" Width="260" Click="btn_Grant_Click_1"/>
+                </Grid>
+            </TabItem>
         </TabControl>
+        <Label Content="Label" HorizontalAlignment="Left" Height="6" Margin="-243,369,0,0" VerticalAlignment="Top" Width="1"/>
 
     </Grid>
 </Window>

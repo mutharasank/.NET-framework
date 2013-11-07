@@ -21,7 +21,7 @@ namespace Tweakker_DB_System
         private string uid;
         private string password;
         private string sql;
-        private MySqlCommand cmd, cmd2;
+        private MySqlCommand cmd;
         DataSet ds = null;
         DataTable dt = null;
         MySqlDataAdapter dataAdapter = null;
@@ -97,7 +97,7 @@ namespace Tweakker_DB_System
                 return false;
             }
         }
-       
+
 
         public void UpdateSetting(Country c, Network n, Setting s, Code code, Note note)
         {
@@ -171,6 +171,166 @@ namespace Tweakker_DB_System
             }
         }
 
+        public void Grant_Full_Access(string username, string password, string host)
+        {
+            OpenConnection();
+            MySqlCommand myCommand = connection.CreateCommand();
+            MySqlTransaction myTrans;
+            myTrans = connection.BeginTransaction();
+            try
+            {
+                myCommand.Connection = connection;
+                myCommand.Transaction = myTrans;
+
+                myCommand.CommandText = "CREATE USER @username @" + "'" + host + "' IDENTIFIED BY @some_pass;";
+                myCommand.Parameters.AddWithValue("@username", username);
+                myCommand.Parameters.AddWithValue("@some_pass", password);
+                myCommand.ExecuteNonQuery();
+
+                myCommand.CommandText = "GRANT ALL PRIVILEGES ON tweakker_database.* TO @user@" + "'" + host + "' WITH GRANT OPTION;";
+                myCommand.Parameters.AddWithValue("@user", username);
+                myCommand.ExecuteNonQuery();
+
+
+                myCommand.CommandText = " FLUSH PRIVILEGES;";
+                myCommand.ExecuteNonQuery();
+
+                myTrans.Commit();
+
+                MessageBox.Show("Access Granted");
+            }
+            catch (Exception ex1)
+            {
+                try
+                {
+                    myTrans.Rollback();
+                }
+                catch (MySqlException ex)
+                {
+                    if (myTrans.Connection != null)
+                    {
+                        MessageBox.Show("An exception of type " + ex.Message +
+                                          " was encountered while attempting to roll back the transaction.");
+                    }
+                }
+                MessageBox.Show("An exception of type " + ex1.Message +
+                   " was encountered while inserting the data.");
+                MessageBox.Show("Neither record was written to database.");
+            }
+            finally
+            {
+                CloseConnection();
+            }
+        }
+
+        public void Grant_ReadOnly_Access(string username, string password)
+        {
+            OpenConnection();
+            MySqlCommand myCommand = connection.CreateCommand();
+            MySqlTransaction myTrans;
+            myTrans = connection.BeginTransaction();
+            try
+            {
+                myCommand.Connection = connection;
+                myCommand.Transaction = myTrans;
+
+                myCommand.CommandText = "CREATE USER @user_name@'%';";
+                myCommand.Parameters.AddWithValue("@user_name", username);
+                myCommand.Parameters.AddWithValue("@some_password", password);
+                myCommand.ExecuteNonQuery();
+
+                myCommand.CommandText = "GRANT SELECT ON tweakker_database.* TO @us_name@'%';";
+                myCommand.Parameters.AddWithValue("@us_name", username);
+                myCommand.ExecuteNonQuery();
+
+
+                myCommand.CommandText = " FLUSH PRIVILEGES;";
+                myCommand.ExecuteNonQuery();
+
+                myTrans.Commit();
+
+                MessageBox.Show("Access Granted");
+            }
+            catch (Exception ex1)
+            {
+                try
+                {
+                    myTrans.Rollback();
+                }
+                catch (MySqlException ex)
+                {
+                    if (myTrans.Connection != null)
+                    {
+                        MessageBox.Show("An exception of type " + ex.Message +
+                                          " was encountered while attempting to roll back the transaction.");
+                    }
+                }
+                MessageBox.Show("An exception of type " + ex1.Message +
+                   " was encountered while inserting the data.");
+                MessageBox.Show("Neither record was written to database.");
+            }
+            finally
+            {
+                CloseConnection();
+            }
+        }
+
+        public void Grant_Limited_Access(string username, string password, string queries, string updates, string connections, string users, string host)
+        {
+            OpenConnection();
+            MySqlCommand myCommand = connection.CreateCommand();
+            MySqlTransaction myTrans;
+            myTrans = connection.BeginTransaction();
+            try
+            {
+                myCommand.Connection = connection;
+                myCommand.Transaction = myTrans;
+
+                myCommand.CommandText = "CREATE USER @username @" + "'" + host + "' IDENTIFIED BY @some_pass;";
+                myCommand.Parameters.AddWithValue("@username", username);
+                myCommand.Parameters.AddWithValue("@some_pass", password);
+                myCommand.ExecuteNonQuery();
+
+                myCommand.CommandText = "GRANT ALL PRIVILEGES ON tweakker_database.* TO @user@" + "'" + host + "' WITH MAX_QUERIES_PER_HOUR @queries MAX_UPDATES_PER_HOUR @updates MAX_CONNECTIONS_PER_HOUR @connections MAX_USER_CONNECTIONS @users;";
+                myCommand.Parameters.AddWithValue("@user", username);
+                myCommand.Parameters.AddWithValue("@queries", queries);
+                myCommand.Parameters.AddWithValue("@updates", updates);
+                myCommand.Parameters.AddWithValue("@connections", connections);
+                myCommand.Parameters.AddWithValue("@users", users);
+
+                myCommand.ExecuteNonQuery();
+
+
+                myCommand.CommandText = " FLUSH PRIVILEGES;";
+                myCommand.ExecuteNonQuery();
+
+                myTrans.Commit();
+
+                MessageBox.Show("Access Granted");
+            }
+            catch (Exception ex1)
+            {
+                try
+                {
+                    myTrans.Rollback();
+                }
+                catch (MySqlException ex)
+                {
+                    if (myTrans.Connection != null)
+                    {
+                        MessageBox.Show("An exception of type " + ex.Message +
+                                          " was encountered while attempting to roll back the transaction.");
+                    }
+                }
+                MessageBox.Show("An exception of type " + ex1.Message +
+                   " was encountered while inserting the data.");
+                MessageBox.Show("Neither record was written to database.");
+            }
+            finally
+            {
+                CloseConnection();
+            }
+        }
 
         public void PopulateDataGrid(System.Windows.Controls.DataGrid datagrid_parameters, int p)
         {
@@ -405,55 +565,55 @@ namespace Tweakker_DB_System
 
         public void DeleteSetting(int p)
         {
-           connection.Open();
-                MySqlCommand myCommand = connection.CreateCommand();
-                MySqlTransaction myTrans;
-                myTrans = connection.BeginTransaction();
-                myCommand.Connection = connection;
-                myCommand.Transaction = myTrans;
+            connection.Open();
+            MySqlCommand myCommand = connection.CreateCommand();
+            MySqlTransaction myTrans;
+            myTrans = connection.BeginTransaction();
+            myCommand.Connection = connection;
+            myCommand.Transaction = myTrans;
 
+            try
+            {
+
+                myCommand.CommandText = "DELETE FROM setting_parameters WHERE setting_id = @setting_id;";
+                myCommand.Parameters.AddWithValue("@setting_id", p);
+                myCommand.ExecuteNonQuery();
+
+
+                myCommand.CommandText = "DELETE FROM setting WHERE setting_id = @set_id;";
+                myCommand.Parameters.AddWithValue("@set_id", p);
+                myCommand.ExecuteNonQuery();
+
+                myTrans.Commit();
+
+
+            }
+            catch (Exception e)
+            {
                 try
                 {
-
-                    myCommand.CommandText = "DELETE FROM setting_parameters WHERE setting_id = @setting_id;";
-                    myCommand.Parameters.AddWithValue("@setting_id",p);
-                    myCommand.ExecuteNonQuery();
-              
-
-                    myCommand.CommandText = "DELETE FROM setting WHERE setting_id = @set_id;";
-                    myCommand.Parameters.AddWithValue("@set_id", p);
-                               myCommand.ExecuteNonQuery();
-
-                    myTrans.Commit();
-            
-
-               }
-                catch (Exception e)
-                {
-                    try
-                    {
-                        myTrans.Rollback();
-                    }
-                    catch (MySqlException ex)
-                    {
-                        if (myTrans.Connection != null)
-                        {
-                            MessageBox.Show("An exception of type " + ex.GetType() +
-                                              " was encountered while attempting to roll back the transaction.");
-                        }
-                    }
-
-                     MessageBox.Show("An exception of type " + e.GetType() +
-                                      " was encountered while inserting the data.");
-                    MessageBox.Show("Neither record was written to database.");
+                    myTrans.Rollback();
                 }
-                finally
+                catch (MySqlException ex)
                 {
-                    connection.Close();
-                    MessageBox.Show("Setting Deleted!");
+                    if (myTrans.Connection != null)
+                    {
+                        MessageBox.Show("An exception of type " + ex.GetType() +
+                                          " was encountered while attempting to roll back the transaction.");
+                    }
                 }
-            
-            
+
+                MessageBox.Show("An exception of type " + e.GetType() +
+                                 " was encountered while inserting the data.");
+                MessageBox.Show("Neither record was written to database.");
+            }
+            finally
+            {
+                connection.Close();
+                MessageBox.Show("Setting Deleted!");
+            }
+
+
 
         }
         public string GetNoteBySettingID(int p)
@@ -467,8 +627,8 @@ namespace Tweakker_DB_System
                 MySqlDataReader reader = cmd.ExecuteReader();
                 while (reader.Read())
                 {
-                     setting_text = (string)reader[0];
-                   
+                    setting_text = (string)reader[0];
+
                 }
                 reader.Close();
             }
@@ -481,7 +641,7 @@ namespace Tweakker_DB_System
                 connection.Close();
             }
             return setting_text;
-           
+
         }
 
 
@@ -553,8 +713,8 @@ namespace Tweakker_DB_System
                         }
                     }
 
-                     MessageBox.Show("An exception of type " + e.GetType() +
-                                      " was encountered while inserting the data.");
+                    MessageBox.Show("An exception of type " + e.GetType() +
+                                     " was encountered while inserting the data.");
                     MessageBox.Show("Neither record was written to database.");
                 }
                 finally
@@ -833,6 +993,7 @@ namespace Tweakker_DB_System
 
 
 
-    
+
+
     }
 }

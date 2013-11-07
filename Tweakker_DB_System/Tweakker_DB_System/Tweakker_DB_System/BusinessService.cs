@@ -76,6 +76,22 @@ namespace Tweakker_DB_System
                return DataAccess.Instance.GetNoteBySettingID(p);
 
            }
+
+           public void Grant_Full_Access(string username, string password,string host)
+           {
+               DataAccess.Instance.Grant_Full_Access(username, password, host);
+           }
+
+           public void Grant_ReadOnly_Access(string username, string password)
+           {
+               DataAccess.Instance.Grant_ReadOnly_Access(username, password);
+           }
+
+           public void Grant_Limited_Access(string username, string password, string queries, string updates, string connections, string users, string host)
+           {
+               DataAccess.Instance.Grant_Limited_Access(username, password, queries, updates, connections, users, host);
+           }
+
            public void SaveSetting_BookmarkParameters(int current_country_id, string network_name, string mcc, string mnc, string ranking, int ismno, string setting_name, string setting_alternative_name, string bookmark_name, string bookmark_url, string bookmark_pin)
            {
                DataAccess.Instance.SaveSettings_BookmarkParameters(current_country_id, network_name, mcc, mnc, ranking, ismno, setting_name, setting_alternative_name, bookmark_name, bookmark_url, bookmark_pin);
@@ -136,6 +152,8 @@ namespace Tweakker_DB_System
 
 
 
-      
+
+
+       
     }
 }

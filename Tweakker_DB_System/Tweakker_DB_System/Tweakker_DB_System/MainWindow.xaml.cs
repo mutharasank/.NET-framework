@@ -28,7 +28,7 @@ namespace Tweakker_DB_System
         ObservableCollection<Country> countries = new ObservableCollection<Country>();
         int current_country_id;
         Country country;
-
+        
         public MainWindow()
         {
             InitializeComponent();
@@ -95,6 +95,15 @@ namespace Tweakker_DB_System
             cbx_Countries_tab2.ItemsSource = countries;
             cbx_Countries_tab2.DataContext = countries;
             cbx_Countries_tab2.DisplayMemberPath = "name";
+
+            //access level logic
+            List<String>levels = new List<String>();
+            levels.Add("Full Database Access");
+            levels.Add("Limited Database Access");
+            levels.Add("Read-Only Database Access");
+
+            cbx_access_level.ItemsSource = levels;
+            cbx_access_level.DataContext = levels;
         }
 
         private void ComboBox_SelectionChanged_1(object sender, SelectionChangedEventArgs e)
@@ -339,5 +348,31 @@ namespace Tweakker_DB_System
 
         }
 
+        private void btn_Grant_Click_1(object sender, RoutedEventArgs e)
+        {
+            String username = txt_username.Text;
+            String password = txt_password.Text;
+            String queries = txt_max_queries.Text;
+            String updates = txt_max_updates.Text;
+            String connections = txt_max_con_perhour.Text;
+            String users = max_user_con.Text;
+            String host = txt_host.Text;
+
+            String level = cbx_access_level.SelectedItem.ToString();
+
+            if (level.Equals("Limited Database Access"))
+            {
+                BusinessService.Instance.Grant_Limited_Access(username,password,queries,updates,connections,users,host);
+            }
+            if (level.Equals("Read-Only Database Access"))
+            {
+                BusinessService.Instance.Grant_ReadOnly_Access(username, password);
+            }
+            if (level.Equals("Full Database Access")) 
+            {
+                BusinessService.Instance.Grant_Full_Access(username, password,host);
+            }
+
+        }
     }
 }
